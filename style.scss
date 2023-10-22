@@ -1,0 +1,1609 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?47csof') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?47csof') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?47csof##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.social-icons {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  
+  /* Enable Ligatures ================ */
+  letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.soc-500px {
+  &:before {
+    content: $soc-500px; 
+  }
+}
+.soc-8tracks {
+  &:before {
+    content: $soc-8tracks; 
+  }
+}
+.soc-9gag {
+  &:before {
+    content: $soc-9gag; 
+  }
+}
+.soc-airbnb {
+  &:before {
+    content: $soc-airbnb; 
+  }
+}
+.soc-alibaba {
+  &:before {
+    content: $soc-alibaba; 
+  }
+}
+.soc-aliexpress {
+  &:before {
+    content: $soc-aliexpress; 
+  }
+}
+.soc-alliance {
+  &:before {
+    content: $soc-alliance; 
+  }
+}
+.soc-amazon {
+  &:before {
+    content: $soc-amazon; 
+  }
+}
+.soc-amplement {
+  &:before {
+    content: $soc-amplement; 
+  }
+}
+.soc-android {
+  &:before {
+    content: $soc-android; 
+  }
+}
+.soc-angellist {
+  &:before {
+    content: $soc-angellist; 
+  }
+}
+.soc-angieslist {
+  &:before {
+    content: $soc-angieslist; 
+  }
+}
+.soc-apple {
+  &:before {
+    content: $soc-apple; 
+  }
+}
+.soc-appnet {
+  &:before {
+    content: $soc-appnet; 
+  }
+}
+.soc-appstore {
+  &:before {
+    content: $soc-appstore; 
+  }
+}
+.soc-artfight {
+  &:before {
+    content: $soc-artfight; 
+  }
+}
+.soc-artfol {
+  &:before {
+    content: $soc-artfol; 
+  }
+}
+.soc-artstation {
+  &:before {
+    content: $soc-artstation; 
+  }
+}
+.soc-ask {
+  &:before {
+    content: $soc-ask; 
+  }
+}
+.soc-augment {
+  &:before {
+    content: $soc-augment; 
+  }
+}
+.soc-avvo {
+  &:before {
+    content: $soc-avvo; 
+  }
+}
+.soc-baidu {
+  &:before {
+    content: $soc-baidu; 
+  }
+}
+.soc-bale {
+  &:before {
+    content: $soc-bale; 
+  }
+}
+.soc-bandcamp {
+  &:before {
+    content: $soc-bandcamp; 
+  }
+}
+.soc-battlenet {
+  &:before {
+    content: $soc-battlenet; 
+  }
+}
+.soc-beatport {
+  &:before {
+    content: $soc-beatport; 
+  }
+}
+.soc-bebee {
+  &:before {
+    content: $soc-bebee; 
+  }
+}
+.soc-bebo {
+  &:before {
+    content: $soc-bebo; 
+  }
+}
+.soc-behance {
+  &:before {
+    content: $soc-behance; 
+  }
+}
+.soc-bing {
+  &:before {
+    content: $soc-bing; 
+  }
+}
+.soc-bitbucket {
+  &:before {
+    content: $soc-bitbucket; 
+  }
+}
+.soc-blackberry {
+  &:before {
+    content: $soc-blackberry; 
+  }
+}
+.soc-blizzard {
+  &:before {
+    content: $soc-blizzard; 
+  }
+}
+.soc-blogger {
+  &:before {
+    content: $soc-blogger; 
+  }
+}
+.soc-bloglovin {
+  &:before {
+    content: $soc-bloglovin; 
+  }
+}
+.soc-bluesky {
+  &:before {
+    content: $soc-bluesky; 
+  }
+}
+.soc-bluesky-alt {
+  &:before {
+    content: $soc-bluesky-alt; 
+  }
+}
+.soc-bonanza {
+  &:before {
+    content: $soc-bonanza; 
+  }
+}
+.soc-bookbub {
+  &:before {
+    content: $soc-bookbub; 
+  }
+}
+.soc-booking {
+  &:before {
+    content: $soc-booking; 
+  }
+}
+.soc-buffer {
+  &:before {
+    content: $soc-buffer; 
+  }
+}
+.soc-calendly {
+  &:before {
+    content: $soc-calendly; 
+  }
+}
+.soc-carrd {
+  &:before {
+    content: $soc-carrd; 
+  }
+}
+.soc-cdbaby {
+  &:before {
+    content: $soc-cdbaby; 
+  }
+}
+.soc-chrome {
+  &:before {
+    content: $soc-chrome; 
+  }
+}
+.soc-codepen {
+  &:before {
+    content: $soc-codepen; 
+  }
+}
+.soc-codered {
+  &:before {
+    content: $soc-codered; 
+  }
+}
+.soc-coderwall {
+  &:before {
+    content: $soc-coderwall; 
+  }
+}
+.soc-collectorz {
+  &:before {
+    content: $soc-collectorz; 
+  }
+}
+.soc-craigslist {
+  &:before {
+    content: $soc-craigslist; 
+  }
+}
+.soc-crunchbase {
+  &:before {
+    content: $soc-crunchbase; 
+  }
+}
+.soc-curiouscat {
+  &:before {
+    content: $soc-curiouscat; 
+  }
+}
+.soc-curse {
+  &:before {
+    content: $soc-curse; 
+  }
+}
+.soc-dailymotion {
+  &:before {
+    content: $soc-dailymotion; 
+  }
+}
+.soc-debian {
+  &:before {
+    content: $soc-debian; 
+  }
+}
+.soc-deezer {
+  &:before {
+    content: $soc-deezer; 
+  }
+}
+.soc-delicious {
+  &:before {
+    content: $soc-delicious; 
+  }
+}
+.soc-deviantart {
+  &:before {
+    content: $soc-deviantart; 
+  }
+}
+.soc-diablo {
+  &:before {
+    content: $soc-diablo; 
+  }
+}
+.soc-digg {
+  &:before {
+    content: $soc-digg; 
+  }
+}
+.soc-discord {
+  &:before {
+    content: $soc-discord; 
+  }
+}
+.soc-disqus {
+  &:before {
+    content: $soc-disqus; 
+  }
+}
+.soc-dlive {
+  &:before {
+    content: $soc-dlive; 
+  }
+}
+.soc-doodle {
+  &:before {
+    content: $soc-doodle; 
+  }
+}
+.soc-douban {
+  &:before {
+    content: $soc-douban; 
+  }
+}
+.soc-draugiem {
+  &:before {
+    content: $soc-draugiem; 
+  }
+}
+.soc-dribbble {
+  &:before {
+    content: $soc-dribbble; 
+  }
+}
+.soc-drupal {
+  &:before {
+    content: $soc-drupal; 
+  }
+}
+.soc-ebay {
+  &:before {
+    content: $soc-ebay; 
+  }
+}
+.soc-eitaa {
+  &:before {
+    content: $soc-eitaa; 
+  }
+}
+.soc-elementaryos {
+  &:before {
+    content: $soc-elementaryos; 
+  }
+}
+.soc-ello {
+  &:before {
+    content: $soc-ello; 
+  }
+}
+.soc-endomodo {
+  &:before {
+    content: $soc-endomodo; 
+  }
+}
+.soc-envato {
+  &:before {
+    content: $soc-envato; 
+  }
+}
+.soc-etsy {
+  &:before {
+    content: $soc-etsy; 
+  }
+}
+.soc-facebook {
+  &:before {
+    content: $soc-facebook; 
+  }
+}
+.soc-feedburner {
+  &:before {
+    content: $soc-feedburner; 
+  }
+}
+.soc-filmfreeway {
+  &:before {
+    content: $soc-filmfreeway; 
+  }
+}
+.soc-filmweb {
+  &:before {
+    content: $soc-filmweb; 
+  }
+}
+.soc-firefox {
+  &:before {
+    content: $soc-firefox; 
+  }
+}
+.soc-fiverr {
+  &:before {
+    content: $soc-fiverr; 
+  }
+}
+.soc-flattr {
+  &:before {
+    content: $soc-flattr; 
+  }
+}
+.soc-flickr {
+  &:before {
+    content: $soc-flickr; 
+  }
+}
+.soc-flipboard {
+  &:before {
+    content: $soc-flipboard; 
+  }
+}
+.soc-flowcode {
+  &:before {
+    content: $soc-flowcode; 
+  }
+}
+.soc-formulr {
+  &:before {
+    content: $soc-formulr; 
+  }
+}
+.soc-forrst {
+  &:before {
+    content: $soc-forrst; 
+  }
+}
+.soc-foursquare {
+  &:before {
+    content: $soc-foursquare; 
+  }
+}
+.soc-freelancer {
+  &:before {
+    content: $soc-freelancer; 
+  }
+}
+.soc-friendfeed {
+  &:before {
+    content: $soc-friendfeed; 
+  }
+}
+.soc-fundable {
+  &:before {
+    content: $soc-fundable; 
+  }
+}
+.soc-furaffinity {
+  &:before {
+    content: $soc-furaffinity; 
+  }
+}
+.soc-fyuse {
+  &:before {
+    content: $soc-fyuse; 
+  }
+}
+.soc-gamefor {
+  &:before {
+    content: $soc-gamefor; 
+  }
+}
+.soc-gamejolt {
+  &:before {
+    content: $soc-gamejolt; 
+  }
+}
+.soc-gamewisp {
+  &:before {
+    content: $soc-gamewisp; 
+  }
+}
+.soc-ghost {
+  &:before {
+    content: $soc-ghost; 
+  }
+}
+.soc-github {
+  &:before {
+    content: $soc-github; 
+  }
+}
+.soc-gitlab {
+  &:before {
+    content: $soc-gitlab; 
+  }
+}
+.soc-gitter {
+  &:before {
+    content: $soc-gitter; 
+  }
+}
+.soc-gnome {
+  &:before {
+    content: $soc-gnome; 
+  }
+}
+.soc-goodreads {
+  &:before {
+    content: $soc-goodreads; 
+  }
+}
+.soc-google {
+  &:before {
+    content: $soc-google; 
+  }
+}
+.soc-googlecalendar {
+  &:before {
+    content: $soc-googlecalendar; 
+  }
+}
+.soc-googlegroups {
+  &:before {
+    content: $soc-googlegroups; 
+  }
+}
+.soc-googlehangouts {
+  &:before {
+    content: $soc-googlehangouts; 
+  }
+}
+.soc-googlemaps {
+  &:before {
+    content: $soc-googlemaps; 
+  }
+}
+.soc-googlephotos {
+  &:before {
+    content: $soc-googlephotos; 
+  }
+}
+.soc-googleplaymusic {
+  &:before {
+    content: $soc-googleplaymusic; 
+  }
+}
+.soc-googleplus {
+  &:before {
+    content: $soc-googleplus; 
+  }
+}
+.soc-googlescholar {
+  &:before {
+    content: $soc-googlescholar; 
+  }
+}
+.soc-gotomeeting {
+  &:before {
+    content: $soc-gotomeeting; 
+  }
+}
+.soc-grooveshark {
+  &:before {
+    content: $soc-grooveshark; 
+  }
+}
+.soc-guru {
+  &:before {
+    content: $soc-guru; 
+  }
+}
+.soc-gust {
+  &:before {
+    content: $soc-gust; 
+  }
+}
+.soc-hackernews {
+  &:before {
+    content: $soc-hackernews; 
+  }
+}
+.soc-hackerone {
+  &:before {
+    content: $soc-hackerone; 
+  }
+}
+.soc-hackerrank {
+  &:before {
+    content: $soc-hackerrank; 
+  }
+}
+.soc-hearthstone {
+  &:before {
+    content: $soc-hearthstone; 
+  }
+}
+.soc-hellocoton {
+  &:before {
+    content: $soc-hellocoton; 
+  }
+}
+.soc-heroes {
+  &:before {
+    content: $soc-heroes; 
+  }
+}
+.soc-homeadvisor {
+  &:before {
+    content: $soc-homeadvisor; 
+  }
+}
+.soc-homefy {
+  &:before {
+    content: $soc-homefy; 
+  }
+}
+.soc-homes {
+  &:before {
+    content: $soc-homes; 
+  }
+}
+.soc-horde {
+  &:before {
+    content: $soc-horde; 
+  }
+}
+.soc-houzz {
+  &:before {
+    content: $soc-houzz; 
+  }
+}
+.soc-icq {
+  &:before {
+    content: $soc-icq; 
+  }
+}
+.soc-identica {
+  &:before {
+    content: $soc-identica; 
+  }
+}
+.soc-imdb {
+  &:before {
+    content: $soc-imdb; 
+  }
+}
+.soc-indiedb {
+  &:before {
+    content: $soc-indiedb; 
+  }
+}
+.soc-instagram {
+  &:before {
+    content: $soc-instagram; 
+  }
+}
+.soc-instructables {
+  &:before {
+    content: $soc-instructables; 
+  }
+}
+.soc-internet {
+  &:before {
+    content: $soc-internet; 
+  }
+}
+.soc-invision {
+  &:before {
+    content: $soc-invision; 
+  }
+}
+.soc-issuu {
+  &:before {
+    content: $soc-issuu; 
+  }
+}
+.soc-istock {
+  &:before {
+    content: $soc-istock; 
+  }
+}
+.soc-itchio {
+  &:before {
+    content: $soc-itchio; 
+  }
+}
+.soc-itunes {
+  &:before {
+    content: $soc-itunes; 
+  }
+}
+.soc-jamendo {
+  &:before {
+    content: $soc-jamendo; 
+  }
+}
+.soc-keybase {
+  &:before {
+    content: $soc-keybase; 
+  }
+}
+.soc-kobo {
+  &:before {
+    content: $soc-kobo; 
+  }
+}
+.soc-kofi {
+  &:before {
+    content: $soc-kofi; 
+  }
+}
+.soc-lanyrd {
+  &:before {
+    content: $soc-lanyrd; 
+  }
+}
+.soc-lastfm {
+  &:before {
+    content: $soc-lastfm; 
+  }
+}
+.soc-letterboxd {
+  &:before {
+    content: $soc-letterboxd; 
+  }
+}
+.soc-line {
+  &:before {
+    content: $soc-line; 
+  }
+}
+.soc-linkedin {
+  &:before {
+    content: $soc-linkedin; 
+  }
+}
+.soc-linktree {
+  &:before {
+    content: $soc-linktree; 
+  }
+}
+.soc-livejournal {
+  &:before {
+    content: $soc-livejournal; 
+  }
+}
+.soc-livemaster {
+  &:before {
+    content: $soc-livemaster; 
+  }
+}
+.soc-logmein {
+  &:before {
+    content: $soc-logmein; 
+  }
+}
+.soc-loomly {
+  &:before {
+    content: $soc-loomly; 
+  }
+}
+.soc-lyft {
+  &:before {
+    content: $soc-lyft; 
+  }
+}
+.soc-macos {
+  &:before {
+    content: $soc-macos; 
+  }
+}
+.soc-mail {
+  &:before {
+    content: $soc-mail; 
+  }
+}
+.soc-mailru {
+  &:before {
+    content: $soc-mailru; 
+  }
+}
+.soc-mastodon {
+  &:before {
+    content: $soc-mastodon; 
+  }
+}
+.soc-medium {
+  &:before {
+    content: $soc-medium; 
+  }
+}
+.soc-meetup {
+  &:before {
+    content: $soc-meetup; 
+  }
+}
+.soc-messenger {
+  &:before {
+    content: $soc-messenger; 
+  }
+}
+.soc-metapop {
+  &:before {
+    content: $soc-metapop; 
+  }
+}
+.soc-microsoft {
+  &:before {
+    content: $soc-microsoft; 
+  }
+}
+.soc-mix {
+  &:before {
+    content: $soc-mix; 
+  }
+}
+.soc-mixcloud {
+  &:before {
+    content: $soc-mixcloud; 
+  }
+}
+.soc-mixer {
+  &:before {
+    content: $soc-mixer; 
+  }
+}
+.soc-mobcrush {
+  &:before {
+    content: $soc-mobcrush; 
+  }
+}
+.soc-moddb {
+  &:before {
+    content: $soc-moddb; 
+  }
+}
+.soc-modelmayhem {
+  &:before {
+    content: $soc-modelmayhem; 
+  }
+}
+.soc-mumble {
+  &:before {
+    content: $soc-mumble; 
+  }
+}
+.soc-myanimelist {
+  &:before {
+    content: $soc-myanimelist; 
+  }
+}
+.soc-myspace {
+  &:before {
+    content: $soc-myspace; 
+  }
+}
+.soc-napster {
+  &:before {
+    content: $soc-napster; 
+  }
+}
+.soc-natgeo {
+  &:before {
+    content: $soc-natgeo; 
+  }
+}
+.soc-naver {
+  &:before {
+    content: $soc-naver; 
+  }
+}
+.soc-newgrounds {
+  &:before {
+    content: $soc-newgrounds; 
+  }
+}
+.soc-newsvine {
+  &:before {
+    content: $soc-newsvine; 
+  }
+}
+.soc-nextdoor {
+  &:before {
+    content: $soc-nextdoor; 
+  }
+}
+.soc-niconico {
+  &:before {
+    content: $soc-niconico; 
+  }
+}
+.soc-nintendo {
+  &:before {
+    content: $soc-nintendo; 
+  }
+}
+.soc-npm {
+  &:before {
+    content: $soc-npm; 
+  }
+}
+.soc-odnoklassniki {
+  &:before {
+    content: $soc-odnoklassniki; 
+  }
+}
+.soc-openaigym {
+  &:before {
+    content: $soc-openaigym; 
+  }
+}
+.soc-openid {
+  &:before {
+    content: $soc-openid; 
+  }
+}
+.soc-opera {
+  &:before {
+    content: $soc-opera; 
+  }
+}
+.soc-origin {
+  &:before {
+    content: $soc-origin; 
+  }
+}
+.soc-outlook {
+  &:before {
+    content: $soc-outlook; 
+  }
+}
+.soc-overwatch {
+  &:before {
+    content: $soc-overwatch; 
+  }
+}
+.soc-pandora {
+  &:before {
+    content: $soc-pandora; 
+  }
+}
+.soc-patreon {
+  &:before {
+    content: $soc-patreon; 
+  }
+}
+.soc-paypal {
+  &:before {
+    content: $soc-paypal; 
+  }
+}
+.soc-periscope {
+  &:before {
+    content: $soc-periscope; 
+  }
+}
+.soc-persona {
+  &:before {
+    content: $soc-persona; 
+  }
+}
+.soc-pinterest {
+  &:before {
+    content: $soc-pinterest; 
+  }
+}
+.soc-pixiv {
+  &:before {
+    content: $soc-pixiv; 
+  }
+}
+.soc-play {
+  &:before {
+    content: $soc-play; 
+  }
+}
+.soc-player {
+  &:before {
+    content: $soc-player; 
+  }
+}
+.soc-playstation {
+  &:before {
+    content: $soc-playstation; 
+  }
+}
+.soc-pocket {
+  &:before {
+    content: $soc-pocket; 
+  }
+}
+.soc-portfolio {
+  &:before {
+    content: $soc-portfolio; 
+  }
+}
+.soc-qobuz {
+  &:before {
+    content: $soc-qobuz; 
+  }
+}
+.soc-qq {
+  &:before {
+    content: $soc-qq; 
+  }
+}
+.soc-quora {
+  &:before {
+    content: $soc-quora; 
+  }
+}
+.soc-raidcall {
+  &:before {
+    content: $soc-raidcall; 
+  }
+}
+.soc-ravelry {
+  &:before {
+    content: $soc-ravelry; 
+  }
+}
+.soc-realtor {
+  &:before {
+    content: $soc-realtor; 
+  }
+}
+.soc-redbubble {
+  &:before {
+    content: $soc-redbubble; 
+  }
+}
+.soc-reddit {
+  &:before {
+    content: $soc-reddit; 
+  }
+}
+.soc-redfin {
+  &:before {
+    content: $soc-redfin; 
+  }
+}
+.soc-remote {
+  &:before {
+    content: $soc-remote; 
+  }
+}
+.soc-renren {
+  &:before {
+    content: $soc-renren; 
+  }
+}
+.soc-researchgate {
+  &:before {
+    content: $soc-researchgate; 
+  }
+}
+.soc-residentadvisor {
+  &:before {
+    content: $soc-residentadvisor; 
+  }
+}
+.soc-reverbnation {
+  &:before {
+    content: $soc-reverbnation; 
+  }
+}
+.soc-rss {
+  &:before {
+    content: $soc-rss; 
+  }
+}
+.soc-seedrs {
+  &:before {
+    content: $soc-seedrs; 
+  }
+}
+.soc-seenthis {
+  &:before {
+    content: $soc-seenthis; 
+  }
+}
+.soc-sharepoint {
+  &:before {
+    content: $soc-sharepoint; 
+  }
+}
+.soc-sharethis {
+  &:before {
+    content: $soc-sharethis; 
+  }
+}
+.soc-sheezyart {
+  &:before {
+    content: $soc-sheezyart; 
+  }
+}
+.soc-shopify {
+  &:before {
+    content: $soc-shopify; 
+  }
+}
+.soc-sketchfab {
+  &:before {
+    content: $soc-sketchfab; 
+  }
+}
+.soc-skype {
+  &:before {
+    content: $soc-skype; 
+  }
+}
+.soc-slack {
+  &:before {
+    content: $soc-slack; 
+  }
+}
+.soc-slideshare {
+  &:before {
+    content: $soc-slideshare; 
+  }
+}
+.soc-smashcast {
+  &:before {
+    content: $soc-smashcast; 
+  }
+}
+.soc-smashwords {
+  &:before {
+    content: $soc-smashwords; 
+  }
+}
+.soc-smugmug {
+  &:before {
+    content: $soc-smugmug; 
+  }
+}
+.soc-snapchat {
+  &:before {
+    content: $soc-snapchat; 
+  }
+}
+.soc-society6 {
+  &:before {
+    content: $soc-society6; 
+  }
+}
+.soc-songkick {
+  &:before {
+    content: $soc-songkick; 
+  }
+}
+.soc-soroush {
+  &:before {
+    content: $soc-soroush; 
+  }
+}
+.soc-soundcloud {
+  &:before {
+    content: $soc-soundcloud; 
+  }
+}
+.soc-spip {
+  &:before {
+    content: $soc-spip; 
+  }
+}
+.soc-splice {
+  &:before {
+    content: $soc-splice; 
+  }
+}
+.soc-spotify {
+  &:before {
+    content: $soc-spotify; 
+  }
+}
+.soc-spreadshirt {
+  &:before {
+    content: $soc-spreadshirt; 
+  }
+}
+.soc-squarespace {
+  &:before {
+    content: $soc-squarespace; 
+  }
+}
+.soc-stackexchange {
+  &:before {
+    content: $soc-stackexchange; 
+  }
+}
+.soc-stackoverflow {
+  &:before {
+    content: $soc-stackoverflow; 
+  }
+}
+.soc-stage32 {
+  &:before {
+    content: $soc-stage32; 
+  }
+}
+.soc-starcraft {
+  &:before {
+    content: $soc-starcraft; 
+  }
+}
+.soc-stayfriends {
+  &:before {
+    content: $soc-stayfriends; 
+  }
+}
+.soc-steam {
+  &:before {
+    content: $soc-steam; 
+  }
+}
+.soc-stitcher {
+  &:before {
+    content: $soc-stitcher; 
+  }
+}
+.soc-storehouse {
+  &:before {
+    content: $soc-storehouse; 
+  }
+}
+.soc-strava {
+  &:before {
+    content: $soc-strava; 
+  }
+}
+.soc-streamjar {
+  &:before {
+    content: $soc-streamjar; 
+  }
+}
+.soc-stumbleupon {
+  &:before {
+    content: $soc-stumbleupon; 
+  }
+}
+.soc-swarm {
+  &:before {
+    content: $soc-swarm; 
+  }
+}
+.soc-teamspeak {
+  &:before {
+    content: $soc-teamspeak; 
+  }
+}
+.soc-teamviewer {
+  &:before {
+    content: $soc-teamviewer; 
+  }
+}
+.soc-technorati {
+  &:before {
+    content: $soc-technorati; 
+  }
+}
+.soc-telegram {
+  &:before {
+    content: $soc-telegram; 
+  }
+}
+.soc-threema {
+  &:before {
+    content: $soc-threema; 
+  }
+}
+.soc-tidal {
+  &:before {
+    content: $soc-tidal; 
+  }
+}
+.soc-tiktok {
+  &:before {
+    content: $soc-tiktok; 
+  }
+}
+.soc-tinder {
+  &:before {
+    content: $soc-tinder; 
+  }
+}
+.soc-toneden {
+  &:before {
+    content: $soc-toneden; 
+  }
+}
+.soc-toptal {
+  &:before {
+    content: $soc-toptal; 
+  }
+}
+.soc-torial {
+  &:before {
+    content: $soc-torial; 
+  }
+}
+.soc-toyhouse {
+  &:before {
+    content: $soc-toyhouse; 
+  }
+}
+.soc-traxsource {
+  &:before {
+    content: $soc-traxsource; 
+  }
+}
+.soc-trello {
+  &:before {
+    content: $soc-trello; 
+  }
+}
+.soc-tripadvisor {
+  &:before {
+    content: $soc-tripadvisor; 
+  }
+}
+.soc-tripit {
+  &:before {
+    content: $soc-tripit; 
+  }
+}
+.soc-triplej {
+  &:before {
+    content: $soc-triplej; 
+  }
+}
+.soc-trulia {
+  &:before {
+    content: $soc-trulia; 
+  }
+}
+.soc-tumblr {
+  &:before {
+    content: $soc-tumblr; 
+  }
+}
+.soc-tunein {
+  &:before {
+    content: $soc-tunein; 
+  }
+}
+.soc-twitch {
+  &:before {
+    content: $soc-twitch; 
+  }
+}
+.soc-uber {
+  &:before {
+    content: $soc-uber; 
+  }
+}
+.soc-ubuntu {
+  &:before {
+    content: $soc-ubuntu; 
+  }
+}
+.soc-udemy {
+  &:before {
+    content: $soc-udemy; 
+  }
+}
+.soc-unsplash {
+  &:before {
+    content: $soc-unsplash; 
+  }
+}
+.soc-upwork {
+  &:before {
+    content: $soc-upwork; 
+  }
+}
+.soc-ventrilo {
+  &:before {
+    content: $soc-ventrilo; 
+  }
+}
+.soc-viadeo {
+  &:before {
+    content: $soc-viadeo; 
+  }
+}
+.soc-viber {
+  &:before {
+    content: $soc-viber; 
+  }
+}
+.soc-viewbug {
+  &:before {
+    content: $soc-viewbug; 
+  }
+}
+.soc-vimeo {
+  &:before {
+    content: $soc-vimeo; 
+  }
+}
+.soc-vine {
+  &:before {
+    content: $soc-vine; 
+  }
+}
+.soc-vkontakte {
+  &:before {
+    content: $soc-vkontakte; 
+  }
+}
+.soc-vsco {
+  &:before {
+    content: $soc-vsco; 
+  }
+}
+.soc-warcraft {
+  &:before {
+    content: $soc-warcraft; 
+  }
+}
+.soc-wechat {
+  &:before {
+    content: $soc-wechat; 
+  }
+}
+.soc-weibo {
+  &:before {
+    content: $soc-weibo; 
+  }
+}
+.soc-whatsapp {
+  &:before {
+    content: $soc-whatsapp; 
+  }
+}
+.soc-wickr {
+  &:before {
+    content: $soc-wickr; 
+  }
+}
+.soc-wikipedia {
+  &:before {
+    content: $soc-wikipedia; 
+  }
+}
+.soc-windguru {
+  &:before {
+    content: $soc-windguru; 
+  }
+}
+.soc-windows {
+  &:before {
+    content: $soc-windows; 
+  }
+}
+.soc-wix {
+  &:before {
+    content: $soc-wix; 
+  }
+}
+.soc-wordpress {
+  &:before {
+    content: $soc-wordpress; 
+  }
+}
+.soc-wykop {
+  &:before {
+    content: $soc-wykop; 
+  }
+}
+.soc-x {
+  &:before {
+    content: $soc-x; 
+  }
+}
+.soc-twitter {
+  &:before {
+    content: $soc-twitter; 
+  }
+}
+.soc-twitter-x {
+  &:before {
+    content: $soc-twitter-x; 
+  }
+}
+.soc-x-twitter {
+  &:before {
+    content: $soc-x-twitter; 
+  }
+}
+.soc-xbox {
+  &:before {
+    content: $soc-xbox; 
+  }
+}
+.soc-xing {
+  &:before {
+    content: $soc-xing; 
+  }
+}
+.soc-yahoo {
+  &:before {
+    content: $soc-yahoo; 
+  }
+}
+.soc-yammer {
+  &:before {
+    content: $soc-yammer; 
+  }
+}
+.soc-yandex {
+  &:before {
+    content: $soc-yandex; 
+  }
+}
+.soc-yelp {
+  &:before {
+    content: $soc-yelp; 
+  }
+}
+.soc-younow {
+  &:before {
+    content: $soc-younow; 
+  }
+}
+.soc-youtube {
+  &:before {
+    content: $soc-youtube; 
+  }
+}
+.soc-yt-gaming {
+  &:before {
+    content: $soc-yt-gaming; 
+  }
+}
+.soc-zapier {
+  &:before {
+    content: $soc-zapier; 
+  }
+}
+.soc-zazzle {
+  &:before {
+    content: $soc-zazzle; 
+  }
+}
+.soc-zerply {
+  &:before {
+    content: $soc-zerply; 
+  }
+}
+.soc-zillow {
+  &:before {
+    content: $soc-zillow; 
+  }
+}
+.soc-zomato {
+  &:before {
+    content: $soc-zomato; 
+  }
+}
+.soc-zoom {
+  &:before {
+    content: $soc-zoom; 
+  }
+}
+.soc-zynga {
+  &:before {
+    content: $soc-zynga; 
+  }
+}
+
