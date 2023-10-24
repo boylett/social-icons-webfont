@@ -3,9 +3,9 @@
 @font-face {
   font-family: '#{$icomoon-font-family}';
   src:
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?5gf73l') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?5gf73l') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?5gf73l##{$icomoon-font-family}') format('svg');
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?3ay50p') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?3ay50p') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?3ay50p##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -534,6 +534,11 @@
 .soc-gitter {
   &:before {
     content: $soc-gitter; 
+  }
+}
+.soc-glaze {
+  &:before {
+    content: $soc-glaze; 
   }
 }
 .soc-gnome {

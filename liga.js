@@ -125,6 +125,7 @@
             'github': '&#xe032;',
             'gitlab': '&#xe945;',
             'gitter': '&#xe96c;',
+            'glaze': '&#xe98f;',
             'gnome': '&#xe961;',
             'goodreads': '&#xe033;',
             'google': '&#xe034;',
