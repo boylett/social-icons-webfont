@@ -60,7 +60,7 @@
             'blizzard': '&#xe011;',
             'blogger': '&#xe012;',
             'bloglovin': '&#xe904;',
-            'bluesy': '&#xe98d;',
+            'bluesky': '&#xe98d;',
             'bluesky-alt': '&#xe98e;',
             'bonanza': '&#xe92c;',
             'bookbub': '&#xe949;',
