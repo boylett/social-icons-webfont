@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'SocialIcons';
   src:
-    url('fonts/SocialIcons.ttf?47csof') format('truetype'),
-    url('fonts/SocialIcons.woff?47csof') format('woff'),
-    url('fonts/SocialIcons.svg?47csof#SocialIcons') format('svg');
+    url('fonts/SocialIcons.ttf?6j40kg') format('truetype'),
+    url('fonts/SocialIcons.woff?6j40kg') format('woff'),
+    url('fonts/SocialIcons.svg?6j40kg#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -609,6 +609,9 @@
 }
 .soc-persona:before {
   content: "\e062";
+}
+.soc-pillowfort:before {
+  content: "\e980";
 }
 .soc-pinterest:before {
   content: "\e063";

@@ -218,6 +218,7 @@
             'paypal': '&#xe060;',
             'periscope': '&#xe061;',
             'persona': '&#xe062;',
+            'pillowfort': '&#xe980;',
             'pinterest': '&#xe063;',
             'pixiv': '&#xe94f;',
             'play': '&#xe064;',
