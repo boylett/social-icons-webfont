@@ -9,8 +9,10 @@ Generated with [IcoMoon](https://icomoon.io/).
 
 1. `npm i social-brands-webfont`
 2. `import socialFont from 'social-brands-webfont/style.css'`
-3. Select an icon from [the demo](https://boylett.github.io/Social-Brands-Webfont/demo.html)
-4. Include an `<i class="social-icons soc-<ICON-NAME>"></i>` in your project
+3. Embed `socialFont` using the framework of your choice
+    - eg. Remix: `export const links: LinksFunction = () => [{ href: socialFont, rel: 'stylesheet' }];`
+4. Select an icon from [the demo](https://boylett.github.io/Social-Brands-Webfont/demo.html)
+5. Include an `<i class="social-icons soc-<ICON-NAME>"></i>` in your project
 
 #### Non-NPM
 
