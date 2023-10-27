@@ -171,6 +171,8 @@
             'ko-fi': '&#xe983;',
             'lanyrd': '&#xe049;',
             'lastfm': '&#xe04a;',
+            'leprdspace': '&#xe990;',
+            'leprd.space': '&#xe990;',
             'letterboxd': '&#xe96d;',
             'line': '&#xe04b;',
             'linkedin': '&#xe04c;',
