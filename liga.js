@@ -277,6 +277,8 @@
             'storehouse': '&#xe07f;',
             'strava': '&#xe080;',
             'streamjar': '&#xe081;',
+            'strudel-cafe': '&#xe991;',
+            'strudelcafe': '&#xe991;',
             'stumbleupon': '&#xe082;',
             'swarm': '&#xe083;',
             'teamspeak': '&#xe084;',

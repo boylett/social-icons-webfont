@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'SocialIcons';
   src:
-    url('fonts/SocialIcons.ttf?ijlx0t') format('truetype'),
-    url('fonts/SocialIcons.woff?ijlx0t') format('woff'),
-    url('fonts/SocialIcons.svg?ijlx0t#SocialIcons') format('svg');
+    url('fonts/SocialIcons.ttf?d63sp7') format('truetype'),
+    url('fonts/SocialIcons.woff?d63sp7') format('woff'),
+    url('fonts/SocialIcons.svg?d63sp7#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -783,6 +783,9 @@
 }
 .soc-streamjar:before {
   content: "\e081";
+}
+.soc-strudel-cafe:before {
+  content: "\e991";
 }
 .soc-stumbleupon:before {
   content: "\e082";
