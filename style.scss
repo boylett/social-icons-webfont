@@ -3,9 +3,9 @@
 @font-face {
   font-family: '#{$icomoon-font-family}';
   src:
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?d63sp7') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?d63sp7') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?d63sp7##{$icomoon-font-family}') format('svg');
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?piik4j') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?piik4j') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?piik4j##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -914,6 +914,11 @@
 .soc-naver {
   &:before {
     content: $soc-naver; 
+  }
+}
+.soc-neocities {
+  &:before {
+    content: $soc-neocities; 
   }
 }
 .soc-newgrounds {

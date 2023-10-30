@@ -203,6 +203,7 @@
             'napster': '&#xe954;',
             'natgeo': '&#xe912;',
             'naver': '&#xe971;',
+            'neocities': '&#xe992;',
             'newgrounds': '&#xe97f;',
             'newsvine': '&#xe057;',
             'nextdoor': '&#xe942;',

@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'SocialIcons';
   src:
-    url('fonts/SocialIcons.ttf?d63sp7') format('truetype'),
-    url('fonts/SocialIcons.woff?d63sp7') format('woff'),
-    url('fonts/SocialIcons.svg?d63sp7#SocialIcons') format('svg');
+    url('fonts/SocialIcons.ttf?piik4j') format('truetype'),
+    url('fonts/SocialIcons.woff?piik4j') format('woff'),
+    url('fonts/SocialIcons.svg?piik4j#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -561,6 +561,9 @@
 }
 .soc-naver:before {
   content: "\e971";
+}
+.soc-neocities:before {
+  content: "\e992";
 }
 .soc-newgrounds:before {
   content: "\e97f";
