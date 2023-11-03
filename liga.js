@@ -241,6 +241,7 @@
             'redfin': '&#xe925;',
             'remote': '&#xe972;',
             'renren': '&#xe06d;',
+            'rentry': '&#xe993;',
             'researchgate': '&#xe06e;',
             'residentadvisor': '&#xe06f;',
             'reverbnation': '&#xe070;',
