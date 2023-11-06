@@ -3,9 +3,9 @@
 @font-face {
   font-family: '#{$icomoon-font-family}';
   src:
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?plfich') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?plfich') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?plfich##{$icomoon-font-family}') format('svg');
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?lso2dy') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?lso2dy') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?lso2dy##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -239,6 +239,11 @@
 .soc-buffer {
   &:before {
     content: $soc-buffer; 
+  }
+}
+.soc-buzzly {
+  &:before {
+    content: $soc-buzzly; 
   }
 }
 .soc-calendly {
@@ -689,6 +694,11 @@
 .soc-indiedb {
   &:before {
     content: $soc-indiedb; 
+  }
+}
+.soc-inkblot {
+  &:before {
+    content: $soc-inkblot; 
   }
 }
 .soc-instagram {
@@ -1484,6 +1494,11 @@
 .soc-warcraft {
   &:before {
     content: $soc-warcraft; 
+  }
+}
+.soc-weasyl {
+  &:before {
+    content: $soc-weasyl; 
   }
 }
 .soc-wechat {

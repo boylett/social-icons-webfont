@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'SocialIcons';
   src:
-    url('fonts/SocialIcons.ttf?plfich') format('truetype'),
-    url('fonts/SocialIcons.woff?plfich') format('woff'),
-    url('fonts/SocialIcons.svg?plfich#SocialIcons') format('svg');
+    url('fonts/SocialIcons.ttf?lso2dy') format('truetype'),
+    url('fonts/SocialIcons.woff?lso2dy') format('woff'),
+    url('fonts/SocialIcons.svg?lso2dy#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -156,6 +156,9 @@
 }
 .soc-buffer:before {
   content: "\e013";
+}
+.soc-buzzly:before {
+  content: "\e994";
 }
 .soc-calendly:before {
   content: "\e93d";
@@ -426,6 +429,9 @@
 }
 .soc-indiedb:before {
   content: "\e94c";
+}
+.soc-inkblot:before {
+  content: "\e995";
 }
 .soc-instagram:before {
   content: "\e044";
@@ -903,6 +909,9 @@
 }
 .soc-warcraft:before {
   content: "\e096";
+}
+.soc-weasyl:before {
+  content: "\e996";
 }
 .soc-wechat:before {
   content: "\e097";
