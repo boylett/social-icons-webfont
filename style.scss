@@ -3,9 +3,9 @@
 @font-face {
   font-family: '#{$icomoon-font-family}';
   src:
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?lso2dy') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?lso2dy') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?lso2dy##{$icomoon-font-family}') format('svg');
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?wrb69i') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?wrb69i') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?wrb69i##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -109,6 +109,11 @@
 .soc-appstore {
   &:before {
     content: $soc-appstore; 
+  }
+}
+.soc-archiveorg {
+  &:before {
+    content: $soc-archiveorg; 
   }
 }
 .soc-artfight {
@@ -499,6 +504,11 @@
 .soc-furaffinity {
   &:before {
     content: $soc-furaffinity; 
+  }
+}
+.soc-furvilla {
+  &:before {
+    content: $soc-furvilla; 
   }
 }
 .soc-fyuse {
@@ -896,6 +906,11 @@
     content: $soc-modelmayhem; 
   }
 }
+.soc-moderneopets {
+  &:before {
+    content: $soc-moderneopets; 
+  }
+}
 .soc-mumble {
   &:before {
     content: $soc-mumble; 
@@ -929,6 +944,11 @@
 .soc-neocities {
   &:before {
     content: $soc-neocities; 
+  }
+}
+.soc-neopets {
+  &:before {
+    content: $soc-neopets; 
   }
 }
 .soc-newgrounds {
