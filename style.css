@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'SocialIcons';
   src:
-    url('fonts/SocialIcons.ttf?wrb69i') format('truetype'),
-    url('fonts/SocialIcons.woff?wrb69i') format('woff'),
-    url('fonts/SocialIcons.svg?wrb69i#SocialIcons') format('svg');
+    url('fonts/SocialIcons.ttf?2f7m03') format('truetype'),
+    url('fonts/SocialIcons.woff?2f7m03') format('woff'),
+    url('fonts/SocialIcons.svg?2f7m03#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -626,10 +626,10 @@
   content: "\e907";
 }
 .soc-patreon:before {
-  content: "\e05f";
+  content: "\e99b";
 }
 .soc-paypal:before {
-  content: "\e060";
+  content: "\e99c";
 }
 .soc-periscope:before {
   content: "\e061";
