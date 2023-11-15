@@ -79,6 +79,7 @@
             'codered': '&#xe940;',
             'coderwall': '&#xe015;',
             'collectorz': '&#xe95c;',
+            'comicfury': '&#xe99d;',
             'craigslist': '&#xe923;',
             'crunchbase': '&#xe93b;',
             'curiouscat': '&#xe989;',

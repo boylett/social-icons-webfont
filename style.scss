@@ -3,9 +3,9 @@
 @font-face {
   font-family: '#{$icomoon-font-family}';
   src:
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?2f7m03') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?2f7m03') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?2f7m03##{$icomoon-font-family}') format('svg');
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?upza8s') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?upza8s') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?upza8s##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -289,6 +289,11 @@
 .soc-collectorz {
   &:before {
     content: $soc-collectorz; 
+  }
+}
+.soc-comicfury {
+  &:before {
+    content: $soc-comicfury; 
   }
 }
 .soc-craigslist {
