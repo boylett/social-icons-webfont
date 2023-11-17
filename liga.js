@@ -45,6 +45,7 @@
             'archiveorg': '&#xe997;',
             'artfight': '&#xe988;',
             'artfol': '&#xe98a;',
+            'artistree': '&#xe99e;',
             'artstation': '&#xe959;',
             'ask': '&#xe930;',
             'augment': '&#xe908;',
