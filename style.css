@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'SocialIcons';
   src:
-    url('fonts/SocialIcons.ttf?8ntri1') format('truetype'),
-    url('fonts/SocialIcons.woff?8ntri1') format('woff'),
-    url('fonts/SocialIcons.svg?8ntri1#SocialIcons') format('svg');
+    url('fonts/SocialIcons.ttf?6kuaul') format('truetype'),
+    url('fonts/SocialIcons.woff?6kuaul') format('woff'),
+    url('fonts/SocialIcons.svg?6kuaul#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -299,7 +299,7 @@
   content: "\e973";
 }
 .soc-flowcode:before {
-  content: "\e98b";
+  content: "\e99f";
 }
 .soc-formulr:before {
   content: "\e02e";
@@ -672,6 +672,9 @@
 }
 .soc-qq:before {
   content: "\e068";
+}
+.soc-qrcode:before {
+  content: "\e98b";
 }
 .soc-quora:before {
   content: "\e069";

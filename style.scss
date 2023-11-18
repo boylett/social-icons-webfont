@@ -3,9 +3,9 @@
 @font-face {
   font-family: '#{$icomoon-font-family}';
   src:
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?8ntri1') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?8ntri1') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?8ntri1##{$icomoon-font-family}') format('svg');
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?6kuaul') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?6kuaul') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?6kuaul##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1099,6 +1099,11 @@
 .soc-qq {
   &:before {
     content: $soc-qq; 
+  }
+}
+.soc-qrcode {
+  &:before {
+    content: $soc-qrcode; 
   }
 }
 .soc-quora {
