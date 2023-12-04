@@ -1,3 +1,5 @@
+[![1.15.0](https://badgen.net/badge/npm/1.15.0/blue)](https://www.npmjs.com/package/social-brands-webfont)
+
 # Social Brands Webfont
 Icon font containing social media branding icons.
 
