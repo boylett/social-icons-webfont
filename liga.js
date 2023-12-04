@@ -73,6 +73,7 @@
             'buzzly': '&#xe994;',
             'buzzlyart': '&#xe994;',
             'calendly': '&#xe93d;',
+            'cara': '&#xe9a1;',
             'carrd': '&#xe981;',
             'cdbaby': '&#xe968;',
             'chrome': '&#xe014;',

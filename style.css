@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'SocialIcons';
   src:
-    url('fonts/SocialIcons.ttf?u8ywn5') format('truetype'),
-    url('fonts/SocialIcons.woff?u8ywn5') format('woff'),
-    url('fonts/SocialIcons.svg?u8ywn5#SocialIcons') format('svg');
+    url('fonts/SocialIcons.ttf?rwqpnp') format('truetype'),
+    url('fonts/SocialIcons.woff?rwqpnp') format('woff'),
+    url('fonts/SocialIcons.svg?rwqpnp#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -168,6 +168,9 @@
 }
 .soc-calendly:before {
   content: "\e93d";
+}
+.soc-cara:before {
+  content: "\e9a1";
 }
 .soc-carrd:before {
   content: "\e981";
