@@ -3,9 +3,9 @@
 @font-face {
   font-family: '#{$icomoon-font-family}';
   src:
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?cuwi7j') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?cuwi7j') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?cuwi7j##{$icomoon-font-family}') format('svg');
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?lvxs4w') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?lvxs4w') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?lvxs4w##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -36,21 +36,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.soc-px {
-  &:before {
-    content: $soc-px; 
-  }
-}
-.soc-tracks {
-  &:before {
-    content: $soc-tracks; 
-  }
-}
-.soc-gag {
-  &:before {
-    content: $soc-gag; 
-  }
-}
 .soc-airbnb {
   &:before {
     content: $soc-airbnb; 
@@ -536,6 +521,11 @@
     content: $soc-fyuse; 
   }
 }
+.soc-gag {
+  &:before {
+    content: $soc-gag; 
+  }
+}
 .soc-gamefor {
   &:before {
     content: $soc-gamefor; 
@@ -789,6 +779,11 @@
 .soc-kofi {
   &:before {
     content: $soc-kofi; 
+  }
+}
+.soc-ko-fi {
+  &:before {
+    content: $soc-ko-fi; 
   }
 }
 .soc-lanyrd {
@@ -1101,6 +1096,11 @@
     content: $soc-portfolio; 
   }
 }
+.soc-px {
+  &:before {
+    content: $soc-px; 
+  }
+}
 .soc-qobuz {
   &:before {
     content: $soc-qobuz; 
@@ -1346,9 +1346,24 @@
     content: $soc-strava; 
   }
 }
+.soc-strawpage {
+  &:before {
+    content: $soc-strawpage; 
+  }
+}
+.soc-strawpage1 {
+  &:before {
+    content: $soc-strawpage1; 
+  }
+}
 .soc-streamjar {
   &:before {
     content: $soc-streamjar; 
+  }
+}
+.soc-strudelcafe {
+  &:before {
+    content: $soc-strudelcafe; 
   }
 }
 .soc-strudel-cafe {
@@ -1424,6 +1439,11 @@
 .soc-toyhouse {
   &:before {
     content: $soc-toyhouse; 
+  }
+}
+.soc-tracks {
+  &:before {
+    content: $soc-tracks; 
   }
 }
 .soc-traxsource {

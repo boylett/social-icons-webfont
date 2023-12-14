@@ -25,9 +25,6 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
-            '500px': '&#xe000;',
-            '8tracks': '&#xe001;',
-            '9gag': '&#xe984;',
             'airbnb': '&#xe002;',
             'alibaba': '&#xe922;',
             'aliexpress': '&#xe91d;',
@@ -130,6 +127,7 @@
             'furaffinity': '&#xe987;',
             'furvilla': '&#xe998;',
             'fyuse': '&#xe90a;',
+            '9gag': '&#xe984;',
             'gamefor': '&#xe94e;',
             'gamejolt': '&#xe901;',
             'gamewisp': '&#xe905;',
@@ -246,6 +244,7 @@
             'playstation': '&#xe066;',
             'pocket': '&#xe067;',
             'portfolio': '&#xe943;',
+            '500px': '&#xe000;',
             'qobuz': '&#xe911;',
             'qq': '&#xe068;',
             'qrcode': '&#xe98b;',
@@ -312,6 +311,7 @@
             'toptal': '&#xe92e;',
             'torial': '&#xe95b;',
             'toyhouse': '&#xe986;',
+            '8tracks': '&#xe001;',
             'traxsource': '&#xe94d;',
             'trello': '&#xe902;',
             'tripadvisor': '&#xe088;',

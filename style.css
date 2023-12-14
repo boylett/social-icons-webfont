@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'SocialIcons';
   src:
-    url('fonts/SocialIcons.ttf?cuwi7j') format('truetype'),
-    url('fonts/SocialIcons.woff?cuwi7j') format('woff'),
-    url('fonts/SocialIcons.svg?cuwi7j#SocialIcons') format('svg');
+    url('fonts/SocialIcons.ttf?lvxs4w') format('truetype'),
+    url('fonts/SocialIcons.woff?lvxs4w') format('woff'),
+    url('fonts/SocialIcons.svg?lvxs4w#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -34,15 +34,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.soc-px:before {
-  content: "\e000";
-}
-.soc-tracks:before {
-  content: "\e001";
-}
-.soc-gag:before {
-  content: "\e984";
-}
 .soc-airbnb:before {
   content: "\e002";
 }
@@ -334,6 +325,9 @@
 .soc-fyuse:before {
   content: "\e90a";
 }
+.soc-gag:before {
+  content: "\e984";
+}
 .soc-gamefor:before {
   content: "\e94e";
 }
@@ -485,6 +479,9 @@
   content: "\e948";
 }
 .soc-kofi:before {
+  content: "\e983";
+}
+.soc-ko-fi:before {
   content: "\e983";
 }
 .soc-lanyrd:before {
@@ -673,6 +670,9 @@
 .soc-portfolio:before {
   content: "\e943";
 }
+.soc-px:before {
+  content: "\e000";
+}
 .soc-qobuz:before {
   content: "\e911";
 }
@@ -820,8 +820,17 @@
 .soc-strava:before {
   content: "\e080";
 }
+.soc-strawpage:before {
+  content: "\e9a2";
+}
+.soc-strawpage1:before {
+  content: "\e9a2";
+}
 .soc-streamjar:before {
   content: "\e081";
+}
+.soc-strudelcafe:before {
+  content: "\e991";
 }
 .soc-strudel-cafe:before {
   content: "\e991";
@@ -867,6 +876,9 @@
 }
 .soc-toyhouse:before {
   content: "\e986";
+}
+.soc-tracks:before {
+  content: "\e001";
 }
 .soc-traxsource:before {
   content: "\e94d";
