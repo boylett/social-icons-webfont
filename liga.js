@@ -61,6 +61,8 @@
             'blizzard': '&#xe011;',
             'blogger': '&#xe012;',
             'bloglovin': '&#xe904;',
+            'bluesky': '&#xe98d;',
+            'blue-sky': '&#xe98d;',
             'bonanza': '&#xe92c;',
             'bookbub': '&#xe949;',
             'booking': '&#xe936;',
