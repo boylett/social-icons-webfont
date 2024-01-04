@@ -1,11 +1,11 @@
 {
-  "name": "social-brands-webfont",
-  "version": "1.19.0",
+  "name": "social-icons-webfont",
+  "version": "1.19.1",
   "description": "Icon font containing social media branding icons",
   "main": "style.css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boylett/Social-Brands-Webfont.git"
+    "url": "git+https://github.com/boylett/Social-Icons.git"
   },
   "keywords": [
     "social",
@@ -16,7 +16,7 @@
   "author": "Ryan Boylett",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/boylett/Social-Brands-Webfont/issues"
+    "url": "https://github.com/boylett/Social-Icons/issues"
   },
-  "homepage": "https://boylett.github.io/Social-Brands-Webfont/demo.html"
+  "homepage": "https://boylett.github.io/Social-Icons/demo.html"
 }
