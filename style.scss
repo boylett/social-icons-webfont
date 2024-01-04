@@ -2,10 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?x8rbgt') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?x8rbgt') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?x8rbgt##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?gj3uv9');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?gj3uv9#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?gj3uv9') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?gj3uv9') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?gj3uv9##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -341,9 +342,9 @@
     content: $soc-Digg; 
   }
 }
-.soc-Digital-ocean {
+.soc-DigitalOcean {
   &:before {
-    content: $soc-Digital-ocean; 
+    content: $soc-DigitalOcean; 
   }
 }
 .soc-Discord {
@@ -426,19 +427,19 @@
     content: $soc-Facebook; 
   }
 }
-.soc-Feedburner {
+.soc-FeedBurner {
   &:before {
-    content: $soc-Feedburner; 
+    content: $soc-FeedBurner; 
   }
 }
-.soc-Filmfreeway {
+.soc-FilmFreeway {
   &:before {
-    content: $soc-Filmfreeway; 
+    content: $soc-FilmFreeway; 
   }
 }
-.soc-Filmweb {
+.soc-FilmWeb {
   &:before {
-    content: $soc-Filmweb; 
+    content: $soc-FilmWeb; 
   }
 }
 .soc-Firefox {
@@ -461,14 +462,14 @@
     content: $soc-Flickr; 
   }
 }
-.soc-Flipboard {
+.soc-FlipBoard {
   &:before {
-    content: $soc-Flipboard; 
+    content: $soc-FlipBoard; 
   }
 }
-.soc-Flowcode {
+.soc-FlowCode {
   &:before {
-    content: $soc-Flowcode; 
+    content: $soc-FlowCode; 
   }
 }
 .soc-Formulr {
@@ -481,9 +482,9 @@
     content: $soc-Forrst; 
   }
 }
-.soc-Foursquare {
+.soc-FourSquare {
   &:before {
-    content: $soc-Foursquare; 
+    content: $soc-FourSquare; 
   }
 }
 .soc-Freelancer {
@@ -491,9 +492,9 @@
     content: $soc-Freelancer; 
   }
 }
-.soc-Friendfeed {
+.soc-FriendFeed {
   &:before {
-    content: $soc-Friendfeed; 
+    content: $soc-FriendFeed; 
   }
 }
 .soc-Fundable {
@@ -501,9 +502,9 @@
     content: $soc-Fundable; 
   }
 }
-.soc-Furaffinity {
+.soc-FurAffinity {
   &:before {
-    content: $soc-Furaffinity; 
+    content: $soc-FurAffinity; 
   }
 }
 .soc-Furvilla {
@@ -521,19 +522,19 @@
     content: $soc-Gag; 
   }
 }
-.soc-Gamefor {
+.soc-GameFor {
   &:before {
-    content: $soc-Gamefor; 
+    content: $soc-GameFor; 
   }
 }
-.soc-Gamejolt {
+.soc-GameJolt {
   &:before {
-    content: $soc-Gamejolt; 
+    content: $soc-GameJolt; 
   }
 }
-.soc-Gamewisp {
+.soc-GameWisp {
   &:before {
-    content: $soc-Gamewisp; 
+    content: $soc-GameWisp; 
   }
 }
 .soc-Ghost {
@@ -541,9 +542,9 @@
     content: $soc-Ghost; 
   }
 }
-.soc-Github {
+.soc-GitHub {
   &:before {
-    content: $soc-Github; 
+    content: $soc-GitHub; 
   }
 }
 .soc-Gitlab {
@@ -566,9 +567,9 @@
     content: $soc-Gnome; 
   }
 }
-.soc-Goodreads {
+.soc-GoodReads {
   &:before {
-    content: $soc-Goodreads; 
+    content: $soc-GoodReads; 
   }
 }
 .soc-Google {
@@ -576,54 +577,54 @@
     content: $soc-Google; 
   }
 }
-.soc-Googlecalendar {
+.soc-GoogleCalendar {
   &:before {
-    content: $soc-Googlecalendar; 
+    content: $soc-GoogleCalendar; 
   }
 }
-.soc-Googlegroups {
+.soc-GoogleGroups {
   &:before {
-    content: $soc-Googlegroups; 
+    content: $soc-GoogleGroups; 
   }
 }
-.soc-Googlehangouts {
+.soc-GoogleHangouts {
   &:before {
-    content: $soc-Googlehangouts; 
+    content: $soc-GoogleHangouts; 
   }
 }
-.soc-Googlemaps {
+.soc-GoogleMaps {
   &:before {
-    content: $soc-Googlemaps; 
+    content: $soc-GoogleMaps; 
   }
 }
-.soc-Googlephotos {
+.soc-GooglePhotos {
   &:before {
-    content: $soc-Googlephotos; 
+    content: $soc-GooglePhotos; 
   }
 }
-.soc-Googleplaymusic {
+.soc-GooglePlayMusic {
   &:before {
-    content: $soc-Googleplaymusic; 
+    content: $soc-GooglePlayMusic; 
   }
 }
-.soc-Googleplus {
+.soc-GooglePlus {
   &:before {
-    content: $soc-Googleplus; 
+    content: $soc-GooglePlus; 
   }
 }
-.soc-Googlescholar {
+.soc-GoogleScholar {
   &:before {
-    content: $soc-Googlescholar; 
+    content: $soc-GoogleScholar; 
   }
 }
-.soc-Gotomeeting {
+.soc-GoToMeeting {
   &:before {
-    content: $soc-Gotomeeting; 
+    content: $soc-GoToMeeting; 
   }
 }
-.soc-Grooveshark {
+.soc-GrooveShark {
   &:before {
-    content: $soc-Grooveshark; 
+    content: $soc-GrooveShark; 
   }
 }
 .soc-Guru {
@@ -636,24 +637,24 @@
     content: $soc-Gust; 
   }
 }
-.soc-Hackernews {
+.soc-HackerNews {
   &:before {
-    content: $soc-Hackernews; 
+    content: $soc-HackerNews; 
   }
 }
-.soc-Hackerone {
+.soc-HackerOne {
   &:before {
-    content: $soc-Hackerone; 
+    content: $soc-HackerOne; 
   }
 }
-.soc-Hackerrank {
+.soc-HackerRank {
   &:before {
-    content: $soc-Hackerrank; 
+    content: $soc-HackerRank; 
   }
 }
-.soc-Hearthstone {
+.soc-HearthStone {
   &:before {
-    content: $soc-Hearthstone; 
+    content: $soc-HearthStone; 
   }
 }
 .soc-Hellocoton {
@@ -666,9 +667,9 @@
     content: $soc-Heroes; 
   }
 }
-.soc-Homeadvisor {
+.soc-HomeAdvisor {
   &:before {
-    content: $soc-Homeadvisor; 
+    content: $soc-HomeAdvisor; 
   }
 }
 .soc-Homefy {
@@ -701,14 +702,14 @@
     content: $soc-Identica; 
   }
 }
-.soc-Imdb {
+.soc-IMDb {
   &:before {
-    content: $soc-Imdb; 
+    content: $soc-IMDb; 
   }
 }
-.soc-Indiedb {
+.soc-IndieDB {
   &:before {
-    content: $soc-Indiedb; 
+    content: $soc-IndieDB; 
   }
 }
 .soc-Inkblot {
@@ -761,9 +762,9 @@
     content: $soc-Jamendo; 
   }
 }
-.soc-Keybase {
+.soc-KeyBase {
   &:before {
-    content: $soc-Keybase; 
+    content: $soc-KeyBase; 
   }
 }
 .soc-Kobo {
@@ -781,19 +782,19 @@
     content: $soc-Lanyrd; 
   }
 }
-.soc-Lastfm {
+.soc-LastFM {
   &:before {
-    content: $soc-Lastfm; 
+    content: $soc-LastFM; 
   }
 }
-.soc-Leprdspace {
+.soc-LeprdSpace {
   &:before {
-    content: $soc-Leprdspace; 
+    content: $soc-LeprdSpace; 
   }
 }
-.soc-Letterboxd {
+.soc-LetterBoxd {
   &:before {
-    content: $soc-Letterboxd; 
+    content: $soc-LetterBoxd; 
   }
 }
 .soc-Line {
@@ -801,9 +802,9 @@
     content: $soc-Line; 
   }
 }
-.soc-Linkedin {
+.soc-LinkedIn {
   &:before {
-    content: $soc-Linkedin; 
+    content: $soc-LinkedIn; 
   }
 }
 .soc-Linktree {
@@ -811,19 +812,19 @@
     content: $soc-Linktree; 
   }
 }
-.soc-Livejournal {
+.soc-LiveJournal {
   &:before {
-    content: $soc-Livejournal; 
+    content: $soc-LiveJournal; 
   }
 }
-.soc-Livemaster {
+.soc-LiveMaster {
   &:before {
-    content: $soc-Livemaster; 
+    content: $soc-LiveMaster; 
   }
 }
-.soc-Logmein {
+.soc-LogMeIn {
   &:before {
-    content: $soc-Logmein; 
+    content: $soc-LogMeIn; 
   }
 }
 .soc-Loomly {
@@ -836,9 +837,9 @@
     content: $soc-Lyft; 
   }
 }
-.soc-Macos {
+.soc-macOS {
   &:before {
-    content: $soc-Macos; 
+    content: $soc-macOS; 
   }
 }
 .soc-Mail {
@@ -886,9 +887,9 @@
     content: $soc-Mix; 
   }
 }
-.soc-Mixcloud {
+.soc-MixCloud {
   &:before {
-    content: $soc-Mixcloud; 
+    content: $soc-MixCloud; 
   }
 }
 .soc-Mixer {
@@ -896,9 +897,9 @@
     content: $soc-Mixer; 
   }
 }
-.soc-Mobcrush {
+.soc-MobCrush {
   &:before {
-    content: $soc-Mobcrush; 
+    content: $soc-MobCrush; 
   }
 }
 .soc-Moddb {
@@ -906,14 +907,14 @@
     content: $soc-Moddb; 
   }
 }
-.soc-Modelmayhem {
+.soc-ModelMayhem {
   &:before {
-    content: $soc-Modelmayhem; 
+    content: $soc-ModelMayhem; 
   }
 }
-.soc-Moderneopets {
+.soc-ModerNeopets {
   &:before {
-    content: $soc-Moderneopets; 
+    content: $soc-ModerNeopets; 
   }
 }
 .soc-Mumble {
@@ -921,14 +922,14 @@
     content: $soc-Mumble; 
   }
 }
-.soc-Myanimelist {
+.soc-MyAnimeList {
   &:before {
-    content: $soc-Myanimelist; 
+    content: $soc-MyAnimeList; 
   }
 }
-.soc-Myspace {
+.soc-MySpace {
   &:before {
-    content: $soc-Myspace; 
+    content: $soc-MySpace; 
   }
 }
 .soc-Napster {
@@ -961,9 +962,9 @@
     content: $soc-Newgrounds; 
   }
 }
-.soc-Newsvine {
+.soc-NewsVine {
   &:before {
-    content: $soc-Newsvine; 
+    content: $soc-NewsVine; 
   }
 }
 .soc-Nextdoor {
@@ -1036,9 +1037,9 @@
     content: $soc-Persona; 
   }
 }
-.soc-Pillowfort {
+.soc-PillowFort {
   &:before {
-    content: $soc-Pillowfort; 
+    content: $soc-PillowFort; 
   }
 }
 .soc-Pinterest {
@@ -1061,9 +1062,9 @@
     content: $soc-Player; 
   }
 }
-.soc-Playstation {
+.soc-PlayStation {
   &:before {
-    content: $soc-Playstation; 
+    content: $soc-PlayStation; 
   }
 }
 .soc-Pocket {
@@ -1071,9 +1072,9 @@
     content: $soc-Pocket; 
   }
 }
-.soc-Portfolio {
+.soc-AdobePortfolio {
   &:before {
-    content: $soc-Portfolio; 
+    content: $soc-AdobePortfolio; 
   }
 }
 .soc-Px {
@@ -1091,9 +1092,9 @@
     content: $soc-Qq; 
   }
 }
-.soc-Qrcode {
+.soc-QRcode {
   &:before {
-    content: $soc-Qrcode; 
+    content: $soc-QRcode; 
   }
 }
 .soc-Quora {
@@ -1101,9 +1102,9 @@
     content: $soc-Quora; 
   }
 }
-.soc-Raidcall {
+.soc-RaidCall {
   &:before {
-    content: $soc-Raidcall; 
+    content: $soc-RaidCall; 
   }
 }
 .soc-Ravelry {
@@ -1116,14 +1117,14 @@
     content: $soc-Realtor; 
   }
 }
-.soc-Recaptcha {
+.soc-reCAPTCHA {
   &:before {
-    content: $soc-Recaptcha; 
+    content: $soc-reCAPTCHA; 
   }
 }
-.soc-Redbubble {
+.soc-RedBubble {
   &:before {
-    content: $soc-Redbubble; 
+    content: $soc-RedBubble; 
   }
 }
 .soc-Reddit {
@@ -1151,24 +1152,24 @@
     content: $soc-Rentry; 
   }
 }
-.soc-Researchgate {
+.soc-ResearchGate {
   &:before {
-    content: $soc-Researchgate; 
+    content: $soc-ResearchGate; 
   }
 }
-.soc-Residentadvisor {
+.soc-ResidentAdvisor {
   &:before {
-    content: $soc-Residentadvisor; 
+    content: $soc-ResidentAdvisor; 
   }
 }
-.soc-Reverbnation {
+.soc-ReverbNation {
   &:before {
-    content: $soc-Reverbnation; 
+    content: $soc-ReverbNation; 
   }
 }
-.soc-Rss {
+.soc-RSS {
   &:before {
-    content: $soc-Rss; 
+    content: $soc-RSS; 
   }
 }
 .soc-Seedrs {
@@ -1176,19 +1177,19 @@
     content: $soc-Seedrs; 
   }
 }
-.soc-Seenthis {
+.soc-SeenThis {
   &:before {
-    content: $soc-Seenthis; 
+    content: $soc-SeenThis; 
   }
 }
-.soc-Sharepoint {
+.soc-SharePoint {
   &:before {
-    content: $soc-Sharepoint; 
+    content: $soc-SharePoint; 
   }
 }
-.soc-Sharethis {
+.soc-ShareThis {
   &:before {
-    content: $soc-Sharethis; 
+    content: $soc-ShareThis; 
   }
 }
 .soc-SheezyArt {
@@ -1201,9 +1202,9 @@
     content: $soc-Shopify; 
   }
 }
-.soc-Sketchfab {
+.soc-SketchFab {
   &:before {
-    content: $soc-Sketchfab; 
+    content: $soc-SketchFab; 
   }
 }
 .soc-Skype {
@@ -1216,29 +1217,29 @@
     content: $soc-Slack; 
   }
 }
-.soc-Slideshare {
+.soc-SlideShare {
   &:before {
-    content: $soc-Slideshare; 
+    content: $soc-SlideShare; 
   }
 }
-.soc-Smashcast {
+.soc-SmashCast {
   &:before {
-    content: $soc-Smashcast; 
+    content: $soc-SmashCast; 
   }
 }
-.soc-Smashwords {
+.soc-SmashWords {
   &:before {
-    content: $soc-Smashwords; 
+    content: $soc-SmashWords; 
   }
 }
-.soc-Smugmug {
+.soc-SmugMug {
   &:before {
-    content: $soc-Smugmug; 
+    content: $soc-SmugMug; 
   }
 }
-.soc-Snapchat {
+.soc-SnapChat {
   &:before {
-    content: $soc-Snapchat; 
+    content: $soc-SnapChat; 
   }
 }
 .soc-Society6 {
@@ -1246,9 +1247,9 @@
     content: $soc-Society6; 
   }
 }
-.soc-Songkick {
+.soc-SongKick {
   &:before {
-    content: $soc-Songkick; 
+    content: $soc-SongKick; 
   }
 }
 .soc-Soroush {
@@ -1256,9 +1257,9 @@
     content: $soc-Soroush; 
   }
 }
-.soc-Soundcloud {
+.soc-SoundCloud {
   &:before {
-    content: $soc-Soundcloud; 
+    content: $soc-SoundCloud; 
   }
 }
 .soc-Spip {
@@ -1276,24 +1277,24 @@
     content: $soc-Spotify; 
   }
 }
-.soc-Spreadshirt {
+.soc-SpreadShirt {
   &:before {
-    content: $soc-Spreadshirt; 
+    content: $soc-SpreadShirt; 
   }
 }
-.soc-Squarespace {
+.soc-SquareSpace {
   &:before {
-    content: $soc-Squarespace; 
+    content: $soc-SquareSpace; 
   }
 }
-.soc-Stackexchange {
+.soc-StackExchange {
   &:before {
-    content: $soc-Stackexchange; 
+    content: $soc-StackExchange; 
   }
 }
-.soc-Stackoverflow {
+.soc-StackOverflow {
   &:before {
-    content: $soc-Stackoverflow; 
+    content: $soc-StackOverflow; 
   }
 }
 .soc-Stage32 {
@@ -1301,14 +1302,14 @@
     content: $soc-Stage32; 
   }
 }
-.soc-Starcraft {
+.soc-StarCraft {
   &:before {
-    content: $soc-Starcraft; 
+    content: $soc-StarCraft; 
   }
 }
-.soc-Stayfriends {
+.soc-StayFriends {
   &:before {
-    content: $soc-Stayfriends; 
+    content: $soc-StayFriends; 
   }
 }
 .soc-Steam {
@@ -1321,9 +1322,9 @@
     content: $soc-Stitcher; 
   }
 }
-.soc-Storehouse {
+.soc-StoreHouse {
   &:before {
-    content: $soc-Storehouse; 
+    content: $soc-StoreHouse; 
   }
 }
 .soc-Strava {
@@ -1331,29 +1332,24 @@
     content: $soc-Strava; 
   }
 }
-.soc-Strawpage {
+.soc-StrawPage {
   &:before {
-    content: $soc-Strawpage; 
+    content: $soc-StrawPage; 
   }
 }
-.soc-Streamjar {
+.soc-StreamJar {
   &:before {
-    content: $soc-Streamjar; 
+    content: $soc-StreamJar; 
   }
 }
-.soc-Strudelcafe {
+.soc-StrudelCafe {
   &:before {
-    content: $soc-Strudelcafe; 
+    content: $soc-StrudelCafe; 
   }
 }
-.soc-strudel-cafe {
+.soc-StumbleUpon {
   &:before {
-    content: $soc-strudel-cafe; 
-  }
-}
-.soc-Stumbleupon {
-  &:before {
-    content: $soc-Stumbleupon; 
+    content: $soc-StumbleUpon; 
   }
 }
 .soc-Swarm {
@@ -1361,14 +1357,14 @@
     content: $soc-Swarm; 
   }
 }
-.soc-Teamspeak {
+.soc-TeamSpeak {
   &:before {
-    content: $soc-Teamspeak; 
+    content: $soc-TeamSpeak; 
   }
 }
-.soc-Teamviewer {
+.soc-TeamViewer {
   &:before {
-    content: $soc-Teamviewer; 
+    content: $soc-TeamViewer; 
   }
 }
 .soc-Technorati {
@@ -1401,9 +1397,9 @@
     content: $soc-Tinder; 
   }
 }
-.soc-Toneden {
+.soc-ToneDen {
   &:before {
-    content: $soc-Toneden; 
+    content: $soc-ToneDen; 
   }
 }
 .soc-Toptal {
@@ -1416,9 +1412,9 @@
     content: $soc-Torial; 
   }
 }
-.soc-Toyhouse {
+.soc-ToyHouse {
   &:before {
-    content: $soc-Toyhouse; 
+    content: $soc-ToyHouse; 
   }
 }
 .soc-Tracks {
@@ -1426,9 +1422,9 @@
     content: $soc-Tracks; 
   }
 }
-.soc-Traxsource {
+.soc-TraxSource {
   &:before {
-    content: $soc-Traxsource; 
+    content: $soc-TraxSource; 
   }
 }
 .soc-Trello {
@@ -1436,9 +1432,9 @@
     content: $soc-Trello; 
   }
 }
-.soc-Tripadvisor {
+.soc-TripAdvisor {
   &:before {
-    content: $soc-Tripadvisor; 
+    content: $soc-TripAdvisor; 
   }
 }
 .soc-Tripit {
@@ -1446,9 +1442,9 @@
     content: $soc-Tripit; 
   }
 }
-.soc-Triplej {
+.soc-TripleJ {
   &:before {
-    content: $soc-Triplej; 
+    content: $soc-TripleJ; 
   }
 }
 .soc-Trulia {
@@ -1461,9 +1457,9 @@
     content: $soc-Tumblr; 
   }
 }
-.soc-Tunein {
+.soc-TuneIn {
   &:before {
-    content: $soc-Tunein; 
+    content: $soc-TuneIn; 
   }
 }
 .soc-Twitch {
@@ -1486,14 +1482,14 @@
     content: $soc-Udemy; 
   }
 }
-.soc-Unsplash {
+.soc-UnSplash {
   &:before {
-    content: $soc-Unsplash; 
+    content: $soc-UnSplash; 
   }
 }
-.soc-Upwork {
+.soc-UpWork {
   &:before {
-    content: $soc-Upwork; 
+    content: $soc-UpWork; 
   }
 }
 .soc-Ventrilo {
@@ -1511,9 +1507,9 @@
     content: $soc-Viber; 
   }
 }
-.soc-Viewbug {
+.soc-ViewBug {
   &:before {
-    content: $soc-Viewbug; 
+    content: $soc-ViewBug; 
   }
 }
 .soc-Vimeo {
@@ -1541,9 +1537,9 @@
     content: $soc-Weasyl; 
   }
 }
-.soc-Wechat {
+.soc-WeChat {
   &:before {
-    content: $soc-Wechat; 
+    content: $soc-WeChat; 
   }
 }
 .soc-Weibo {
@@ -1551,9 +1547,9 @@
     content: $soc-Weibo; 
   }
 }
-.soc-Whatsapp {
+.soc-WhatsApp {
   &:before {
-    content: $soc-Whatsapp; 
+    content: $soc-WhatsApp; 
   }
 }
 .soc-Wickr {
@@ -1566,9 +1562,9 @@
     content: $soc-Wikipedia; 
   }
 }
-.soc-Windguru {
+.soc-WindGuru {
   &:before {
-    content: $soc-Windguru; 
+    content: $soc-WindGuru; 
   }
 }
 .soc-Windows {
@@ -1581,9 +1577,9 @@
     content: $soc-Wix; 
   }
 }
-.soc-Wordpress {
+.soc-WordPress {
   &:before {
-    content: $soc-Wordpress; 
+    content: $soc-WordPress; 
   }
 }
 .soc-Wykop {
@@ -1626,9 +1622,9 @@
     content: $soc-Yelp; 
   }
 }
-.soc-Younow {
+.soc-YouNow {
   &:before {
-    content: $soc-Younow; 
+    content: $soc-YouNow; 
   }
 }
 .soc-Youtube {
@@ -1636,9 +1632,9 @@
     content: $soc-Youtube; 
   }
 }
-.soc-Yt-gaming {
+.soc-YTGaming {
   &:before {
-    content: $soc-Yt-gaming; 
+    content: $soc-YTGaming; 
   }
 }
 .soc-Zapier {
