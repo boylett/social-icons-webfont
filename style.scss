@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?gj3uv9');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?gj3uv9#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?gj3uv9') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?gj3uv9') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?gj3uv9##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?fixpsk');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?fixpsk#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?fixpsk') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?fixpsk') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?fixpsk##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -37,19 +37,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.soc-AdobePortfolio {
+  &:before {
+    content: $soc-AdobePortfolio; 
+  }
+}
 .soc-AirBnB {
   &:before {
     content: $soc-AirBnB; 
   }
 }
-.soc-Alibaba {
-  &:before {
-    content: $soc-Alibaba; 
-  }
-}
 .soc-AliExpress {
   &:before {
     content: $soc-AliExpress; 
+  }
+}
+.soc-Alibaba {
+  &:before {
+    content: $soc-Alibaba; 
   }
 }
 .soc-Alliance {
@@ -82,11 +87,6 @@
     content: $soc-AngiesList; 
   }
 }
-.soc-Apple {
-  &:before {
-    content: $soc-Apple; 
-  }
-}
 .soc-AppNet {
   &:before {
     content: $soc-AppNet; 
@@ -95,6 +95,11 @@
 .soc-AppStore {
   &:before {
     content: $soc-AppStore; 
+  }
+}
+.soc-Apple {
+  &:before {
+    content: $soc-Apple; 
   }
 }
 .soc-Archiveorg {
@@ -107,6 +112,11 @@
     content: $soc-ArtFight; 
   }
 }
+.soc-ArtStation {
+  &:before {
+    content: $soc-ArtStation; 
+  }
+}
 .soc-Artfol {
   &:before {
     content: $soc-Artfol; 
@@ -115,11 +125,6 @@
 .soc-Artistree {
   &:before {
     content: $soc-Artistree; 
-  }
-}
-.soc-ArtStation {
-  &:before {
-    content: $soc-ArtStation; 
   }
 }
 .soc-Ask {
@@ -157,14 +162,14 @@
     content: $soc-BattleNet; 
   }
 }
-.soc-BeatPort {
-  &:before {
-    content: $soc-BeatPort; 
-  }
-}
 .soc-BeBee {
   &:before {
     content: $soc-BeBee; 
+  }
+}
+.soc-BeatPort {
+  &:before {
+    content: $soc-BeatPort; 
   }
 }
 .soc-Bebo {
@@ -267,14 +272,14 @@
     content: $soc-CodePen; 
   }
 }
-.soc-Codered {
-  &:before {
-    content: $soc-Codered; 
-  }
-}
 .soc-CoderWall {
   &:before {
     content: $soc-CoderWall; 
+  }
+}
+.soc-Codered {
+  &:before {
+    content: $soc-Codered; 
   }
 }
 .soc-Collectorz {
@@ -452,6 +457,11 @@
     content: $soc-Fiverr; 
   }
 }
+.soc-Flash {
+  &:before {
+    content: $soc-Flash; 
+  }
+}
 .soc-Flattr {
   &:before {
     content: $soc-Flattr; 
@@ -567,6 +577,11 @@
     content: $soc-Gnome; 
   }
 }
+.soc-GoToMeeting {
+  &:before {
+    content: $soc-GoToMeeting; 
+  }
+}
 .soc-GoodReads {
   &:before {
     content: $soc-GoodReads; 
@@ -615,11 +630,6 @@
 .soc-GoogleScholar {
   &:before {
     content: $soc-GoogleScholar; 
-  }
-}
-.soc-GoToMeeting {
-  &:before {
-    content: $soc-GoToMeeting; 
   }
 }
 .soc-GrooveShark {
@@ -692,6 +702,11 @@
     content: $soc-Houzz; 
   }
 }
+.soc-IMDb {
+  &:before {
+    content: $soc-IMDb; 
+  }
+}
 .soc-Icq {
   &:before {
     content: $soc-Icq; 
@@ -700,11 +715,6 @@
 .soc-Identica {
   &:before {
     content: $soc-Identica; 
-  }
-}
-.soc-IMDb {
-  &:before {
-    content: $soc-IMDb; 
   }
 }
 .soc-IndieDB {
@@ -767,14 +777,14 @@
     content: $soc-KeyBase; 
   }
 }
-.soc-Kobo {
-  &:before {
-    content: $soc-Kobo; 
-  }
-}
 .soc-Ko-Fi {
   &:before {
     content: $soc-Ko-Fi; 
+  }
+}
+.soc-Kobo {
+  &:before {
+    content: $soc-Kobo; 
   }
 }
 .soc-Lanyrd {
@@ -835,11 +845,6 @@
 .soc-Lyft {
   &:before {
     content: $soc-Lyft; 
-  }
-}
-.soc-macOS {
-  &:before {
-    content: $soc-macOS; 
   }
 }
 .soc-Mail {
@@ -1057,14 +1062,14 @@
     content: $soc-Play; 
   }
 }
-.soc-Player {
-  &:before {
-    content: $soc-Player; 
-  }
-}
 .soc-PlayStation {
   &:before {
     content: $soc-PlayStation; 
+  }
+}
+.soc-Player {
+  &:before {
+    content: $soc-Player; 
   }
 }
 .soc-Pocket {
@@ -1072,14 +1077,14 @@
     content: $soc-Pocket; 
   }
 }
-.soc-AdobePortfolio {
-  &:before {
-    content: $soc-AdobePortfolio; 
-  }
-}
 .soc-Px {
   &:before {
     content: $soc-Px; 
+  }
+}
+.soc-QRcode {
+  &:before {
+    content: $soc-QRcode; 
   }
 }
 .soc-Qobuz {
@@ -1092,14 +1097,14 @@
     content: $soc-Qq; 
   }
 }
-.soc-QRcode {
-  &:before {
-    content: $soc-QRcode; 
-  }
-}
 .soc-Quora {
   &:before {
     content: $soc-Quora; 
+  }
+}
+.soc-RSS {
+  &:before {
+    content: $soc-RSS; 
   }
 }
 .soc-RaidCall {
@@ -1115,11 +1120,6 @@
 .soc-Realtor {
   &:before {
     content: $soc-Realtor; 
-  }
-}
-.soc-reCAPTCHA {
-  &:before {
-    content: $soc-reCAPTCHA; 
   }
 }
 .soc-RedBubble {
@@ -1165,11 +1165,6 @@
 .soc-ReverbNation {
   &:before {
     content: $soc-ReverbNation; 
-  }
-}
-.soc-RSS {
-  &:before {
-    content: $soc-RSS; 
   }
 }
 .soc-Seedrs {
@@ -1532,14 +1527,14 @@
     content: $soc-Warcraft; 
   }
 }
-.soc-Weasyl {
-  &:before {
-    content: $soc-Weasyl; 
-  }
-}
 .soc-WeChat {
   &:before {
     content: $soc-WeChat; 
+  }
+}
+.soc-Weasyl {
+  &:before {
+    content: $soc-Weasyl; 
   }
 }
 .soc-Weibo {
@@ -1602,6 +1597,11 @@
     content: $soc-Xing; 
   }
 }
+.soc-YTGaming {
+  &:before {
+    content: $soc-YTGaming; 
+  }
+}
 .soc-Yahoo {
   &:before {
     content: $soc-Yahoo; 
@@ -1630,11 +1630,6 @@
 .soc-Youtube {
   &:before {
     content: $soc-Youtube; 
-  }
-}
-.soc-YTGaming {
-  &:before {
-    content: $soc-YTGaming; 
   }
 }
 .soc-Zapier {
@@ -1670,6 +1665,16 @@
 .soc-Zynga {
   &:before {
     content: $soc-Zynga; 
+  }
+}
+.soc-macOS {
+  &:before {
+    content: $soc-macOS; 
+  }
+}
+.soc-reCAPTCHA {
+  &:before {
+    content: $soc-reCAPTCHA; 
   }
 }
 

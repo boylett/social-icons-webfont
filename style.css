@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?gj3uv9');
-  src:  url('fonts/SocialIcons.eot?gj3uv9#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?gj3uv9') format('truetype'),
-    url('fonts/SocialIcons.woff?gj3uv9') format('woff'),
-    url('fonts/SocialIcons.svg?gj3uv9#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?fixpsk');
+  src:  url('fonts/SocialIcons.eot?fixpsk#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?fixpsk') format('truetype'),
+    url('fonts/SocialIcons.woff?fixpsk') format('woff'),
+    url('fonts/SocialIcons.svg?fixpsk#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,14 +35,17 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.soc-AdobePortfolio:before {
+  content: "\e943";
+}
 .soc-AirBnB:before {
   content: "\e002";
 }
-.soc-Alibaba:before {
-  content: "\e922";
-}
 .soc-AliExpress:before {
   content: "\e91d";
+}
+.soc-Alibaba:before {
+  content: "\e922";
 }
 .soc-Alliance:before {
   content: "\e003";
@@ -62,14 +65,14 @@
 .soc-AngiesList:before {
   content: "\e916";
 }
-.soc-Apple:before {
-  content: "\e008";
-}
 .soc-AppNet:before {
   content: "\e009";
 }
 .soc-AppStore:before {
   content: "\e91f";
+}
+.soc-Apple:before {
+  content: "\e008";
 }
 .soc-Archiveorg:before {
   content: "\e997";
@@ -77,14 +80,14 @@
 .soc-ArtFight:before {
   content: "\e988";
 }
+.soc-ArtStation:before {
+  content: "\e959";
+}
 .soc-Artfol:before {
   content: "\e98a";
 }
 .soc-Artistree:before {
   content: "\e99e";
-}
-.soc-ArtStation:before {
-  content: "\e959";
 }
 .soc-Ask:before {
   content: "\e930";
@@ -107,11 +110,11 @@
 .soc-BattleNet:before {
   content: "\e00c";
 }
-.soc-BeatPort:before {
-  content: "\e955";
-}
 .soc-BeBee:before {
   content: "\e00e";
+}
+.soc-BeatPort:before {
+  content: "\e955";
 }
 .soc-Bebo:before {
   content: "\e00f";
@@ -173,11 +176,11 @@
 .soc-CodePen:before {
   content: "\e917";
 }
-.soc-Codered:before {
-  content: "\e940";
-}
 .soc-CoderWall:before {
   content: "\e015";
+}
+.soc-Codered:before {
+  content: "\e940";
 }
 .soc-Collectorz:before {
   content: "\e95c";
@@ -284,6 +287,9 @@
 .soc-Fiverr:before {
   content: "\e91b";
 }
+.soc-Flash:before {
+  content: "\e919";
+}
 .soc-Flattr:before {
   content: "\e02c";
 }
@@ -353,6 +359,9 @@
 .soc-Gnome:before {
   content: "\e961";
 }
+.soc-GoToMeeting:before {
+  content: "\e91c";
+}
 .soc-GoodReads:before {
   content: "\e033";
 }
@@ -382,9 +391,6 @@
 }
 .soc-GoogleScholar:before {
   content: "\e035";
-}
-.soc-GoToMeeting:before {
-  content: "\e91c";
 }
 .soc-GrooveShark:before {
   content: "\e039";
@@ -428,14 +434,14 @@
 .soc-Houzz:before {
   content: "\e040";
 }
+.soc-IMDb:before {
+  content: "\e043";
+}
 .soc-Icq:before {
   content: "\e041";
 }
 .soc-Identica:before {
   content: "\e042";
-}
-.soc-IMDb:before {
-  content: "\e043";
 }
 .soc-IndieDB:before {
   content: "\e94c";
@@ -473,11 +479,11 @@
 .soc-KeyBase:before {
   content: "\e048";
 }
-.soc-Kobo:before {
-  content: "\e948";
-}
 .soc-Ko-Fi:before {
   content: "\e983";
+}
+.soc-Kobo:before {
+  content: "\e948";
 }
 .soc-Lanyrd:before {
   content: "\e049";
@@ -514,9 +520,6 @@
 }
 .soc-Lyft:before {
   content: "\e04e";
-}
-.soc-macOS:before {
-  content: "\e04f";
 }
 .soc-Mail:before {
   content: "\e050";
@@ -647,20 +650,20 @@
 .soc-Play:before {
   content: "\e064";
 }
-.soc-Player:before {
-  content: "\e065";
-}
 .soc-PlayStation:before {
   content: "\e066";
+}
+.soc-Player:before {
+  content: "\e065";
 }
 .soc-Pocket:before {
   content: "\e067";
 }
-.soc-AdobePortfolio:before {
-  content: "\e943";
-}
 .soc-Px:before {
   content: "\e000";
+}
+.soc-QRcode:before {
+  content: "\e98b";
 }
 .soc-Qobuz:before {
   content: "\e911";
@@ -668,11 +671,11 @@
 .soc-Qq:before {
   content: "\e068";
 }
-.soc-QRcode:before {
-  content: "\e98b";
-}
 .soc-Quora:before {
   content: "\e069";
+}
+.soc-RSS:before {
+  content: "\e071";
 }
 .soc-RaidCall:before {
   content: "\e06a";
@@ -682,9 +685,6 @@
 }
 .soc-Realtor:before {
   content: "\e90f";
-}
-.soc-reCAPTCHA:before {
-  content: "\e98e";
 }
 .soc-RedBubble:before {
   content: "\e979";
@@ -712,9 +712,6 @@
 }
 .soc-ReverbNation:before {
   content: "\e070";
-}
-.soc-RSS:before {
-  content: "\e071";
 }
 .soc-Seedrs:before {
   content: "\e929";
@@ -932,11 +929,11 @@
 .soc-Warcraft:before {
   content: "\e096";
 }
-.soc-Weasyl:before {
-  content: "\e996";
-}
 .soc-WeChat:before {
   content: "\e097";
+}
+.soc-Weasyl:before {
+  content: "\e996";
 }
 .soc-Weibo:before {
   content: "\e098";
@@ -974,6 +971,9 @@
 .soc-Xing:before {
   content: "\e09f";
 }
+.soc-YTGaming:before {
+  content: "\e90b";
+}
 .soc-Yahoo:before {
   content: "\e0a0";
 }
@@ -991,9 +991,6 @@
 }
 .soc-Youtube:before {
   content: "\e0a5";
-}
-.soc-YTGaming:before {
-  content: "\e90b";
 }
 .soc-Zapier:before {
   content: "\e0a6";
@@ -1015,4 +1012,10 @@
 }
 .soc-Zynga:before {
   content: "\e0a9";
+}
+.soc-macOS:before {
+  content: "\e04f";
+}
+.soc-reCAPTCHA:before {
+  content: "\e98e";
 }
