@@ -206,7 +206,6 @@
             'metapop': '&#xe970;',
             'microsoft': '&#xe90e;',
             'mix': '&#xe964;',
-            'mixcloud': '&#xe053;',
             'mixer': '&#xe00d;',
             'mobcrush': '&#xe90d;',
             'moddb': '&#xe94b;',
@@ -369,6 +368,7 @@
             'zoom': '&#xe921;',
             'zynga': '&#xe0a9;',
             'macos': '&#xe04f;',
+            'mixcloud': '&#xe9a3;',
             'recaptcha': '&#xe98e;',
             'captcha': '&#xe98e;',
           '0': 0

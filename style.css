@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?fixpsk');
-  src:  url('fonts/SocialIcons.eot?fixpsk#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?fixpsk') format('truetype'),
-    url('fonts/SocialIcons.woff?fixpsk') format('woff'),
-    url('fonts/SocialIcons.svg?fixpsk#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?s63mju');
+  src:  url('fonts/SocialIcons.eot?s63mju#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?s63mju') format('truetype'),
+    url('fonts/SocialIcons.woff?s63mju') format('woff'),
+    url('fonts/SocialIcons.svg?s63mju#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -548,9 +548,6 @@
 .soc-Mix:before {
   content: "\e964";
 }
-.soc-MixCloud:before {
-  content: "\e053";
-}
 .soc-Mixer:before {
   content: "\e00d";
 }
@@ -1015,6 +1012,9 @@
 }
 .soc-macOS:before {
   content: "\e04f";
+}
+.soc-mixcloud:before {
+  content: "\e9a3";
 }
 .soc-reCAPTCHA:before {
   content: "\e98e";
