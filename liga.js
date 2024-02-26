@@ -232,6 +232,7 @@
             'outlook': '&#xe05d;',
             'overwatch': '&#xe05e;',
             'pandora': '&#xe907;',
+            'paperdemon': '&#xe9a6;',
             'patreon': '&#xe99b;',
             'paypal': '&#xe99c;',
             'periscope': '&#xe061;',

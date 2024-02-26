@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?sejnkv');
-  src:  url('fonts/SocialIcons.eot?sejnkv#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?sejnkv') format('truetype'),
-    url('fonts/SocialIcons.woff?sejnkv') format('woff'),
-    url('fonts/SocialIcons.svg?sejnkv#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?1edpmy');
+  src:  url('fonts/SocialIcons.eot?1edpmy#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?1edpmy') format('truetype'),
+    url('fonts/SocialIcons.woff?1edpmy') format('woff'),
+    url('fonts/SocialIcons.svg?1edpmy#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -622,6 +622,9 @@
 }
 .soc-Pandora:before {
   content: "\e907";
+}
+.soc-PaperDemon:before {
+  content: "\e9a6";
 }
 .soc-Patreon:before {
   content: "\e99b";
