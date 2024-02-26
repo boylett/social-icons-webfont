@@ -327,6 +327,8 @@
             'udemy': '&#xe93f;',
             'unsplash': '&#xe914;',
             'upwork': '&#xe934;',
+            'vgen': '&#xe9a4;',
+            'vstream': '&#xe9a5;',
             'ventrilo': '&#xe08f;',
             'viadeo': '&#xe090;',
             'viber': '&#xe091;',

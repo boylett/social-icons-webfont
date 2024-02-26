@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?s63mju');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?s63mju#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?s63mju') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?s63mju') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?s63mju##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?sejnkv');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?sejnkv#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?sejnkv') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?sejnkv') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?sejnkv##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -39,1642 +39,1652 @@
 
 .soc-AdobePortfolio {
   &:before {
-    content: unquote("\"#{ $soc-AdobePortfolio }\""); 
+    content: $soc-AdobePortfolio; 
   }
 }
 .soc-AirBnB {
   &:before {
-    content: unquote("\"#{ $soc-AirBnB }\""); 
+    content: $soc-AirBnB; 
   }
 }
 .soc-AliExpress {
   &:before {
-    content: unquote("\"#{ $soc-AliExpress }\""); 
+    content: $soc-AliExpress; 
   }
 }
 .soc-Alibaba {
   &:before {
-    content: unquote("\"#{ $soc-Alibaba }\""); 
+    content: $soc-Alibaba; 
   }
 }
 .soc-Alliance {
   &:before {
-    content: unquote("\"#{ $soc-Alliance }\""); 
+    content: $soc-Alliance; 
   }
 }
 .soc-Amazon {
   &:before {
-    content: unquote("\"#{ $soc-Amazon }\""); 
+    content: $soc-Amazon; 
   }
 }
 .soc-Amplement {
   &:before {
-    content: unquote("\"#{ $soc-Amplement }\""); 
+    content: $soc-Amplement; 
   }
 }
 .soc-Android {
   &:before {
-    content: unquote("\"#{ $soc-Android }\""); 
+    content: $soc-Android; 
   }
 }
 .soc-AngelList {
   &:before {
-    content: unquote("\"#{ $soc-AngelList }\""); 
+    content: $soc-AngelList; 
   }
 }
 .soc-AngiesList {
   &:before {
-    content: unquote("\"#{ $soc-AngiesList }\""); 
+    content: $soc-AngiesList; 
   }
 }
 .soc-AppNet {
   &:before {
-    content: unquote("\"#{ $soc-AppNet }\""); 
+    content: $soc-AppNet; 
   }
 }
 .soc-AppStore {
   &:before {
-    content: unquote("\"#{ $soc-AppStore }\""); 
+    content: $soc-AppStore; 
   }
 }
 .soc-Apple {
   &:before {
-    content: unquote("\"#{ $soc-Apple }\""); 
+    content: $soc-Apple; 
   }
 }
 .soc-Archiveorg {
   &:before {
-    content: unquote("\"#{ $soc-Archiveorg }\""); 
+    content: $soc-Archiveorg; 
   }
 }
 .soc-ArtFight {
   &:before {
-    content: unquote("\"#{ $soc-ArtFight }\""); 
+    content: $soc-ArtFight; 
   }
 }
 .soc-ArtStation {
   &:before {
-    content: unquote("\"#{ $soc-ArtStation }\""); 
+    content: $soc-ArtStation; 
   }
 }
 .soc-Artfol {
   &:before {
-    content: unquote("\"#{ $soc-Artfol }\""); 
+    content: $soc-Artfol; 
   }
 }
 .soc-Artistree {
   &:before {
-    content: unquote("\"#{ $soc-Artistree }\""); 
+    content: $soc-Artistree; 
   }
 }
 .soc-Ask {
   &:before {
-    content: unquote("\"#{ $soc-Ask }\""); 
+    content: $soc-Ask; 
   }
 }
 .soc-Augment {
   &:before {
-    content: unquote("\"#{ $soc-Augment }\""); 
+    content: $soc-Augment; 
   }
 }
 .soc-Avvo {
   &:before {
-    content: unquote("\"#{ $soc-Avvo }\""); 
+    content: $soc-Avvo; 
   }
 }
 .soc-Baidu {
   &:before {
-    content: unquote("\"#{ $soc-Baidu }\""); 
+    content: $soc-Baidu; 
   }
 }
 .soc-Bale {
   &:before {
-    content: unquote("\"#{ $soc-Bale }\""); 
+    content: $soc-Bale; 
   }
 }
 .soc-BandCamp {
   &:before {
-    content: unquote("\"#{ $soc-BandCamp }\""); 
+    content: $soc-BandCamp; 
   }
 }
 .soc-BattleNet {
   &:before {
-    content: unquote("\"#{ $soc-BattleNet }\""); 
+    content: $soc-BattleNet; 
   }
 }
 .soc-BeBee {
   &:before {
-    content: unquote("\"#{ $soc-BeBee }\""); 
+    content: $soc-BeBee; 
   }
 }
 .soc-BeatPort {
   &:before {
-    content: unquote("\"#{ $soc-BeatPort }\""); 
+    content: $soc-BeatPort; 
   }
 }
 .soc-Bebo {
   &:before {
-    content: unquote("\"#{ $soc-Bebo }\""); 
+    content: $soc-Bebo; 
   }
 }
 .soc-Behance {
   &:before {
-    content: unquote("\"#{ $soc-Behance }\""); 
+    content: $soc-Behance; 
   }
 }
 .soc-Bing {
   &:before {
-    content: unquote("\"#{ $soc-Bing }\""); 
+    content: $soc-Bing; 
   }
 }
 .soc-BitBucket {
   &:before {
-    content: unquote("\"#{ $soc-BitBucket }\""); 
+    content: $soc-BitBucket; 
   }
 }
 .soc-Blackberry {
   &:before {
-    content: unquote("\"#{ $soc-Blackberry }\""); 
+    content: $soc-Blackberry; 
   }
 }
 .soc-Blizzard {
   &:before {
-    content: unquote("\"#{ $soc-Blizzard }\""); 
+    content: $soc-Blizzard; 
   }
 }
 .soc-Blogger {
   &:before {
-    content: unquote("\"#{ $soc-Blogger }\""); 
+    content: $soc-Blogger; 
   }
 }
 .soc-Bloglovin {
   &:before {
-    content: unquote("\"#{ $soc-Bloglovin }\""); 
+    content: $soc-Bloglovin; 
   }
 }
 .soc-BlueSky {
   &:before {
-    content: unquote("\"#{ $soc-BlueSky }\""); 
+    content: $soc-BlueSky; 
   }
 }
 .soc-Bonanza {
   &:before {
-    content: unquote("\"#{ $soc-Bonanza }\""); 
+    content: $soc-Bonanza; 
   }
 }
 .soc-Bookbub {
   &:before {
-    content: unquote("\"#{ $soc-Bookbub }\""); 
+    content: $soc-Bookbub; 
   }
 }
 .soc-Booking {
   &:before {
-    content: unquote("\"#{ $soc-Booking }\""); 
+    content: $soc-Booking; 
   }
 }
 .soc-Buffer {
   &:before {
-    content: unquote("\"#{ $soc-Buffer }\""); 
+    content: $soc-Buffer; 
   }
 }
 .soc-Buzzly {
   &:before {
-    content: unquote("\"#{ $soc-Buzzly }\""); 
+    content: $soc-Buzzly; 
   }
 }
 .soc-Calendly {
   &:before {
-    content: unquote("\"#{ $soc-Calendly }\""); 
+    content: $soc-Calendly; 
   }
 }
 .soc-Cara {
   &:before {
-    content: unquote("\"#{ $soc-Cara }\""); 
+    content: $soc-Cara; 
   }
 }
 .soc-Carrd {
   &:before {
-    content: unquote("\"#{ $soc-Carrd }\""); 
+    content: $soc-Carrd; 
   }
 }
 .soc-CdBaby {
   &:before {
-    content: unquote("\"#{ $soc-CdBaby }\""); 
+    content: $soc-CdBaby; 
   }
 }
 .soc-Chrome {
   &:before {
-    content: unquote("\"#{ $soc-Chrome }\""); 
+    content: $soc-Chrome; 
   }
 }
 .soc-CodePen {
   &:before {
-    content: unquote("\"#{ $soc-CodePen }\""); 
+    content: $soc-CodePen; 
   }
 }
 .soc-CoderWall {
   &:before {
-    content: unquote("\"#{ $soc-CoderWall }\""); 
+    content: $soc-CoderWall; 
   }
 }
 .soc-Codered {
   &:before {
-    content: unquote("\"#{ $soc-Codered }\""); 
+    content: $soc-Codered; 
   }
 }
 .soc-Collectorz {
   &:before {
-    content: unquote("\"#{ $soc-Collectorz }\""); 
+    content: $soc-Collectorz; 
   }
 }
 .soc-ComicFury {
   &:before {
-    content: unquote("\"#{ $soc-ComicFury }\""); 
+    content: $soc-ComicFury; 
   }
 }
 .soc-CraigsList {
   &:before {
-    content: unquote("\"#{ $soc-CraigsList }\""); 
+    content: $soc-CraigsList; 
   }
 }
 .soc-CrunchBase {
   &:before {
-    content: unquote("\"#{ $soc-CrunchBase }\""); 
+    content: $soc-CrunchBase; 
   }
 }
 .soc-Curiouscat {
   &:before {
-    content: unquote("\"#{ $soc-Curiouscat }\""); 
+    content: $soc-Curiouscat; 
   }
 }
 .soc-Curse {
   &:before {
-    content: unquote("\"#{ $soc-Curse }\""); 
+    content: $soc-Curse; 
   }
 }
 .soc-Dailymotion {
   &:before {
-    content: unquote("\"#{ $soc-Dailymotion }\""); 
+    content: $soc-Dailymotion; 
   }
 }
 .soc-Debian {
   &:before {
-    content: unquote("\"#{ $soc-Debian }\""); 
+    content: $soc-Debian; 
   }
 }
 .soc-Deezer {
   &:before {
-    content: unquote("\"#{ $soc-Deezer }\""); 
+    content: $soc-Deezer; 
   }
 }
 .soc-Delicious {
   &:before {
-    content: unquote("\"#{ $soc-Delicious }\""); 
+    content: $soc-Delicious; 
   }
 }
 .soc-Deviantart {
   &:before {
-    content: unquote("\"#{ $soc-Deviantart }\""); 
+    content: $soc-Deviantart; 
   }
 }
 .soc-Diablo {
   &:before {
-    content: unquote("\"#{ $soc-Diablo }\""); 
+    content: $soc-Diablo; 
   }
 }
 .soc-Digg {
   &:before {
-    content: unquote("\"#{ $soc-Digg }\""); 
+    content: $soc-Digg; 
   }
 }
 .soc-DigitalOcean {
   &:before {
-    content: unquote("\"#{ $soc-DigitalOcean }\""); 
+    content: $soc-DigitalOcean; 
   }
 }
 .soc-Discord {
   &:before {
-    content: unquote("\"#{ $soc-Discord }\""); 
+    content: $soc-Discord; 
   }
 }
 .soc-Disqus {
   &:before {
-    content: unquote("\"#{ $soc-Disqus }\""); 
+    content: $soc-Disqus; 
   }
 }
 .soc-Dlive {
   &:before {
-    content: unquote("\"#{ $soc-Dlive }\""); 
+    content: $soc-Dlive; 
   }
 }
 .soc-Doodle {
   &:before {
-    content: unquote("\"#{ $soc-Doodle }\""); 
+    content: $soc-Doodle; 
   }
 }
 .soc-Douban {
   &:before {
-    content: unquote("\"#{ $soc-Douban }\""); 
+    content: $soc-Douban; 
   }
 }
 .soc-Draugiem {
   &:before {
-    content: unquote("\"#{ $soc-Draugiem }\""); 
+    content: $soc-Draugiem; 
   }
 }
 .soc-Dribbble {
   &:before {
-    content: unquote("\"#{ $soc-Dribbble }\""); 
+    content: $soc-Dribbble; 
   }
 }
 .soc-Drupal {
   &:before {
-    content: unquote("\"#{ $soc-Drupal }\""); 
+    content: $soc-Drupal; 
   }
 }
 .soc-Ebay {
   &:before {
-    content: unquote("\"#{ $soc-Ebay }\""); 
+    content: $soc-Ebay; 
   }
 }
 .soc-Eitaa {
   &:before {
-    content: unquote("\"#{ $soc-Eitaa }\""); 
+    content: $soc-Eitaa; 
   }
 }
 .soc-ElementaryOS {
   &:before {
-    content: unquote("\"#{ $soc-ElementaryOS }\""); 
+    content: $soc-ElementaryOS; 
   }
 }
 .soc-Ello {
   &:before {
-    content: unquote("\"#{ $soc-Ello }\""); 
+    content: $soc-Ello; 
   }
 }
 .soc-Endomodo {
   &:before {
-    content: unquote("\"#{ $soc-Endomodo }\""); 
+    content: $soc-Endomodo; 
   }
 }
 .soc-Envato {
   &:before {
-    content: unquote("\"#{ $soc-Envato }\""); 
+    content: $soc-Envato; 
   }
 }
 .soc-Etsy {
   &:before {
-    content: unquote("\"#{ $soc-Etsy }\""); 
+    content: $soc-Etsy; 
   }
 }
 .soc-Facebook {
   &:before {
-    content: unquote("\"#{ $soc-Facebook }\""); 
+    content: $soc-Facebook; 
   }
 }
 .soc-FeedBurner {
   &:before {
-    content: unquote("\"#{ $soc-FeedBurner }\""); 
+    content: $soc-FeedBurner; 
   }
 }
 .soc-FilmFreeway {
   &:before {
-    content: unquote("\"#{ $soc-FilmFreeway }\""); 
+    content: $soc-FilmFreeway; 
   }
 }
 .soc-FilmWeb {
   &:before {
-    content: unquote("\"#{ $soc-FilmWeb }\""); 
+    content: $soc-FilmWeb; 
   }
 }
 .soc-Firefox {
   &:before {
-    content: unquote("\"#{ $soc-Firefox }\""); 
+    content: $soc-Firefox; 
   }
 }
 .soc-Fiverr {
   &:before {
-    content: unquote("\"#{ $soc-Fiverr }\""); 
+    content: $soc-Fiverr; 
   }
 }
 .soc-Flash {
   &:before {
-    content: unquote("\"#{ $soc-Flash }\""); 
+    content: $soc-Flash; 
   }
 }
 .soc-Flattr {
   &:before {
-    content: unquote("\"#{ $soc-Flattr }\""); 
+    content: $soc-Flattr; 
   }
 }
 .soc-Flickr {
   &:before {
-    content: unquote("\"#{ $soc-Flickr }\""); 
+    content: $soc-Flickr; 
   }
 }
 .soc-FlipBoard {
   &:before {
-    content: unquote("\"#{ $soc-FlipBoard }\""); 
+    content: $soc-FlipBoard; 
   }
 }
 .soc-FlowCode {
   &:before {
-    content: unquote("\"#{ $soc-FlowCode }\""); 
+    content: $soc-FlowCode; 
   }
 }
 .soc-Formulr {
   &:before {
-    content: unquote("\"#{ $soc-Formulr }\""); 
+    content: $soc-Formulr; 
   }
 }
 .soc-Forrst {
   &:before {
-    content: unquote("\"#{ $soc-Forrst }\""); 
+    content: $soc-Forrst; 
   }
 }
 .soc-FourSquare {
   &:before {
-    content: unquote("\"#{ $soc-FourSquare }\""); 
+    content: $soc-FourSquare; 
   }
 }
 .soc-Freelancer {
   &:before {
-    content: unquote("\"#{ $soc-Freelancer }\""); 
+    content: $soc-Freelancer; 
   }
 }
 .soc-FriendFeed {
   &:before {
-    content: unquote("\"#{ $soc-FriendFeed }\""); 
+    content: $soc-FriendFeed; 
   }
 }
 .soc-Fundable {
   &:before {
-    content: unquote("\"#{ $soc-Fundable }\""); 
+    content: $soc-Fundable; 
   }
 }
 .soc-FurAffinity {
   &:before {
-    content: unquote("\"#{ $soc-FurAffinity }\""); 
+    content: $soc-FurAffinity; 
   }
 }
 .soc-Furvilla {
   &:before {
-    content: unquote("\"#{ $soc-Furvilla }\""); 
+    content: $soc-Furvilla; 
   }
 }
 .soc-Fyuse {
   &:before {
-    content: unquote("\"#{ $soc-Fyuse }\""); 
+    content: $soc-Fyuse; 
   }
 }
 .soc-Gag {
   &:before {
-    content: unquote("\"#{ $soc-Gag }\""); 
+    content: $soc-Gag; 
   }
 }
 .soc-GameFor {
   &:before {
-    content: unquote("\"#{ $soc-GameFor }\""); 
+    content: $soc-GameFor; 
   }
 }
 .soc-GameJolt {
   &:before {
-    content: unquote("\"#{ $soc-GameJolt }\""); 
+    content: $soc-GameJolt; 
   }
 }
 .soc-GameWisp {
   &:before {
-    content: unquote("\"#{ $soc-GameWisp }\""); 
+    content: $soc-GameWisp; 
   }
 }
 .soc-Ghost {
   &:before {
-    content: unquote("\"#{ $soc-Ghost }\""); 
+    content: $soc-Ghost; 
   }
 }
 .soc-GitHub {
   &:before {
-    content: unquote("\"#{ $soc-GitHub }\""); 
+    content: $soc-GitHub; 
   }
 }
 .soc-Gitlab {
   &:before {
-    content: unquote("\"#{ $soc-Gitlab }\""); 
+    content: $soc-Gitlab; 
   }
 }
 .soc-Gitter {
   &:before {
-    content: unquote("\"#{ $soc-Gitter }\""); 
+    content: $soc-Gitter; 
   }
 }
 .soc-Glaze {
   &:before {
-    content: unquote("\"#{ $soc-Glaze }\""); 
+    content: $soc-Glaze; 
   }
 }
 .soc-Gnome {
   &:before {
-    content: unquote("\"#{ $soc-Gnome }\""); 
+    content: $soc-Gnome; 
   }
 }
 .soc-GoToMeeting {
   &:before {
-    content: unquote("\"#{ $soc-GoToMeeting }\""); 
+    content: $soc-GoToMeeting; 
   }
 }
 .soc-GoodReads {
   &:before {
-    content: unquote("\"#{ $soc-GoodReads }\""); 
+    content: $soc-GoodReads; 
   }
 }
 .soc-Google {
   &:before {
-    content: unquote("\"#{ $soc-Google }\""); 
+    content: $soc-Google; 
   }
 }
 .soc-GoogleCalendar {
   &:before {
-    content: unquote("\"#{ $soc-GoogleCalendar }\""); 
+    content: $soc-GoogleCalendar; 
   }
 }
 .soc-GoogleGroups {
   &:before {
-    content: unquote("\"#{ $soc-GoogleGroups }\""); 
+    content: $soc-GoogleGroups; 
   }
 }
 .soc-GoogleHangouts {
   &:before {
-    content: unquote("\"#{ $soc-GoogleHangouts }\""); 
+    content: $soc-GoogleHangouts; 
   }
 }
 .soc-GoogleMaps {
   &:before {
-    content: unquote("\"#{ $soc-GoogleMaps }\""); 
+    content: $soc-GoogleMaps; 
   }
 }
 .soc-GooglePhotos {
   &:before {
-    content: unquote("\"#{ $soc-GooglePhotos }\""); 
+    content: $soc-GooglePhotos; 
   }
 }
 .soc-GooglePlayMusic {
   &:before {
-    content: unquote("\"#{ $soc-GooglePlayMusic }\""); 
+    content: $soc-GooglePlayMusic; 
   }
 }
 .soc-GooglePlus {
   &:before {
-    content: unquote("\"#{ $soc-GooglePlus }\""); 
+    content: $soc-GooglePlus; 
   }
 }
 .soc-GoogleScholar {
   &:before {
-    content: unquote("\"#{ $soc-GoogleScholar }\""); 
+    content: $soc-GoogleScholar; 
   }
 }
 .soc-GrooveShark {
   &:before {
-    content: unquote("\"#{ $soc-GrooveShark }\""); 
+    content: $soc-GrooveShark; 
   }
 }
 .soc-Guru {
   &:before {
-    content: unquote("\"#{ $soc-Guru }\""); 
+    content: $soc-Guru; 
   }
 }
 .soc-Gust {
   &:before {
-    content: unquote("\"#{ $soc-Gust }\""); 
+    content: $soc-Gust; 
   }
 }
 .soc-HackerNews {
   &:before {
-    content: unquote("\"#{ $soc-HackerNews }\""); 
+    content: $soc-HackerNews; 
   }
 }
 .soc-HackerOne {
   &:before {
-    content: unquote("\"#{ $soc-HackerOne }\""); 
+    content: $soc-HackerOne; 
   }
 }
 .soc-HackerRank {
   &:before {
-    content: unquote("\"#{ $soc-HackerRank }\""); 
+    content: $soc-HackerRank; 
   }
 }
 .soc-HearthStone {
   &:before {
-    content: unquote("\"#{ $soc-HearthStone }\""); 
+    content: $soc-HearthStone; 
   }
 }
 .soc-Hellocoton {
   &:before {
-    content: unquote("\"#{ $soc-Hellocoton }\""); 
+    content: $soc-Hellocoton; 
   }
 }
 .soc-Heroes {
   &:before {
-    content: unquote("\"#{ $soc-Heroes }\""); 
+    content: $soc-Heroes; 
   }
 }
 .soc-HomeAdvisor {
   &:before {
-    content: unquote("\"#{ $soc-HomeAdvisor }\""); 
+    content: $soc-HomeAdvisor; 
   }
 }
 .soc-Homefy {
   &:before {
-    content: unquote("\"#{ $soc-Homefy }\""); 
+    content: $soc-Homefy; 
   }
 }
 .soc-Homes {
   &:before {
-    content: unquote("\"#{ $soc-Homes }\""); 
+    content: $soc-Homes; 
   }
 }
 .soc-Horde {
   &:before {
-    content: unquote("\"#{ $soc-Horde }\""); 
+    content: $soc-Horde; 
   }
 }
 .soc-Houzz {
   &:before {
-    content: unquote("\"#{ $soc-Houzz }\""); 
+    content: $soc-Houzz; 
   }
 }
 .soc-IMDb {
   &:before {
-    content: unquote("\"#{ $soc-IMDb }\""); 
+    content: $soc-IMDb; 
   }
 }
 .soc-Icq {
   &:before {
-    content: unquote("\"#{ $soc-Icq }\""); 
+    content: $soc-Icq; 
   }
 }
 .soc-Identica {
   &:before {
-    content: unquote("\"#{ $soc-Identica }\""); 
+    content: $soc-Identica; 
   }
 }
 .soc-IndieDB {
   &:before {
-    content: unquote("\"#{ $soc-IndieDB }\""); 
+    content: $soc-IndieDB; 
   }
 }
 .soc-Inkblot {
   &:before {
-    content: unquote("\"#{ $soc-Inkblot }\""); 
+    content: $soc-Inkblot; 
   }
 }
 .soc-Instagram {
   &:before {
-    content: unquote("\"#{ $soc-Instagram }\""); 
+    content: $soc-Instagram; 
   }
 }
 .soc-Instructables {
   &:before {
-    content: unquote("\"#{ $soc-Instructables }\""); 
+    content: $soc-Instructables; 
   }
 }
 .soc-Internet {
   &:before {
-    content: unquote("\"#{ $soc-Internet }\""); 
+    content: $soc-Internet; 
   }
 }
 .soc-Invision {
   &:before {
-    content: unquote("\"#{ $soc-Invision }\""); 
+    content: $soc-Invision; 
   }
 }
 .soc-Issuu {
   &:before {
-    content: unquote("\"#{ $soc-Issuu }\""); 
+    content: $soc-Issuu; 
   }
 }
 .soc-Istock {
   &:before {
-    content: unquote("\"#{ $soc-Istock }\""); 
+    content: $soc-Istock; 
   }
 }
 .soc-Itchio {
   &:before {
-    content: unquote("\"#{ $soc-Itchio }\""); 
+    content: $soc-Itchio; 
   }
 }
 .soc-Itunes {
   &:before {
-    content: unquote("\"#{ $soc-Itunes }\""); 
+    content: $soc-Itunes; 
   }
 }
 .soc-Jamendo {
   &:before {
-    content: unquote("\"#{ $soc-Jamendo }\""); 
+    content: $soc-Jamendo; 
   }
 }
 .soc-KeyBase {
   &:before {
-    content: unquote("\"#{ $soc-KeyBase }\""); 
+    content: $soc-KeyBase; 
   }
 }
 .soc-Ko-Fi {
   &:before {
-    content: unquote("\"#{ $soc-Ko-Fi }\""); 
+    content: $soc-Ko-Fi; 
   }
 }
 .soc-Kobo {
   &:before {
-    content: unquote("\"#{ $soc-Kobo }\""); 
+    content: $soc-Kobo; 
   }
 }
 .soc-Lanyrd {
   &:before {
-    content: unquote("\"#{ $soc-Lanyrd }\""); 
+    content: $soc-Lanyrd; 
   }
 }
 .soc-LastFM {
   &:before {
-    content: unquote("\"#{ $soc-LastFM }\""); 
+    content: $soc-LastFM; 
   }
 }
 .soc-LeprdSpace {
   &:before {
-    content: unquote("\"#{ $soc-LeprdSpace }\""); 
+    content: $soc-LeprdSpace; 
   }
 }
 .soc-LetterBoxd {
   &:before {
-    content: unquote("\"#{ $soc-LetterBoxd }\""); 
+    content: $soc-LetterBoxd; 
   }
 }
 .soc-Line {
   &:before {
-    content: unquote("\"#{ $soc-Line }\""); 
+    content: $soc-Line; 
   }
 }
 .soc-LinkedIn {
   &:before {
-    content: unquote("\"#{ $soc-LinkedIn }\""); 
+    content: $soc-LinkedIn; 
   }
 }
 .soc-Linktree {
   &:before {
-    content: unquote("\"#{ $soc-Linktree }\""); 
+    content: $soc-Linktree; 
   }
 }
 .soc-LiveJournal {
   &:before {
-    content: unquote("\"#{ $soc-LiveJournal }\""); 
+    content: $soc-LiveJournal; 
   }
 }
 .soc-LiveMaster {
   &:before {
-    content: unquote("\"#{ $soc-LiveMaster }\""); 
+    content: $soc-LiveMaster; 
   }
 }
 .soc-LogMeIn {
   &:before {
-    content: unquote("\"#{ $soc-LogMeIn }\""); 
+    content: $soc-LogMeIn; 
   }
 }
 .soc-Loomly {
   &:before {
-    content: unquote("\"#{ $soc-Loomly }\""); 
+    content: $soc-Loomly; 
   }
 }
 .soc-Lyft {
   &:before {
-    content: unquote("\"#{ $soc-Lyft }\""); 
+    content: $soc-Lyft; 
   }
 }
 .soc-Mail {
   &:before {
-    content: unquote("\"#{ $soc-Mail }\""); 
+    content: $soc-Mail; 
   }
 }
 .soc-Mailru {
   &:before {
-    content: unquote("\"#{ $soc-Mailru }\""); 
+    content: $soc-Mailru; 
   }
 }
 .soc-Mastodon {
   &:before {
-    content: unquote("\"#{ $soc-Mastodon }\""); 
+    content: $soc-Mastodon; 
   }
 }
 .soc-Medium {
   &:before {
-    content: unquote("\"#{ $soc-Medium }\""); 
+    content: $soc-Medium; 
   }
 }
 .soc-Meetup {
   &:before {
-    content: unquote("\"#{ $soc-Meetup }\""); 
+    content: $soc-Meetup; 
   }
 }
 .soc-Messenger {
   &:before {
-    content: unquote("\"#{ $soc-Messenger }\""); 
+    content: $soc-Messenger; 
   }
 }
 .soc-Metapop {
   &:before {
-    content: unquote("\"#{ $soc-Metapop }\""); 
+    content: $soc-Metapop; 
   }
 }
 .soc-Microsoft {
   &:before {
-    content: unquote("\"#{ $soc-Microsoft }\""); 
+    content: $soc-Microsoft; 
   }
 }
 .soc-Mix {
   &:before {
-    content: unquote("\"#{ $soc-Mix }\""); 
+    content: $soc-Mix; 
   }
 }
 .soc-Mixer {
   &:before {
-    content: unquote("\"#{ $soc-Mixer }\""); 
+    content: $soc-Mixer; 
   }
 }
 .soc-MobCrush {
   &:before {
-    content: unquote("\"#{ $soc-MobCrush }\""); 
+    content: $soc-MobCrush; 
   }
 }
 .soc-Moddb {
   &:before {
-    content: unquote("\"#{ $soc-Moddb }\""); 
+    content: $soc-Moddb; 
   }
 }
 .soc-ModelMayhem {
   &:before {
-    content: unquote("\"#{ $soc-ModelMayhem }\""); 
+    content: $soc-ModelMayhem; 
   }
 }
 .soc-ModerNeopets {
   &:before {
-    content: unquote("\"#{ $soc-ModerNeopets }\""); 
+    content: $soc-ModerNeopets; 
   }
 }
 .soc-Mumble {
   &:before {
-    content: unquote("\"#{ $soc-Mumble }\""); 
+    content: $soc-Mumble; 
   }
 }
 .soc-MyAnimeList {
   &:before {
-    content: unquote("\"#{ $soc-MyAnimeList }\""); 
+    content: $soc-MyAnimeList; 
   }
 }
 .soc-MySpace {
   &:before {
-    content: unquote("\"#{ $soc-MySpace }\""); 
+    content: $soc-MySpace; 
   }
 }
 .soc-Napster {
   &:before {
-    content: unquote("\"#{ $soc-Napster }\""); 
+    content: $soc-Napster; 
   }
 }
 .soc-Natgeo {
   &:before {
-    content: unquote("\"#{ $soc-Natgeo }\""); 
+    content: $soc-Natgeo; 
   }
 }
 .soc-Naver {
   &:before {
-    content: unquote("\"#{ $soc-Naver }\""); 
+    content: $soc-Naver; 
   }
 }
 .soc-Neocities {
   &:before {
-    content: unquote("\"#{ $soc-Neocities }\""); 
+    content: $soc-Neocities; 
   }
 }
 .soc-Neopets {
   &:before {
-    content: unquote("\"#{ $soc-Neopets }\""); 
+    content: $soc-Neopets; 
   }
 }
 .soc-Newgrounds {
   &:before {
-    content: unquote("\"#{ $soc-Newgrounds }\""); 
+    content: $soc-Newgrounds; 
   }
 }
 .soc-NewsVine {
   &:before {
-    content: unquote("\"#{ $soc-NewsVine }\""); 
+    content: $soc-NewsVine; 
   }
 }
 .soc-Nextdoor {
   &:before {
-    content: unquote("\"#{ $soc-Nextdoor }\""); 
+    content: $soc-Nextdoor; 
   }
 }
 .soc-Niconico {
   &:before {
-    content: unquote("\"#{ $soc-Niconico }\""); 
+    content: $soc-Niconico; 
   }
 }
 .soc-Nintendo {
   &:before {
-    content: unquote("\"#{ $soc-Nintendo }\""); 
+    content: $soc-Nintendo; 
   }
 }
 .soc-Npm {
   &:before {
-    content: unquote("\"#{ $soc-Npm }\""); 
+    content: $soc-Npm; 
   }
 }
 .soc-Odnoklassniki {
   &:before {
-    content: unquote("\"#{ $soc-Odnoklassniki }\""); 
+    content: $soc-Odnoklassniki; 
   }
 }
 .soc-Opera {
   &:before {
-    content: unquote("\"#{ $soc-Opera }\""); 
+    content: $soc-Opera; 
   }
 }
 .soc-Origin {
   &:before {
-    content: unquote("\"#{ $soc-Origin }\""); 
+    content: $soc-Origin; 
   }
 }
 .soc-Outlook {
   &:before {
-    content: unquote("\"#{ $soc-Outlook }\""); 
+    content: $soc-Outlook; 
   }
 }
 .soc-Overwatch {
   &:before {
-    content: unquote("\"#{ $soc-Overwatch }\""); 
+    content: $soc-Overwatch; 
   }
 }
 .soc-Pandora {
   &:before {
-    content: unquote("\"#{ $soc-Pandora }\""); 
+    content: $soc-Pandora; 
   }
 }
 .soc-Patreon {
   &:before {
-    content: unquote("\"#{ $soc-Patreon }\""); 
+    content: $soc-Patreon; 
   }
 }
 .soc-Paypal {
   &:before {
-    content: unquote("\"#{ $soc-Paypal }\""); 
+    content: $soc-Paypal; 
   }
 }
 .soc-Periscope {
   &:before {
-    content: unquote("\"#{ $soc-Periscope }\""); 
+    content: $soc-Periscope; 
   }
 }
 .soc-Persona {
   &:before {
-    content: unquote("\"#{ $soc-Persona }\""); 
+    content: $soc-Persona; 
   }
 }
 .soc-PillowFort {
   &:before {
-    content: unquote("\"#{ $soc-PillowFort }\""); 
+    content: $soc-PillowFort; 
   }
 }
 .soc-Pinterest {
   &:before {
-    content: unquote("\"#{ $soc-Pinterest }\""); 
+    content: $soc-Pinterest; 
   }
 }
 .soc-Pixiv {
   &:before {
-    content: unquote("\"#{ $soc-Pixiv }\""); 
+    content: $soc-Pixiv; 
   }
 }
 .soc-Play {
   &:before {
-    content: unquote("\"#{ $soc-Play }\""); 
+    content: $soc-Play; 
   }
 }
 .soc-PlayStation {
   &:before {
-    content: unquote("\"#{ $soc-PlayStation }\""); 
+    content: $soc-PlayStation; 
   }
 }
 .soc-Player {
   &:before {
-    content: unquote("\"#{ $soc-Player }\""); 
+    content: $soc-Player; 
   }
 }
 .soc-Pocket {
   &:before {
-    content: unquote("\"#{ $soc-Pocket }\""); 
+    content: $soc-Pocket; 
   }
 }
 .soc-Px {
   &:before {
-    content: unquote("\"#{ $soc-Px }\""); 
+    content: $soc-Px; 
   }
 }
 .soc-QRcode {
   &:before {
-    content: unquote("\"#{ $soc-QRcode }\""); 
+    content: $soc-QRcode; 
   }
 }
 .soc-Qobuz {
   &:before {
-    content: unquote("\"#{ $soc-Qobuz }\""); 
+    content: $soc-Qobuz; 
   }
 }
 .soc-Qq {
   &:before {
-    content: unquote("\"#{ $soc-Qq }\""); 
+    content: $soc-Qq; 
   }
 }
 .soc-Quora {
   &:before {
-    content: unquote("\"#{ $soc-Quora }\""); 
+    content: $soc-Quora; 
   }
 }
 .soc-RSS {
   &:before {
-    content: unquote("\"#{ $soc-RSS }\""); 
+    content: $soc-RSS; 
   }
 }
 .soc-RaidCall {
   &:before {
-    content: unquote("\"#{ $soc-RaidCall }\""); 
+    content: $soc-RaidCall; 
   }
 }
 .soc-Ravelry {
   &:before {
-    content: unquote("\"#{ $soc-Ravelry }\""); 
+    content: $soc-Ravelry; 
   }
 }
 .soc-Realtor {
   &:before {
-    content: unquote("\"#{ $soc-Realtor }\""); 
+    content: $soc-Realtor; 
   }
 }
 .soc-RedBubble {
   &:before {
-    content: unquote("\"#{ $soc-RedBubble }\""); 
+    content: $soc-RedBubble; 
   }
 }
 .soc-Reddit {
   &:before {
-    content: unquote("\"#{ $soc-Reddit }\""); 
+    content: $soc-Reddit; 
   }
 }
 .soc-Redfin {
   &:before {
-    content: unquote("\"#{ $soc-Redfin }\""); 
+    content: $soc-Redfin; 
   }
 }
 .soc-Remote {
   &:before {
-    content: unquote("\"#{ $soc-Remote }\""); 
+    content: $soc-Remote; 
   }
 }
 .soc-Renren {
   &:before {
-    content: unquote("\"#{ $soc-Renren }\""); 
+    content: $soc-Renren; 
   }
 }
 .soc-Rentry {
   &:before {
-    content: unquote("\"#{ $soc-Rentry }\""); 
+    content: $soc-Rentry; 
   }
 }
 .soc-ResearchGate {
   &:before {
-    content: unquote("\"#{ $soc-ResearchGate }\""); 
+    content: $soc-ResearchGate; 
   }
 }
 .soc-ResidentAdvisor {
   &:before {
-    content: unquote("\"#{ $soc-ResidentAdvisor }\""); 
+    content: $soc-ResidentAdvisor; 
   }
 }
 .soc-ReverbNation {
   &:before {
-    content: unquote("\"#{ $soc-ReverbNation }\""); 
+    content: $soc-ReverbNation; 
   }
 }
 .soc-Seedrs {
   &:before {
-    content: unquote("\"#{ $soc-Seedrs }\""); 
+    content: $soc-Seedrs; 
   }
 }
 .soc-SeenThis {
   &:before {
-    content: unquote("\"#{ $soc-SeenThis }\""); 
+    content: $soc-SeenThis; 
   }
 }
 .soc-SharePoint {
   &:before {
-    content: unquote("\"#{ $soc-SharePoint }\""); 
+    content: $soc-SharePoint; 
   }
 }
 .soc-ShareThis {
   &:before {
-    content: unquote("\"#{ $soc-ShareThis }\""); 
+    content: $soc-ShareThis; 
   }
 }
 .soc-SheezyArt {
   &:before {
-    content: unquote("\"#{ $soc-SheezyArt }\""); 
+    content: $soc-SheezyArt; 
   }
 }
 .soc-Shopify {
   &:before {
-    content: unquote("\"#{ $soc-Shopify }\""); 
+    content: $soc-Shopify; 
   }
 }
 .soc-SketchFab {
   &:before {
-    content: unquote("\"#{ $soc-SketchFab }\""); 
+    content: $soc-SketchFab; 
   }
 }
 .soc-Skype {
   &:before {
-    content: unquote("\"#{ $soc-Skype }\""); 
+    content: $soc-Skype; 
   }
 }
 .soc-Slack {
   &:before {
-    content: unquote("\"#{ $soc-Slack }\""); 
+    content: $soc-Slack; 
   }
 }
 .soc-SlideShare {
   &:before {
-    content: unquote("\"#{ $soc-SlideShare }\""); 
+    content: $soc-SlideShare; 
   }
 }
 .soc-SmashCast {
   &:before {
-    content: unquote("\"#{ $soc-SmashCast }\""); 
+    content: $soc-SmashCast; 
   }
 }
 .soc-SmashWords {
   &:before {
-    content: unquote("\"#{ $soc-SmashWords }\""); 
+    content: $soc-SmashWords; 
   }
 }
 .soc-SmugMug {
   &:before {
-    content: unquote("\"#{ $soc-SmugMug }\""); 
+    content: $soc-SmugMug; 
   }
 }
 .soc-SnapChat {
   &:before {
-    content: unquote("\"#{ $soc-SnapChat }\""); 
+    content: $soc-SnapChat; 
   }
 }
 .soc-Society6 {
   &:before {
-    content: unquote("\"#{ $soc-Society6 }\""); 
+    content: $soc-Society6; 
   }
 }
 .soc-SongKick {
   &:before {
-    content: unquote("\"#{ $soc-SongKick }\""); 
+    content: $soc-SongKick; 
   }
 }
 .soc-Soroush {
   &:before {
-    content: unquote("\"#{ $soc-Soroush }\""); 
+    content: $soc-Soroush; 
   }
 }
 .soc-SoundCloud {
   &:before {
-    content: unquote("\"#{ $soc-SoundCloud }\""); 
+    content: $soc-SoundCloud; 
   }
 }
 .soc-Spip {
   &:before {
-    content: unquote("\"#{ $soc-Spip }\""); 
+    content: $soc-Spip; 
   }
 }
 .soc-Splice {
   &:before {
-    content: unquote("\"#{ $soc-Splice }\""); 
+    content: $soc-Splice; 
   }
 }
 .soc-Spotify {
   &:before {
-    content: unquote("\"#{ $soc-Spotify }\""); 
+    content: $soc-Spotify; 
   }
 }
 .soc-SpreadShirt {
   &:before {
-    content: unquote("\"#{ $soc-SpreadShirt }\""); 
+    content: $soc-SpreadShirt; 
   }
 }
 .soc-SquareSpace {
   &:before {
-    content: unquote("\"#{ $soc-SquareSpace }\""); 
+    content: $soc-SquareSpace; 
   }
 }
 .soc-StackExchange {
   &:before {
-    content: unquote("\"#{ $soc-StackExchange }\""); 
+    content: $soc-StackExchange; 
   }
 }
 .soc-StackOverflow {
   &:before {
-    content: unquote("\"#{ $soc-StackOverflow }\""); 
+    content: $soc-StackOverflow; 
   }
 }
 .soc-Stage32 {
   &:before {
-    content: unquote("\"#{ $soc-Stage32 }\""); 
+    content: $soc-Stage32; 
   }
 }
 .soc-StarCraft {
   &:before {
-    content: unquote("\"#{ $soc-StarCraft }\""); 
+    content: $soc-StarCraft; 
   }
 }
 .soc-StayFriends {
   &:before {
-    content: unquote("\"#{ $soc-StayFriends }\""); 
+    content: $soc-StayFriends; 
   }
 }
 .soc-Steam {
   &:before {
-    content: unquote("\"#{ $soc-Steam }\""); 
+    content: $soc-Steam; 
   }
 }
 .soc-Stitcher {
   &:before {
-    content: unquote("\"#{ $soc-Stitcher }\""); 
+    content: $soc-Stitcher; 
   }
 }
 .soc-StoreHouse {
   &:before {
-    content: unquote("\"#{ $soc-StoreHouse }\""); 
+    content: $soc-StoreHouse; 
   }
 }
 .soc-Strava {
   &:before {
-    content: unquote("\"#{ $soc-Strava }\""); 
+    content: $soc-Strava; 
   }
 }
 .soc-StrawPage {
   &:before {
-    content: unquote("\"#{ $soc-StrawPage }\""); 
+    content: $soc-StrawPage; 
   }
 }
 .soc-StreamJar {
   &:before {
-    content: unquote("\"#{ $soc-StreamJar }\""); 
+    content: $soc-StreamJar; 
   }
 }
 .soc-StrudelCafe {
   &:before {
-    content: unquote("\"#{ $soc-StrudelCafe }\""); 
+    content: $soc-StrudelCafe; 
   }
 }
 .soc-StumbleUpon {
   &:before {
-    content: unquote("\"#{ $soc-StumbleUpon }\""); 
+    content: $soc-StumbleUpon; 
   }
 }
 .soc-Swarm {
   &:before {
-    content: unquote("\"#{ $soc-Swarm }\""); 
+    content: $soc-Swarm; 
   }
 }
 .soc-TeamSpeak {
   &:before {
-    content: unquote("\"#{ $soc-TeamSpeak }\""); 
+    content: $soc-TeamSpeak; 
   }
 }
 .soc-TeamViewer {
   &:before {
-    content: unquote("\"#{ $soc-TeamViewer }\""); 
+    content: $soc-TeamViewer; 
   }
 }
 .soc-Technorati {
   &:before {
-    content: unquote("\"#{ $soc-Technorati }\""); 
+    content: $soc-Technorati; 
   }
 }
 .soc-Telegram {
   &:before {
-    content: unquote("\"#{ $soc-Telegram }\""); 
+    content: $soc-Telegram; 
   }
 }
 .soc-Threema {
   &:before {
-    content: unquote("\"#{ $soc-Threema }\""); 
+    content: $soc-Threema; 
   }
 }
 .soc-Tidal {
   &:before {
-    content: unquote("\"#{ $soc-Tidal }\""); 
+    content: $soc-Tidal; 
   }
 }
 .soc-Tiktok {
   &:before {
-    content: unquote("\"#{ $soc-Tiktok }\""); 
+    content: $soc-Tiktok; 
   }
 }
 .soc-Tinder {
   &:before {
-    content: unquote("\"#{ $soc-Tinder }\""); 
+    content: $soc-Tinder; 
   }
 }
 .soc-ToneDen {
   &:before {
-    content: unquote("\"#{ $soc-ToneDen }\""); 
+    content: $soc-ToneDen; 
   }
 }
 .soc-Toptal {
   &:before {
-    content: unquote("\"#{ $soc-Toptal }\""); 
+    content: $soc-Toptal; 
   }
 }
 .soc-Torial {
   &:before {
-    content: unquote("\"#{ $soc-Torial }\""); 
+    content: $soc-Torial; 
   }
 }
 .soc-ToyHouse {
   &:before {
-    content: unquote("\"#{ $soc-ToyHouse }\""); 
+    content: $soc-ToyHouse; 
   }
 }
 .soc-Tracks {
   &:before {
-    content: unquote("\"#{ $soc-Tracks }\""); 
+    content: $soc-Tracks; 
   }
 }
 .soc-TraxSource {
   &:before {
-    content: unquote("\"#{ $soc-TraxSource }\""); 
+    content: $soc-TraxSource; 
   }
 }
 .soc-Trello {
   &:before {
-    content: unquote("\"#{ $soc-Trello }\""); 
+    content: $soc-Trello; 
   }
 }
 .soc-TripAdvisor {
   &:before {
-    content: unquote("\"#{ $soc-TripAdvisor }\""); 
+    content: $soc-TripAdvisor; 
   }
 }
 .soc-Tripit {
   &:before {
-    content: unquote("\"#{ $soc-Tripit }\""); 
+    content: $soc-Tripit; 
   }
 }
 .soc-TripleJ {
   &:before {
-    content: unquote("\"#{ $soc-TripleJ }\""); 
+    content: $soc-TripleJ; 
   }
 }
 .soc-Trulia {
   &:before {
-    content: unquote("\"#{ $soc-Trulia }\""); 
+    content: $soc-Trulia; 
   }
 }
 .soc-Tumblr {
   &:before {
-    content: unquote("\"#{ $soc-Tumblr }\""); 
+    content: $soc-Tumblr; 
   }
 }
 .soc-TuneIn {
   &:before {
-    content: unquote("\"#{ $soc-TuneIn }\""); 
+    content: $soc-TuneIn; 
   }
 }
 .soc-Twitch {
   &:before {
-    content: unquote("\"#{ $soc-Twitch }\""); 
+    content: $soc-Twitch; 
   }
 }
 .soc-Uber {
   &:before {
-    content: unquote("\"#{ $soc-Uber }\""); 
+    content: $soc-Uber; 
   }
 }
 .soc-Ubuntu {
   &:before {
-    content: unquote("\"#{ $soc-Ubuntu }\""); 
+    content: $soc-Ubuntu; 
   }
 }
 .soc-Udemy {
   &:before {
-    content: unquote("\"#{ $soc-Udemy }\""); 
+    content: $soc-Udemy; 
   }
 }
 .soc-UnSplash {
   &:before {
-    content: unquote("\"#{ $soc-UnSplash }\""); 
+    content: $soc-UnSplash; 
   }
 }
 .soc-UpWork {
   &:before {
-    content: unquote("\"#{ $soc-UpWork }\""); 
+    content: $soc-UpWork; 
+  }
+}
+.soc-VGen {
+  &:before {
+    content: $soc-VGen; 
+  }
+}
+.soc-VStream {
+  &:before {
+    content: $soc-VStream; 
   }
 }
 .soc-Ventrilo {
   &:before {
-    content: unquote("\"#{ $soc-Ventrilo }\""); 
+    content: $soc-Ventrilo; 
   }
 }
 .soc-Viadeo {
   &:before {
-    content: unquote("\"#{ $soc-Viadeo }\""); 
+    content: $soc-Viadeo; 
   }
 }
 .soc-Viber {
   &:before {
-    content: unquote("\"#{ $soc-Viber }\""); 
+    content: $soc-Viber; 
   }
 }
 .soc-ViewBug {
   &:before {
-    content: unquote("\"#{ $soc-ViewBug }\""); 
+    content: $soc-ViewBug; 
   }
 }
 .soc-Vimeo {
   &:before {
-    content: unquote("\"#{ $soc-Vimeo }\""); 
+    content: $soc-Vimeo; 
   }
 }
 .soc-Vkontakte {
   &:before {
-    content: unquote("\"#{ $soc-Vkontakte }\""); 
+    content: $soc-Vkontakte; 
   }
 }
 .soc-Vsco {
   &:before {
-    content: unquote("\"#{ $soc-Vsco }\""); 
+    content: $soc-Vsco; 
   }
 }
 .soc-Warcraft {
   &:before {
-    content: unquote("\"#{ $soc-Warcraft }\""); 
+    content: $soc-Warcraft; 
   }
 }
 .soc-WeChat {
   &:before {
-    content: unquote("\"#{ $soc-WeChat }\""); 
+    content: $soc-WeChat; 
   }
 }
 .soc-Weasyl {
   &:before {
-    content: unquote("\"#{ $soc-Weasyl }\""); 
+    content: $soc-Weasyl; 
   }
 }
 .soc-Weibo {
   &:before {
-    content: unquote("\"#{ $soc-Weibo }\""); 
+    content: $soc-Weibo; 
   }
 }
 .soc-WhatsApp {
   &:before {
-    content: unquote("\"#{ $soc-WhatsApp }\""); 
+    content: $soc-WhatsApp; 
   }
 }
 .soc-Wickr {
   &:before {
-    content: unquote("\"#{ $soc-Wickr }\""); 
+    content: $soc-Wickr; 
   }
 }
 .soc-Wikipedia {
   &:before {
-    content: unquote("\"#{ $soc-Wikipedia }\""); 
+    content: $soc-Wikipedia; 
   }
 }
 .soc-WindGuru {
   &:before {
-    content: unquote("\"#{ $soc-WindGuru }\""); 
+    content: $soc-WindGuru; 
   }
 }
 .soc-Windows {
   &:before {
-    content: unquote("\"#{ $soc-Windows }\""); 
+    content: $soc-Windows; 
   }
 }
 .soc-Wix {
   &:before {
-    content: unquote("\"#{ $soc-Wix }\""); 
+    content: $soc-Wix; 
   }
 }
 .soc-WordPress {
   &:before {
-    content: unquote("\"#{ $soc-WordPress }\""); 
+    content: $soc-WordPress; 
   }
 }
 .soc-Wykop {
   &:before {
-    content: unquote("\"#{ $soc-Wykop }\""); 
+    content: $soc-Wykop; 
   }
 }
 .soc-X {
   &:before {
-    content: unquote("\"#{ $soc-X }\""); 
+    content: $soc-X; 
   }
 }
 .soc-Xbox {
   &:before {
-    content: unquote("\"#{ $soc-Xbox }\""); 
+    content: $soc-Xbox; 
   }
 }
 .soc-Xing {
   &:before {
-    content: unquote("\"#{ $soc-Xing }\""); 
+    content: $soc-Xing; 
   }
 }
 .soc-YTGaming {
   &:before {
-    content: unquote("\"#{ $soc-YTGaming }\""); 
+    content: $soc-YTGaming; 
   }
 }
 .soc-Yahoo {
   &:before {
-    content: unquote("\"#{ $soc-Yahoo }\""); 
+    content: $soc-Yahoo; 
   }
 }
 .soc-Yammer {
   &:before {
-    content: unquote("\"#{ $soc-Yammer }\""); 
+    content: $soc-Yammer; 
   }
 }
 .soc-Yandex {
   &:before {
-    content: unquote("\"#{ $soc-Yandex }\""); 
+    content: $soc-Yandex; 
   }
 }
 .soc-Yelp {
   &:before {
-    content: unquote("\"#{ $soc-Yelp }\""); 
+    content: $soc-Yelp; 
   }
 }
 .soc-YouNow {
   &:before {
-    content: unquote("\"#{ $soc-YouNow }\""); 
+    content: $soc-YouNow; 
   }
 }
 .soc-Youtube {
   &:before {
-    content: unquote("\"#{ $soc-Youtube }\""); 
+    content: $soc-Youtube; 
   }
 }
 .soc-Zapier {
   &:before {
-    content: unquote("\"#{ $soc-Zapier }\""); 
+    content: $soc-Zapier; 
   }
 }
 .soc-Zazzle {
   &:before {
-    content: unquote("\"#{ $soc-Zazzle }\""); 
+    content: $soc-Zazzle; 
   }
 }
 .soc-Zerply {
   &:before {
-    content: unquote("\"#{ $soc-Zerply }\""); 
+    content: $soc-Zerply; 
   }
 }
 .soc-Zillow {
   &:before {
-    content: unquote("\"#{ $soc-Zillow }\""); 
+    content: $soc-Zillow; 
   }
 }
 .soc-Zomato {
   &:before {
-    content: unquote("\"#{ $soc-Zomato }\""); 
+    content: $soc-Zomato; 
   }
 }
 .soc-Zoom {
   &:before {
-    content: unquote("\"#{ $soc-Zoom }\""); 
+    content: $soc-Zoom; 
   }
 }
 .soc-Zynga {
   &:before {
-    content: unquote("\"#{ $soc-Zynga }\""); 
+    content: $soc-Zynga; 
   }
 }
 .soc-macOS {
   &:before {
-    content: unquote("\"#{ $soc-macOS }\""); 
+    content: $soc-macOS; 
   }
 }
 .soc-mixcloud {
   &:before {
-    content: unquote("\"#{ $soc-mixcloud }\""); 
+    content: $soc-mixcloud; 
   }
 }
 .soc-reCAPTCHA {
   &:before {
-    content: unquote("\"#{ $soc-reCAPTCHA }\""); 
+    content: $soc-reCAPTCHA; 
   }
 }
 

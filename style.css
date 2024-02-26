@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?s63mju');
-  src:  url('fonts/SocialIcons.eot?s63mju#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?s63mju') format('truetype'),
-    url('fonts/SocialIcons.woff?s63mju') format('woff'),
-    url('fonts/SocialIcons.svg?s63mju#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?sejnkv');
+  src:  url('fonts/SocialIcons.eot?sejnkv#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?sejnkv') format('truetype'),
+    url('fonts/SocialIcons.woff?sejnkv') format('woff'),
+    url('fonts/SocialIcons.svg?sejnkv#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -901,6 +901,12 @@
 }
 .soc-UpWork:before {
   content: "\e934";
+}
+.soc-VGen:before {
+  content: "\e9a4";
+}
+.soc-VStream:before {
+  content: "\e9a5";
 }
 .soc-Ventrilo:before {
   content: "\e08f";
