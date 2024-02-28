@@ -374,6 +374,7 @@
             'mixcloud': '&#xe9a3;',
             'recaptcha': '&#xe98e;',
             'captcha': '&#xe98e;',
+            'throne': '&#xe9a7;',
           '0': 0
         };
         delete icons['0'];

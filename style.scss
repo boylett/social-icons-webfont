@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?1edpmy');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?1edpmy#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?1edpmy') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?1edpmy') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?1edpmy##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?b63hf7');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?b63hf7#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?b63hf7') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?b63hf7') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?b63hf7##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1690,6 +1690,11 @@
 .soc-reCAPTCHA {
   &:before {
     content: $soc-reCAPTCHA; 
+  }
+}
+.soc-Throne {
+  &:before {
+    content: $soc-Throne; 
   }
 }
 
