@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?b63hf7');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?b63hf7#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?b63hf7') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?b63hf7') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?b63hf7##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?kc8ej4');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?kc8ej4#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?kc8ej4') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?kc8ej4') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?kc8ej4##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1377,6 +1377,11 @@
     content: $soc-Threema; 
   }
 }
+.soc-Throne {
+  &:before {
+    content: $soc-Throne; 
+  }
+}
 .soc-Tidal {
   &:before {
     content: $soc-Tidal; 
@@ -1677,6 +1682,11 @@
     content: $soc-Zynga; 
   }
 }
+.soc-Itaku {
+  &:before {
+    content: $soc-Itaku; 
+  }
+}
 .soc-macOS {
   &:before {
     content: $soc-macOS; 
@@ -1690,11 +1700,6 @@
 .soc-reCAPTCHA {
   &:before {
     content: $soc-reCAPTCHA; 
-  }
-}
-.soc-Throne {
-  &:before {
-    content: $soc-Throne; 
   }
 }
 

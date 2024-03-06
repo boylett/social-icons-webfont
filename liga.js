@@ -306,6 +306,7 @@
             'technorati': '&#xe086;',
             'telegram': '&#xe087;',
             'threema': '&#xe96e;',
+            'throne': '&#xe9a7;',
             'tidal': '&#xe910;',
             'tiktok': '&#xe96b;',
             'tinder': '&#xe966;',
@@ -370,11 +371,11 @@
             'zomato': '&#xe0a8;',
             'zoom': '&#xe921;',
             'zynga': '&#xe0a9;',
+            'itaku': '&#xe9a8;',
             'macos': '&#xe04f;',
             'mixcloud': '&#xe9a3;',
             'recaptcha': '&#xe98e;',
             'captcha': '&#xe98e;',
-            'throne': '&#xe9a7;',
           '0': 0
         };
         delete icons['0'];
