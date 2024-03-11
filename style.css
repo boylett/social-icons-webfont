@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?kc8ej4');
-  src:  url('fonts/SocialIcons.eot?kc8ej4#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?kc8ej4') format('truetype'),
-    url('fonts/SocialIcons.woff?kc8ej4') format('woff'),
-    url('fonts/SocialIcons.svg?kc8ej4#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?qs4aq8');
+  src:  url('fonts/SocialIcons.eot?qs4aq8#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?qs4aq8') format('truetype'),
+    url('fonts/SocialIcons.woff?qs4aq8') format('woff'),
+    url('fonts/SocialIcons.svg?qs4aq8#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -296,6 +296,9 @@
 .soc-Flickr:before {
   content: "\e02d";
 }
+.soc-FlightRising:before {
+  content: "\e9a9";
+}
 .soc-FlipBoard:before {
   content: "\e973";
 }
@@ -466,6 +469,9 @@
 }
 .soc-Istock:before {
   content: "\e046";
+}
+.soc-Itaku:before {
+  content: "\e9a8";
 }
 .soc-Itchio:before {
   content: "\e962";
@@ -1021,9 +1027,6 @@
 }
 .soc-Zynga:before {
   content: "\e0a9";
-}
-.soc-Itaku:before {
-  content: "\e9a8";
 }
 .soc-macOS:before {
   content: "\e04f";

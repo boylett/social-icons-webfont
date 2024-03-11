@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?kc8ej4');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?kc8ej4#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?kc8ej4') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?kc8ej4') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?kc8ej4##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?qs4aq8');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?qs4aq8#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?qs4aq8') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?qs4aq8') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?qs4aq8##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -472,6 +472,11 @@
     content: $soc-Flickr; 
   }
 }
+.soc-FlightRising {
+  &:before {
+    content: $soc-FlightRising; 
+  }
+}
 .soc-FlipBoard {
   &:before {
     content: $soc-FlipBoard; 
@@ -755,6 +760,11 @@
 .soc-Istock {
   &:before {
     content: $soc-Istock; 
+  }
+}
+.soc-Itaku {
+  &:before {
+    content: $soc-Itaku; 
   }
 }
 .soc-Itchio {
@@ -1680,11 +1690,6 @@
 .soc-Zynga {
   &:before {
     content: $soc-Zynga; 
-  }
-}
-.soc-Itaku {
-  &:before {
-    content: $soc-Itaku; 
   }
 }
 .soc-macOS {
