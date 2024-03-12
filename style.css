@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?tnwu6i');
-  src:  url('fonts/SocialIcons.eot?tnwu6i#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?tnwu6i') format('truetype'),
-    url('fonts/SocialIcons.woff?tnwu6i') format('woff'),
-    url('fonts/SocialIcons.svg?tnwu6i#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?mrxl5l');
+  src:  url('fonts/SocialIcons.eot?mrxl5l#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?mrxl5l') format('truetype'),
+    url('fonts/SocialIcons.woff?mrxl5l') format('woff'),
+    url('fonts/SocialIcons.svg?mrxl5l#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -562,6 +562,9 @@
 }
 .soc-Microsoft:before {
   content: "\e90e";
+}
+.soc-Minecraft:before {
+  content: "\e9b4";
 }
 .soc-Mix:before {
   content: "\e964";

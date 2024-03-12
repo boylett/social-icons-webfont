@@ -211,6 +211,7 @@
             'messenger': '&#xe906;',
             'metapop': '&#xe970;',
             'microsoft': '&#xe90e;',
+            'minecraft': '&#xe9b4;',
             'mix': '&#xe964;',
             'mixer': '&#xe00d;',
             'mobcrush': '&#xe90d;',
