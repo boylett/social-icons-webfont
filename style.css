@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?mrxl5l');
-  src:  url('fonts/SocialIcons.eot?mrxl5l#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?mrxl5l') format('truetype'),
-    url('fonts/SocialIcons.woff?mrxl5l') format('woff'),
-    url('fonts/SocialIcons.svg?mrxl5l#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?j3c9gf');
+  src:  url('fonts/SocialIcons.eot?j3c9gf#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?j3c9gf') format('truetype'),
+    url('fonts/SocialIcons.woff?j3c9gf') format('woff'),
+    url('fonts/SocialIcons.svg?j3c9gf#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -755,6 +755,9 @@
 .soc-SeenThis:before {
   content: "\e95d";
 }
+.soc-Session:before {
+  content: "\e9b5";
+}
 .soc-SharePoint:before {
   content: "\e965";
 }
@@ -766,6 +769,9 @@
 }
 .soc-Shopify:before {
   content: "\e927";
+}
+.soc-Signal:before {
+  content: "\e9b6";
 }
 .soc-SketchFab:before {
   content: "\e90c";
