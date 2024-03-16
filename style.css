@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?j3c9gf');
-  src:  url('fonts/SocialIcons.eot?j3c9gf#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?j3c9gf') format('truetype'),
-    url('fonts/SocialIcons.woff?j3c9gf') format('woff'),
-    url('fonts/SocialIcons.svg?j3c9gf#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?vpf5hg');
+  src:  url('fonts/SocialIcons.eot?vpf5hg#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?vpf5hg') format('truetype'),
+    url('fonts/SocialIcons.woff?vpf5hg') format('woff'),
+    url('fonts/SocialIcons.svg?vpf5hg#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -64,6 +64,9 @@
 }
 .soc-AngiesList:before {
   content: "\e916";
+}
+.soc-AnimePlanet:before {
+  content: "\e9b7";
 }
 .soc-AppNet:before {
   content: "\e009";
@@ -272,6 +275,9 @@
 .soc-Envato:before {
   content: "\e026";
 }
+.soc-Escargot:before {
+  content: "\e9b8";
+}
 .soc-Etsy:before {
   content: "\e027";
 }
@@ -338,8 +344,14 @@
 .soc-Fyuse:before {
   content: "\e90a";
 }
+.soc-GOG:before {
+  content: "\e9b9";
+}
 .soc-Gag:before {
   content: "\e984";
+}
+.soc-GaiaOnline:before {
+  content: "\e9ba";
 }
 .soc-GameFor:before {
   content: "\e94e";
@@ -403,6 +415,9 @@
 }
 .soc-GrooveShark:before {
   content: "\e039";
+}
+.soc-Guilded:before {
+  content: "\e9bb";
 }
 .soc-Guru:before {
   content: "\e91e";
@@ -541,6 +556,9 @@
 }
 .soc-Mailru:before {
   content: "\e94a";
+}
+.soc-MakeShip:before {
+  content: "\e9bc";
 }
 .soc-Mastodon:before {
   content: "\e913";
@@ -725,6 +743,9 @@
 .soc-Redfin:before {
   content: "\e925";
 }
+.soc-RefSheet:before {
+  content: "\e9bd";
+}
 .soc-Remote:before {
   content: "\e972";
 }
@@ -823,6 +844,9 @@
 }
 .soc-SquareSpace:before {
   content: "\e92d";
+}
+.soc-SquidgeWorld:before {
+  content: "\e9be";
 }
 .soc-StackExchange:before {
   content: "\e07a";
@@ -950,11 +974,17 @@
 .soc-UnSplash:before {
   content: "\e914";
 }
+.soc-UnVale:before {
+  content: "\e9bf";
+}
 .soc-UpWork:before {
   content: "\e934";
 }
 .soc-VGen:before {
   content: "\e9a4";
+}
+.soc-VRChat:before {
+  content: "\e9c0";
 }
 .soc-VStream:before {
   content: "\e9a5";
