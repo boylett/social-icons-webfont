@@ -18,7 +18,6 @@ Generated with [IcoMoon](https://icomoon.io/).
 
 #### Non-NPM
 
-1. Download the [latest release](https://github.com/boylett/Social-Icons/releases)
-2. Add `<link href="./social-icons/style.css" rel="stylesheet" />` to your `head`
+1. Add `<link href="https://unpkg.com/social-icons-webfont@latest/style.css" rel="stylesheet" />` to your `head`
 3. Select an icon from [the demo](https://boylett.github.io/Social-Icons/demo.html)
 4. Include an `<i class="social-icons">{icon name}</i>` in your project
