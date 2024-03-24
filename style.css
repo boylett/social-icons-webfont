@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?vpf5hg');
-  src:  url('fonts/SocialIcons.eot?vpf5hg#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?vpf5hg') format('truetype'),
-    url('fonts/SocialIcons.woff?vpf5hg') format('woff'),
-    url('fonts/SocialIcons.svg?vpf5hg#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?iqciqu');
+  src:  url('fonts/SocialIcons.eot?iqciqu#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?iqciqu') format('truetype'),
+    url('fonts/SocialIcons.woff?iqciqu') format('woff'),
+    url('fonts/SocialIcons.svg?iqciqu#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -68,6 +68,9 @@
 .soc-AnimePlanet:before {
   content: "\e9b7";
 }
+.soc-AnthroArt:before {
+  content: "\e9c1";
+}
 .soc-AppNet:before {
   content: "\e009";
 }
@@ -77,11 +80,17 @@
 .soc-Apple:before {
   content: "\e008";
 }
+.soc-ArchiveOfOurOwn:before {
+  content: "\e9c2";
+}
 .soc-Archiveorg:before {
   content: "\e997";
 }
 .soc-ArtFight:before {
   content: "\e988";
+}
+.soc-ArtHaven:before {
+  content: "\e9c3";
 }
 .soc-ArtStation:before {
   content: "\e959";
@@ -157,6 +166,9 @@
 }
 .soc-Buffer:before {
   content: "\e013";
+}
+.soc-BuyMeACoffee:before {
+  content: "\e9c4";
 }
 .soc-Buzzly:before {
   content: "\e994";
@@ -236,6 +248,9 @@
 .soc-Discord:before {
   content: "\e985";
 }
+.soc-Displate:before {
+  content: "\e9c5";
+}
 .soc-Disqus:before {
   content: "\e01e";
 }
@@ -283,6 +298,9 @@
 }
 .soc-Facebook:before {
   content: "\e028";
+}
+.soc-Fandom:before {
+  content: "\e9c6";
 }
 .soc-FeedBurner:before {
   content: "\e029";
@@ -416,8 +434,14 @@
 .soc-GrooveShark:before {
   content: "\e039";
 }
+.soc-GrundosCafe:before {
+  content: "\e9c7";
+}
 .soc-Guilded:before {
   content: "\e9bb";
+}
+.soc-Gumroad:before {
+  content: "\e9c8";
 }
 .soc-Guru:before {
   content: "\e91e";
@@ -704,6 +728,9 @@
 .soc-Pocket:before {
   content: "\e067";
 }
+.soc-Polar:before {
+  content: "\e9c9";
+}
 .soc-PronounsPage:before {
   content: "\e9ac";
 }
@@ -790,6 +817,9 @@
 }
 .soc-Shopify:before {
   content: "\e927";
+}
+.soc-Side7:before {
+  content: "\e9ca";
 }
 .soc-Signal:before {
   content: "\e9b6";
@@ -887,8 +917,14 @@
 .soc-StumbleUpon:before {
   content: "\e082";
 }
+.soc-Subeta:before {
+  content: "\e9cb";
+}
 .soc-Swarm:before {
   content: "\e083";
+}
+.soc-Tapas:before {
+  content: "\e9cc";
 }
 .soc-TeamSpeak:before {
   content: "\e084";
@@ -1013,11 +1049,17 @@
 .soc-Warcraft:before {
   content: "\e096";
 }
+.soc-Wattpad:before {
+  content: "\e9cd";
+}
 .soc-WeChat:before {
   content: "\e097";
 }
 .soc-Weasyl:before {
   content: "\e996";
+}
+.soc-Webtoon:before {
+  content: "\e9ce";
 }
 .soc-Weibo:before {
   content: "\e098";

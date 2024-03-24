@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?vpf5hg');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?vpf5hg#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?vpf5hg') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?vpf5hg') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?vpf5hg##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?iqciqu');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?iqciqu#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?iqciqu') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?iqciqu') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?iqciqu##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -92,6 +92,11 @@
     content: $soc-AnimePlanet; 
   }
 }
+.soc-AnthroArt {
+  &:before {
+    content: $soc-AnthroArt; 
+  }
+}
 .soc-AppNet {
   &:before {
     content: $soc-AppNet; 
@@ -107,6 +112,11 @@
     content: $soc-Apple; 
   }
 }
+.soc-ArchiveOfOurOwn {
+  &:before {
+    content: $soc-ArchiveOfOurOwn; 
+  }
+}
 .soc-Archiveorg {
   &:before {
     content: $soc-Archiveorg; 
@@ -115,6 +125,11 @@
 .soc-ArtFight {
   &:before {
     content: $soc-ArtFight; 
+  }
+}
+.soc-ArtHaven {
+  &:before {
+    content: $soc-ArtHaven; 
   }
 }
 .soc-ArtStation {
@@ -240,6 +255,11 @@
 .soc-Buffer {
   &:before {
     content: $soc-Buffer; 
+  }
+}
+.soc-BuyMeACoffee {
+  &:before {
+    content: $soc-BuyMeACoffee; 
   }
 }
 .soc-Buzzly {
@@ -372,6 +392,11 @@
     content: $soc-Discord; 
   }
 }
+.soc-Displate {
+  &:before {
+    content: $soc-Displate; 
+  }
+}
 .soc-Disqus {
   &:before {
     content: $soc-Disqus; 
@@ -450,6 +475,11 @@
 .soc-Facebook {
   &:before {
     content: $soc-Facebook; 
+  }
+}
+.soc-Fandom {
+  &:before {
+    content: $soc-Fandom; 
   }
 }
 .soc-FeedBurner {
@@ -672,9 +702,19 @@
     content: $soc-GrooveShark; 
   }
 }
+.soc-GrundosCafe {
+  &:before {
+    content: $soc-GrundosCafe; 
+  }
+}
 .soc-Guilded {
   &:before {
     content: $soc-Guilded; 
+  }
+}
+.soc-Gumroad {
+  &:before {
+    content: $soc-Gumroad; 
   }
 }
 .soc-Guru {
@@ -1152,6 +1192,11 @@
     content: $soc-Pocket; 
   }
 }
+.soc-Polar {
+  &:before {
+    content: $soc-Polar; 
+  }
+}
 .soc-PronounsPage {
   &:before {
     content: $soc-PronounsPage; 
@@ -1295,6 +1340,11 @@
 .soc-Shopify {
   &:before {
     content: $soc-Shopify; 
+  }
+}
+.soc-Side7 {
+  &:before {
+    content: $soc-Side7; 
   }
 }
 .soc-Signal {
@@ -1457,9 +1507,19 @@
     content: $soc-StumbleUpon; 
   }
 }
+.soc-Subeta {
+  &:before {
+    content: $soc-Subeta; 
+  }
+}
 .soc-Swarm {
   &:before {
     content: $soc-Swarm; 
+  }
+}
+.soc-Tapas {
+  &:before {
+    content: $soc-Tapas; 
   }
 }
 .soc-TeamSpeak {
@@ -1667,6 +1727,11 @@
     content: $soc-Warcraft; 
   }
 }
+.soc-Wattpad {
+  &:before {
+    content: $soc-Wattpad; 
+  }
+}
 .soc-WeChat {
   &:before {
     content: $soc-WeChat; 
@@ -1675,6 +1740,11 @@
 .soc-Weasyl {
   &:before {
     content: $soc-Weasyl; 
+  }
+}
+.soc-Webtoon {
+  &:before {
+    content: $soc-Webtoon; 
   }
 }
 .soc-Weibo {
