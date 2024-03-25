@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?iqciqu');
-  src:  url('fonts/SocialIcons.eot?iqciqu#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?iqciqu') format('truetype'),
-    url('fonts/SocialIcons.woff?iqciqu') format('woff'),
-    url('fonts/SocialIcons.svg?iqciqu#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?ch7d82');
+  src:  url('fonts/SocialIcons.eot?ch7d82#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?ch7d82') format('truetype'),
+    url('fonts/SocialIcons.woff?ch7d82') format('woff'),
+    url('fonts/SocialIcons.svg?ch7d82#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -379,6 +379,9 @@
 }
 .soc-GameWisp:before {
   content: "\e905";
+}
+.soc-Genius:before {
+  content: "\e9cf";
 }
 .soc-Ghost:before {
   content: "\e933";

@@ -147,6 +147,7 @@
             'gamefor': '&#xe94e;',
             'gamejolt': '&#xe901;',
             'gamewisp': '&#xe905;',
+            'genius': '&#xe9cf;',
             'ghost': '&#xe933;',
             'github': '&#xe032;',
             'gitlab': '&#xe945;',
