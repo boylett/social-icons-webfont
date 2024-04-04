@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?ch7d82');
-  src:  url('fonts/SocialIcons.eot?ch7d82#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?ch7d82') format('truetype'),
-    url('fonts/SocialIcons.woff?ch7d82') format('woff'),
-    url('fonts/SocialIcons.svg?ch7d82#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?sm1c9g');
+  src:  url('fonts/SocialIcons.eot?sm1c9g#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?sm1c9g') format('truetype'),
+    url('fonts/SocialIcons.woff?sm1c9g') format('woff'),
+    url('fonts/SocialIcons.svg?sm1c9g#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -124,6 +124,9 @@
 }
 .soc-BeBee:before {
   content: "\e00e";
+}
+.soc-Beacons:before {
+  content: "\e9d0";
 }
 .soc-BeatPort:before {
   content: "\e955";
@@ -356,6 +359,9 @@
 .soc-FurAffinity:before {
   content: "\e987";
 }
+.soc-FurryNetwork:before {
+  content: "\e9d1";
+}
 .soc-Furvilla:before {
   content: "\e998";
 }
@@ -557,6 +563,9 @@
 .soc-Line:before {
   content: "\e04b";
 }
+.soc-Link:before {
+  content: "\e9d2";
+}
 .soc-LinkedIn:before {
   content: "\e04c";
 }
@@ -667,6 +676,9 @@
 }
 .soc-Nextdoor:before {
   content: "\e942";
+}
+.soc-Nexus:before {
+  content: "\e9d3";
 }
 .soc-Niconico:before {
   content: "\e939";

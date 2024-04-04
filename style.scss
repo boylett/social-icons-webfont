@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ch7d82');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ch7d82#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ch7d82') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ch7d82') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ch7d82##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?sm1c9g');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?sm1c9g#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?sm1c9g') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?sm1c9g') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?sm1c9g##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -185,6 +185,11 @@
 .soc-BeBee {
   &:before {
     content: $soc-BeBee; 
+  }
+}
+.soc-Beacons {
+  &:before {
+    content: $soc-Beacons; 
   }
 }
 .soc-BeatPort {
@@ -572,6 +577,11 @@
     content: $soc-FurAffinity; 
   }
 }
+.soc-FurryNetwork {
+  &:before {
+    content: $soc-FurryNetwork; 
+  }
+}
 .soc-Furvilla {
   &:before {
     content: $soc-Furvilla; 
@@ -907,6 +917,11 @@
     content: $soc-Line; 
   }
 }
+.soc-Link {
+  &:before {
+    content: $soc-Link; 
+  }
+}
 .soc-LinkedIn {
   &:before {
     content: $soc-LinkedIn; 
@@ -1090,6 +1105,11 @@
 .soc-Nextdoor {
   &:before {
     content: $soc-Nextdoor; 
+  }
+}
+.soc-Nexus {
+  &:before {
+    content: $soc-Nexus; 
   }
 }
 .soc-Niconico {
