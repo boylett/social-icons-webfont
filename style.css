@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?sm1c9g');
-  src:  url('fonts/SocialIcons.eot?sm1c9g#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?sm1c9g') format('truetype'),
-    url('fonts/SocialIcons.woff?sm1c9g') format('woff'),
-    url('fonts/SocialIcons.svg?sm1c9g#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?rsufwh');
+  src:  url('fonts/SocialIcons.eot?rsufwh#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?rsufwh') format('truetype'),
+    url('fonts/SocialIcons.woff?rsufwh') format('woff'),
+    url('fonts/SocialIcons.svg?rsufwh#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -190,6 +190,9 @@
 }
 .soc-CharacterHub:before {
   content: "\e9aa";
+}
+.soc-ChickenSmoothie:before {
+  content: "\e9d4";
 }
 .soc-Chrome:before {
   content: "\e014";
@@ -677,7 +680,7 @@
 .soc-Nextdoor:before {
   content: "\e942";
 }
-.soc-Nexus:before {
+.soc-NexusMods:before {
   content: "\e9d3";
 }
 .soc-Niconico:before {
@@ -727,6 +730,9 @@
 }
 .soc-Pinterest:before {
   content: "\e063";
+}
+.soc-Pixilart:before {
+  content: "\e9d5";
 }
 .soc-Pixiv:before {
   content: "\e94f";
