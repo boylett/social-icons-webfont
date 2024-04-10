@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M579.584 512.312v370.688h-134.144v-370.688l-330.752 -653.312h155.647l241.664 492.544l250.88 -492.544h145.408z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="794px" height="1025px" viewBox="0 0 794 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="HackerNews" transform="translate(0.153, 0.4253)" fill="currentColor" fill-rule="nonzero">
+    <polygon points="464.896 653.312 464.896 1024 330.752 1024 330.752 653.312 0 0 155.647 0 397.311 492.544 648.191 0 793.599 0"></polygon>
+  </g>
 </svg>

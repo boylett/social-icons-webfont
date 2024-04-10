@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M460 883h-376l428 -1024l428 1024h-376v-170l172 -86l-12 -26l-160 80v-78l98 -54l-14 -26l-84 44v-114h-104v176l-86 -60l-16 24l102 72v218z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="857px" height="1025px" viewBox="0 0 857 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Forrst" transform="translate(0.7412, 0.8284)" fill="currentColor" fill-rule="nonzero">
+    <polygon points="376 1024 0 1024 428 0 856 1024 480 1024 480 854 652 768 640 742 480 822 480 744 578 690 564 664 480 708 480 594 376 594 376 770 290 710 274 734 376 806"></polygon>
+  </g>
 </svg>

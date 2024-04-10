@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M442 -141l298 584h-178l-118 -234l-120 234h-176zM654 883l-224 -440h134l88 176l92 -176h132z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="729px" height="1025px" viewBox="0 0 729 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Strava" transform="translate(0.5733, 0.4253)" fill="currentColor" fill-rule="nonzero">
+    <path d="M294,0 L592,584 L414,584 L296,350 L176,584 L0,584 L294,0 Z M506,1024 L282,584 L416,584 L504,760 L596,584 L728,584 L506,1024 Z"></path>
+  </g>
 </svg>

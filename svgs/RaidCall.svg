@@ -1,7 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1044 1024">
-   <path fill="currentColor"
-d="M198 287l86 -62c-20 -170 84 -296 84 -296s-22 10 -194 120s-174 154 -174 154v446l156 234h236l-236 -374c-50 -74 -30 -174 42 -222zM786 355c-82 50 -190 30 -248 -50c-56 -78 -42 -188 32 -250c2 -4 6 -6 10 -8c4 -4 6 -6 10 -8l252 -180h-366l-22 14
-c-166 122 -204 358 -84 526l24 32c122 168 358 206 526 84l104 -76v-256z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1025px" viewBox="0 0 1024 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="RaidCall" transform="translate(0, 0.0926)" fill="currentColor" fill-rule="nonzero">
+    <path d="M198,428 L284,366 C264,196 368,70 368,70 C368,70 346,80 174,190 C2,300 0,344 0,344 L0,790 L156,1024 L392,1024 L156,650 C106,576 126,476 198,428 Z M786,496 C704,546 596,526 538,446 C482,368 496,258 570,196 C572,192 576,190 580,188 C584,184 586,182 590,180 L842,0 L476,0 L454,14 C288,136 250,372 370,540 L394,572 C516,740 752,778 920,656 L1024,580 L1024,324 L786,496 Z"></path>
+  </g>
 </svg>

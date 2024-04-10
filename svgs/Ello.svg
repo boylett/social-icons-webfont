@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1044 1024">
-   <path fill="currentColor"
-d="M512 -141c-282 0 -512 230 -512 512s230 512 512 512s512 -230 512 -512s-230 -512 -512 -512zM810 447c-36 136 -158 232 -298 232s-262 -96 -298 -232c-4 -14 6 -30 22 -34s32 4 36 20c28 110 126 186 240 186s212 -76 240 -186c4 -16 20 -24 36 -20s26 20 22 34z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1025px" height="1025px" viewBox="0 0 1025 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Ello" transform="translate(0.2781, 0.0926)" fill="currentColor" fill-rule="nonzero">
+    <path d="M512,0 C230,0 0,230 0,512 C0,794 230,1024 512,1024 C794,1024 1024,794 1024,512 C1024,230 794,0 512,0 Z M810,588 C774,724 652,820 512,820 C372,820 250,724 214,588 C210,574 220,558 236,554 C252,550 268,558 272,574 C300,684 398,760 512,760 C626,760 724,684 752,574 C756,558 772,550 788,554 C804,558 814,574 810,588 Z"></path>
+  </g>
 </svg>

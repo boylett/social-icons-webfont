@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M494.592 65.8477h260.097v-206.848h-490.496v1024h229.376v-409.6h265.216v-212.992h-264.192v-194.561z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="495px" height="1025px" viewBox="0 0 495 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Fundable" transform="translate(0.4157, 0.4253)" fill="currentColor" fill-rule="nonzero">
+    <polygon points="230.399 206.848 490.496 206.848 490.496 2.84217094e-14 0 2.84217094e-14 0 1024 229.376 1024 229.376 614.4 494.592 614.4 494.592 401.408 230.4 401.408 230.4 206.847"></polygon>
+  </g>
 </svg>

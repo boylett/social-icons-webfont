@@ -1,7 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M590 349l132 -132l-200 -116s-392 -226 -414 -238c-2 -2 -4 -4 -8 -4zM946 347c-18 -10 -172 -100 -202 -118l-136 136l138 140c38 -22 178 -102 198 -114c24 -14 22 -34 2 -44zM70 -139c-4 6 -8 14 -8 24v484v492c0 6 2 10 4 14l508 -510zM590 383l-500 500
-c2 0 6 -2 8 -4c20 -12 424 -244 424 -244l204 -118z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="1025px" viewBox="0 0 900 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Play" transform="translate(0.1426, 0.711)" fill="currentColor" fill-rule="nonzero">
+    <path d="M528,490 L660,358 L460,242 C460,242 68,16 46,4 C44,2 42,0 38,0 L528,490 Z M884,488 C866,478 712,388 682,370 L546,506 L684,646 C722,624 862,544 882,532 C906,518 904,498 884,488 Z M8,2 C4,8 0,16 0,26 L0,510 L0,1002 C0,1008 2,1012 4,1016 L512,506 L8,2 Z M528,524 L28,1024 C30,1024 34,1022 36,1020 C56,1008 460,776 460,776 L664,658 L528,524 Z"></path>
+  </g>
 </svg>

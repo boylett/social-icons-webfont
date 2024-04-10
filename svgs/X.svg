@@ -1,7 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M607.324 292.594l373.01 -433.593h-88.3906l-323.885 376.483l-258.686 -376.483h-298.363l391.185 569.31l-391.185 454.69h88.3965l342.029 -397.579l273.191 397.579h298.363l-405.666 -590.406v-0.000976562zM486.253 433.326l-354.997 -507.781h135.772
-l624.956 893.938h-135.772z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1003px" height="1025px" viewBox="0 0 1003 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="X" transform="translate(0.7061, 0.6137)" fill="currentColor" fill-rule="nonzero">
+    <path d="M596.3146,433.593 L969.3246,0 L880.934,0 L557.049,376.483 L298.363,0 L0,0 L391.185,569.31 L0,1024 L88.3965,1024 L430.4255,626.421 L703.6165,1024 L1001.9795,1024 L596.3135,433.594 L596.3135,433.593023 L596.3146,433.593 Z M475.2436,574.325 L120.2466,66.544 L256.0186,66.544 L880.9746,960.482 L745.2026,960.482 L475.2436,574.325 Z"></path>
+  </g>
 </svg>

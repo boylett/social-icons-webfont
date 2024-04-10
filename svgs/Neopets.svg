@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M963.99 202.623h-346.613l-67.3486 -248.049l-190.556 249.691h-298.975l179.055 167.558l-177.412 266.119l340.041 -146.203l349.898 295.688l-77.207 -343.327l-13.1445 -57.4951z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="904px" height="834px" viewBox="0 0 904 834" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Neopets" transform="translate(0.1849, 0.711)" fill="currentColor" fill-rule="nonzero">
+    <polygon points="903.4926 248.049 556.8796 248.049 489.531 2.84217094e-14 298.975 249.691 -5.68434189e-14 249.691 179.055 417.249 1.643 683.368 341.684 537.165 691.582 832.853 614.375 489.526 601.2305 432.0309"></polygon>
+  </g>
 </svg>

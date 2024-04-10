@@ -1,7 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M886 -141l-218 44v322c-48 -64 -118 -94 -206 -94c-94 0 -178 34 -246 102c-76 74 -118 168 -118 274c0 116 44 214 128 290c66 58 142 86 232 86c86 0 152 -24 218 -86v82h208v-1020h2zM506 687c-112 0 -192 -78 -192 -182c0 -98 80 -182 184 -182c100 0 178 80 178 186
-c0 102 -78 178 -170 178z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="789px" height="1025px" viewBox="0 0 789 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Dailymotion" transform="translate(0.2222, 0.8284)" fill="currentColor" fill-rule="nonzero">
+    <path d="M788,0 L570,44 L570,366 C522,302 452,272 364,272 C270,272 186,306 118,374 C42,448 0,542 0,648 C0,764 44,862 128,938 C194,996 270,1024 360,1024 C446,1024 512,1000 578,938 L578,1020 L786,1020 L786,0 L788,0 Z M408,828 C296,828 216,750 216,646 C216,548 296,464 400,464 C500,464 578,544 578,650 C578,752 500,828 408,828 Z"></path>
+  </g>
 </svg>

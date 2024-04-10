@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1044 1024">
-   <path fill="currentColor"
-d="M512 -141c-282 0 -512 230 -512 512s230 512 512 512s512 -230 512 -512s-230 -512 -512 -512zM638 535l46 -112h-342l44 112l-332 -164l332 -164l-42 106h336l-40 -106l332 164z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1025px" viewBox="0 0 1024 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="TeamViewer" transform="translate(0, 0.0926)" fill="currentColor" fill-rule="nonzero">
+    <path d="M512,0 C230,0 0,230 0,512 C0,794 230,1024 512,1024 C794,1024 1024,794 1024,512 C1024,230 794,0 512,0 Z M638,676 L684,564 L342,564 L386,676 L54,512 L386,348 L344,454 L680,454 L640,348 L972,512 L638,676 Z"></path>
+  </g>
 </svg>

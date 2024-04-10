@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1045 1024">
-   <path fill="currentColor"
-d="M756 673h-64l-180 -258l-182 258h-62l212 -302l-212 -302h62l182 258l180 -258h64l-212 302zM512 -141c-282 0 -512 230 -512 512s230 512 512 512c284 0 512 -230 512 -512c2 -282 -228 -512 -512 -512z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1025px" height="1025px" viewBox="0 0 1025 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="macOS" transform="translate(0.9716, 0.6046)" fill="currentColor" fill-rule="nonzero">
+    <path d="M756,814 L692,814 L512,556 L330,814 L268,814 L480,512 L268,210 L330,210 L512,468 L692,210 L756,210 L544,512 L756,814 Z M512,0 C230,0 0,230 0,512 C0,794 230,1024 512,1024 C796,1024 1024,794 1024,512 C1026,230 796,0 512,0 Z"></path>
+  </g>
 </svg>

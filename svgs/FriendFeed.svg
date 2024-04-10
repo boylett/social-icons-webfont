@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1044 1024">
-   <path fill="currentColor"
-d="M1024 53h-152c-30 0 -62 40 -62 94v90h180v178h-180v450h-180v-450h-270v450h-180v-450h-180v-178h180v-90c0 -150 108 -270 242 -270h152v176h-152c-30 0 -62 40 -62 94v90h270v-90c0 -150 108 -270 242 -270h152v176z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="989px" viewBox="0 0 1024 989" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="FriendFeed" transform="translate(0, 0.0926)" fill="currentColor" fill-rule="nonzero">
+    <path d="M1024,176 L872,176 C842,176 810,216 810,270 L810,360 L990,360 L990,538 L810,538 L810,988 L630,988 L630,538 L360,538 L360,988 L180,988 L180,538 L0,538 L0,360 L180,360 L180,270 C180,120 288,0 422,0 L574,0 L574,176 L422,176 C392,176 360,216 360,270 L360,360 L630,360 L630,270 C630,120 738,0 872,0 L1024,0 L1024,176 Z"></path>
+  </g>
 </svg>

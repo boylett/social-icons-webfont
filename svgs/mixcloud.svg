@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M940 733.4h-132.8v-606l24.7998 -86.4004h-42.7998l-152.8 692.4h-244l-153.601 -692.4h-41.5996l23.5996 86.4004v606h-132.8v-726.4h262.8l146 692.4h34l146.4 -692.4h262.8v726.4z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="853px" height="728px" viewBox="0 0 853 728" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="mixcloud" transform="translate(0.9798, 0.8284)" fill="currentColor" fill-rule="nonzero">
+    <polygon points="852.001 726.4 719.201 726.4 719.201 120.4 744.0008 33.9996 701.201 33.9996 548.401 726.3996 304.401 726.3996 150.8 33.9996 109.2004 33.9996 132.8 120.4 132.8 726.4 -5.68434189e-14 726.4 -5.68434189e-14 0 262.8 0 408.8 692.4 442.8 692.4 589.2 0 852 0 852 726.4"></polygon>
+  </g>
 </svg>

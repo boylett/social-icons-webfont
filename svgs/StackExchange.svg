@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M794 -141h-564c-72 0 -130 60 -130 136v44h824v-44c0 -76 -58 -136 -130 -136zM100 523v44c0 76 58 136 130 136h352v180l174 -180h38c72 0 130 -60 130 -134v-44h-824v-2zM100 87v170h824v-170h-824zM100 307v170h824v-170h-824z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="825px" height="1025px" viewBox="0 0 825 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="StackExchange" transform="translate(0.1428, 0.8284)" fill="currentColor" fill-rule="nonzero">
+    <path d="M694,0 L130,0 C58,0 0,60 0,136 L0,180 L824,180 L824,136 C824,60 766,0 694,0 Z M0,664 L0,708 C0,784 58,844 130,844 L482,844 L482,1024 L656,844 L694,844 C766,844 824,784 824,710 L824,666 L0,666 L0,664 Z M0,228 L0,398 L824,398 L824,228 L0,228 Z M0,448 L0,618 L824,618 L824,448 L0,448 Z"></path>
+  </g>
 </svg>

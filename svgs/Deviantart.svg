@@ -1,7 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M816.128 -134.856v0v0h-174.08l-18.4316 18.4326l-89.0879 168.96l-25.6006 15.3604h-301.056v252.928h160.768l16.3848 16.3838l-177.152 337.92v202.752h174.08l18.4316 -18.4316l89.0879 -168.96l25.6006 -14.3359h300.031v-253.952h-160.768l-16.3838 -16.3838
-l177.151 -337.92v-202.753h1.02441z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="609px" height="1014px" viewBox="0 0 609 1014" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Deviantart" transform="translate(0.5424, 0.4253)" fill="currentColor" fill-rule="nonzero">
+    <polygon points="608.2561 0 608.2561 0 608.2561 0 434.1761 0 415.7445 18.4326 326.6566 187.3926 301.056 202.753 0 202.753 0 455.681 160.768 455.681 177.1528 472.0648 0.0008 809.9848 0.0008 1012.7368 174.0808 1012.7368 192.5124 994.3052 281.6003 825.3452 307.2009 811.0093 607.2319 811.0093 607.2319 557.0573 446.4639 557.0573 430.0801 540.6735 607.2311 202.7535 607.2311 0.0005 608.25551 0.0005"></polygon>
+  </g>
 </svg>

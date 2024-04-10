@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1044 1024">
-   <path fill="currentColor"
-d="M558.397 46.5762l-558.397 558.449l90.2959 90.3984l558.5 -558.449zM375.099 604.989l558.469 -558.468l90.3994 90.3994l-558.468 558.468z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1025px" height="649px" viewBox="0 0 1025 649" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Wickr" transform="translate(0.3107, 0.0926)" fill="currentColor" fill-rule="nonzero">
+    <path d="M558.397,0.0552 L0,558.5042 L90.2959,648.9026 L648.7959,90.4536 L558.397,0.0552 Z M375.099,558.468 L933.568,0 L1023.9674,90.3994 L465.4994,648.8674 L375.099,558.468 Z"></path>
+  </g>
 </svg>

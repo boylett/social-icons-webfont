@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M512 201l-288 166v-334l288 168l296 -172l-296 -170l-296 170v342l296 170l288 -166v334l-288 -168l-296 172l296 170l296 -170v-342z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="593px" height="1025px" viewBox="0 0 593 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="StoreHouse" transform="translate(0.7985, 0.4253)" fill="currentColor" fill-rule="nonzero">
+    <polygon points="296 342 8 508 8 174 296 342 592 170 296 0 0 170 0 512 296 682 584 516 584 850 296 682 0 854 296 1024 592 854 592 512"></polygon>
+  </g>
 </svg>

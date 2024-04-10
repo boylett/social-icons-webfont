@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M449.432 746.879h-244.632l117.826 -785.479h475.782l-33.6689 219.931h-231.15l-10.0996 71.8184h231.147l-33.6533 219.934h-231.164z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="594px" height="786px" viewBox="0 0 594 786" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="FlowCode" transform="translate(0.1841, 0.4253)" fill="currentColor" fill-rule="nonzero">
+    <polygon points="244.632 785.479 0 785.479 117.826 0 593.608 0 559.9391 219.931 328.7891 219.931 318.6895 291.7494 549.8365 291.7494 516.1832 511.6834 285.0192 511.6834"></polygon>
+  </g>
 </svg>

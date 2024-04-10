@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1044 1024">
-   <path fill="currentColor"
-d="M232 603c-128 0 -232 -104 -232 -232s104 -232 232 -232s232 104 232 232s-104 232 -232 232zM792 603c-128 0 -232 -104 -232 -232s104 -232 232 -232s232 104 232 232s-104 232 -232 232z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="465px" viewBox="0 0 1024 465" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Flickr" transform="translate(0, 0.0926)" fill="currentColor" fill-rule="nonzero">
+    <path d="M232,464 C104,464 0,360 0,232 C0,104 104,0 232,0 C360,0 464,104 464,232 C464,360 360,464 232,464 Z M792,464 C664,464 560,360 560,232 C560,104 664,0 792,0 C920,0 1024,104 1024,232 C1024,360 920,464 792,464 Z"></path>
+  </g>
 </svg>

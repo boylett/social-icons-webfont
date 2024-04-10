@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1044 1024">
-   <path fill="currentColor"
-d="M773.12 -25.2881v146.432h-124.928v249.856h-125.952v-249.856h-271.36v-146.432h-250.88v792.576h250.88v-396.288h124.928v249.856h272.385v-249.856h124.928v396.288h250.88v-792.576h-250.88z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="793px" viewBox="0 0 1024 793" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="MobCrush" transform="translate(0.0004, 0.0926)" fill="currentColor" fill-rule="nonzero">
+    <polygon points="773.12 -1.42108547e-14 773.12 146.432 648.192 146.432 648.192 396.288 522.24 396.288 522.24 146.432 250.88 146.432 250.88 -2.84217094e-14 0 -2.84217094e-14 0 792.576 250.88 792.576 250.88 396.288 375.808 396.288 375.808 646.144 648.193 646.144 648.193 396.288 773.121 396.288 773.121 792.576 1024.001 792.576 1024.001 7.95367479e-31 773.121 7.95367479e-31"></polygon>
+  </g>
 </svg>

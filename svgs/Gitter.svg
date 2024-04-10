@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M163.84 -141h98.3037v648.192h-98.3037v-648.192zM761.856 16.6963h98.3037v491.52h-98.3037v-491.52zM364.544 16.6963h98.3037v866.304h-98.3037v-866.304zM561.152 16.6963h98.3037v866.304h-98.3037v-866.304z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="698px" height="1025px" viewBox="0 0 698 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Gitter" transform="translate(0.7349, 0.4253)" fill="currentColor" fill-rule="nonzero">
+    <path d="M0,0 L98.3037,0 L98.3037,648.192 L0,648.192 L0,0 L0,0 Z M598.016,157.6963 L696.3197,157.6963 L696.3197,649.2163 L598.016,649.2163 L598.016,157.6963 Z M200.704,157.6963 L299.0077,157.6963 L299.0077,1024.0003 L200.704,1024.0003 L200.704,157.6963 Z M397.312,157.6963 L495.6157,157.6963 L495.6157,1024.0003 L397.312,1024.0003 L397.312,157.6963 Z"></path>
+  </g>
 </svg>

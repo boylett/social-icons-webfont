@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M592 883v-468h156l24 -182h-180v-116c0 -52 14 -88 90 -88h96v-162c-16 -4 -74 -8 -140 -8c-140 0 -234 84 -234 240v134h-158v182h158v468h188z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="533px" height="1025px" viewBox="0 0 533 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Facebook" transform="translate(0.4157, 0.4253)" fill="currentColor" fill-rule="nonzero">
+    <path d="M346,1024 L346,556 L502,556 L526,374 L346,374 L346,258 C346,206 360,170 436,170 L532,170 L532,8 C516,4 458,0 392,0 C252,0 158,84 158,240 L158,374 L0,374 L0,556 L158,556 L158,1024 L346,1024 Z"></path>
+  </g>
 </svg>

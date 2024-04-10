@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1044 1024">
-   <path fill="currentColor"
-d="M512 -15l-512 772h104l116 -178h584l116 178h104zM288 489l224 -338l224 338h-448z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="773px" viewBox="0 0 1024 773" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="AppNet" transform="translate(0, 0.0926)" fill="currentColor" fill-rule="nonzero">
+    <path d="M512,0 L0,772 L104,772 L220,594 L804,594 L920,772 L1024,772 L512,0 Z M288,504 L512,166 L736,504 L288,504 Z"></path>
+  </g>
 </svg>

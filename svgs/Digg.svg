@@ -1,7 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1044 1024">
-   <path fill="currentColor"
-d="M308 207h102v348h-102v-348zM164 63h102v492h-266v-348h164v-144zM164 289h-62v184h62v-184zM308 167h102v-104h-102v104zM450 207h266v472h-266v-82h164v-42h-164v-348zM552 473h62v-184h-62v184zM1024 207v472h-266v-82h164v-42h-164v-348h266zM922 289h-62v184h62
-v-184z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="617px" viewBox="0 0 1024 617" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Digg" transform="translate(0, 0.0926)" fill="currentColor" fill-rule="nonzero">
+    <path d="M308,144 L410,144 L410,492 L308,492 L308,144 Z M164,0 L266,0 L266,492 L0,492 L0,144 L164,144 L164,0 Z M164,226 L102,226 L102,410 L164,410 L164,226 Z M308,104 L410,104 L410,0 L308,0 L308,104 Z M450,144 L716,144 L716,616 L450,616 L450,534 L614,534 L614,492 L450,492 L450,144 Z M552,410 L614,410 L614,226 L552,226 L552,410 Z M1024,144 L1024,616 L758,616 L758,534 L922,534 L922,492 L758,492 L758,144 L1024,144 Z M922,226 L860,226 L860,410 L922,410 L922,226 Z"></path>
+  </g>
 </svg>

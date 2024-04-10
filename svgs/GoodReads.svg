@@ -1,7 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M738 -121v102c-52 -76 -138 -120 -234 -120c-192 0 -320 146 -320 366c0 96 26 182 74 246c54 74 134 114 234 114s194 -44 246 -116v106c0 156 -72 228 -232 228c-134 0 -202 -56 -208 -164v-24h-72l2 22c4 154 106 244 282 244c200 0 310 -108 310 -306v-698h-82z
-M756 227c0 142 -78 284 -252 284c-144 0 -238 -112 -238 -284c0 -134 64 -290 248 -290c64 0 118 22 160 64c54 54 84 136 82 226z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="637px" height="1023px" viewBox="0 0 637 1023" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="GoodReads" transform="translate(0.3289, 0.4253)" fill="currentColor" fill-rule="nonzero">
+    <path d="M554,18 L554,120 C502,44 416,0 320,0 C128,0 0,146 0,366 C0,462 26,548 74,612 C128,686 208,726 308,726 C408,726 502,682 554,610 L554,716 C554,872 482,944 322,944 C188,944 120,888 114,780 L114,756 L42,756 L44,778 C48,932 150,1022 326,1022 C526,1022 636,914 636,716 L636,18 L554,18 Z M572,366 C572,508 494,650 320,650 C176,650 82,538 82,366 C82,232 146,76 330,76 C394,76 448,98 490,140 C544,194 574,276 572,366 Z"></path>
+  </g>
 </svg>

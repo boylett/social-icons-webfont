@@ -1,7 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1044 1024">
-   <path fill="currentColor"
-d="M0.392578 200.649l170.882 -170.882l170.881 170.882l-170.881 170.881zM852.992 371l171.008 -169.984l-171.008 -171.008l-169.984 169.984l-171.008 -169.984l-169.984 171.008l169.984 169.984l-169.984 169.984l169.984 171.008l171.008 -171.008l-169.983 -169.984
-l169.983 -169.984z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="683px" viewBox="0 0 1024 683" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Tidal" transform="translate(0, 0.6075)" fill="currentColor" fill-rule="nonzero">
+    <path d="M0,170.882 L170.882,0 L341.763,170.882 L170.882,341.763 L0,170.882 Z M852.599422,341.233 L1023.60742,171.249 L852.599422,0.241 L682.615422,170.225 L511.607422,0.241 L341.623422,171.249 L511.607422,341.233 L341.623422,511.217 L511.607422,682.225 L682.615422,511.217 L512.632422,341.233 L682.615422,171.249 L852.599422,341.233 Z"></path>
+  </g>
 </svg>

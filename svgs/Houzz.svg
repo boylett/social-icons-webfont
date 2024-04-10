@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M512 881l286 -174v-336l-286 172v338zM512 201v-344l-296 174v348l294 -172l288 164v-340zM508 545l-292 -166v338z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="583px" height="1025px" viewBox="0 0 583 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Houzz" transform="translate(0.7985, 0.4253)" fill="currentColor" fill-rule="nonzero">
+    <path d="M296,1024 L582,850 L582,514 L296,686 L296,1024 Z M296,344 L296,0 L0,174 L0,522 L294,350 L582,514 L582,174 L296,344 Z M292,688 L0,522 L0,860 L292,688 Z"></path>
+  </g>
 </svg>

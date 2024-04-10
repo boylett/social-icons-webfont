@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M154.624 883v-1024h714.752v1024h-714.752zM765.952 779.576v-817.152h-507.904v818.176h507.904v-1.02344z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="715px" height="1025px" viewBox="0 0 715 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Natgeo" transform="translate(0.1251, 0.4253)" fill="currentColor" fill-rule="nonzero">
+    <path d="M-2.84217094e-14,1024 L-2.84217094e-14,0 L714.752,0 L714.752,1024 L-2.84217094e-14,1024 L-2.84217094e-14,1024 Z M611.328,920.576 L611.328,103.424 L103.424,103.424 L103.424,921.6 L611.328,921.6 L611.328,920.57656 L611.328,920.576 Z"></path>
+  </g>
 </svg>

@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1044 1024">
-   <path fill="currentColor"
-d="M0 -125h1024v112h-1024v-112zM838 525h102v-430h-854v430h90l76 244h-252v98h1024v-98h-258zM258 207h514v204h-514v-204zM622 769h-226l-76 -244h374z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="993px" viewBox="0 0 1024 993" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Douban" transform="translate(0, 0.0926)" fill="currentColor" fill-rule="nonzero">
+    <path d="M0,0 L1024,0 L1024,112 L0,112 L0,0 Z M838,650 L940,650 L940,220 L86,220 L86,650 L176,650 L252,894 L0,894 L0,992 L1024,992 L1024,894 L766,894 L838,650 Z M258,332 L772,332 L772,536 L258,536 L258,332 Z M622,894 L396,894 L320,650 L694,650 L622,894 Z"></path>
+  </g>
 </svg>

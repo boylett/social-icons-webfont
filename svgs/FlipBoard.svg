@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1044 1024">
-   <path fill="currentColor"
-d="M0 -141v1024h1024v-1024h-1024zM819.2 268.6h-204.8v204.801h-204.801v204.8h-204.8v-614.4h614.4v204.8z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1025px" height="1025px" viewBox="0 0 1025 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="FlipBoard" transform="translate(0.2781, 0.0926)" fill="currentColor" fill-rule="nonzero">
+    <path d="M0,0 L0,1024 L1024,1024 L1024,0 L0,0 Z M819.2,409.6 L614.4,409.6 L614.4,614.401 L409.599,614.401 L409.599,819.201 L204.799,819.201 L204.799,204.801 L819.2,204.801 L819.2,409.601 L819.2,409.6 Z"></path>
+  </g>
 </svg>

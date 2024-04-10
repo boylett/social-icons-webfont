@@ -1,7 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1044 1024">
-   <path fill="currentColor"
-d="M1014 167c0 0 -10 -72 -40 -102c-40 -42 -84 -42 -104 -44c-142 -10 -358 -10 -358 -10v0s-216 0 -358 10c-20 2 -64 2 -104 44c-30 30 -40 102 -40 102s-10 82 -10 164v78c0 84 10 166 10 166s10 70 40 102c40 40 92 40 114 44c82 8 348 10 348 10s216 0 358 -10
-c20 -2 64 -4 104 -44c30 -32 40 -102 40 -102s10 -82 10 -166v-78c0 -82 -10 -164 -10 -164zM650 379v0l-242 126v-288l276 144z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="721px" viewBox="0 0 1024 721" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Youtube" transform="translate(0, 0.0926)" fill="currentColor" fill-rule="nonzero">
+    <path d="M1014,156 C1014,156 1004,84 974,54 C934,12 890,12 870,10 C728,0 512,0 512,0 L512,0 C512,0 296,0 154,10 C134,12 90,12 50,54 C20,84 10,156 10,156 C10,156 0,238 0,320 L0,398 C0,482 10,564 10,564 C10,564 20,634 50,666 C90,706 142,706 164,710 C246,718 512,720 512,720 C512,720 728,720 870,710 C890,708 934,706 974,666 C1004,634 1014,564 1014,564 C1014,564 1024,482 1024,398 L1024,320 C1024,238 1014,156 1014,156 Z M650,368 L650,368 L408,494 L408,206 L684,350 L650,368 Z"></path>
+  </g>
 </svg>

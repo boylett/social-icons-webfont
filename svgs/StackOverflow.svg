@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M696 801h-510l2 -344h-76l-2 426h668v-430h-82v348zM236 657h398v82h-398v-82zM246 505l402 38l-8 88l-402 -38zM282 331l390 110l-24 84l-388 -110zM378 135l344 208l-44 76l-346 -210zM738 327l-236 -328l72 -50l234 328zM760 -127l86 -14l68 398l-88 14z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="805px" height="1025px" viewBox="0 0 805 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="StackOverflow" transform="translate(0.9205, 0.8284)" fill="currentColor" fill-rule="nonzero">
+    <path d="M586,942 L76,942 L78,598 L2,598 L0,1024 L668,1024 L668,594 L586,594 L586,942 Z M126,798 L524,798 L524,880 L126,880 L126,798 Z M136,646 L538,684 L530,772 L128,734 L136,646 Z M172,472 L562,582 L538,666 L150,556 L172,472 Z M268,276 L612,484 L568,560 L222,350 L268,276 Z M628,468 L392,140 L464,90 L698,418 L628,468 Z M650,14 L736,0 L804,398 L716,412 L650,14 Z"></path>
+  </g>
 </svg>

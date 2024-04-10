@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M205.824 -141h164.864v588.8l228.352 -271.359h196.608l-263.168 305.151l285.695 401.408h-196.607l-247.809 -357.376h-3.07129v357.376h-164.864v-1024z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="613px" height="1025px" viewBox="0 0 613 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Kobo" transform="translate(0.1911, 0.4253)" fill="currentColor" fill-rule="nonzero">
+    <polygon points="0.00029 0 164.86429 0 164.86429 588.8 393.21629 317.441 589.82429 317.441 326.65629 622.592 612.35129 1024 415.74429 1024 167.93529 666.624 164.864 666.624 164.864 1024 2.84217094e-14 1024 2.84217094e-14 0"></polygon>
+  </g>
 </svg>

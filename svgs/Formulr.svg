@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M284 -5c-92 90 -140 222 -140 378v512h296v-520c0 -74 18 -132 54 -168c40 -38 100 -48 144 -48h134l108 -290h-242c-142 0 -264 48 -354 136z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="737px" height="1027px" viewBox="0 0 737 1027" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Formulr" transform="translate(0.5383, 0.4253)" fill="currentColor" fill-rule="nonzero">
+    <path d="M140,136 C48,226 0,358 0,514 L0,1026 L296,1026 L296,506 C296,432 314,374 350,338 C390,300 450,290 494,290 L628,290 L736,0 L494,0 C352,0 230,48 140,136 Z"></path>
+  </g>
 </svg>

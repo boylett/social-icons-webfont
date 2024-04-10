@@ -1,7 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M246 577h-148c-8 0 -14 -4 -18 -10s-4 -16 0 -24l156 -276v-2l-100 -172c-4 -8 -4 -16 0 -22s10 -10 20 -10h148c22 0 34 14 40 28l102 176c-6 12 -160 282 -160 282c-8 14 -18 30 -40 30zM944 -109l-326 578v2l208 380c4 8 4 16 0 22s-10 10 -20 10h-148
-c-22 0 -32 -16 -40 -28c0 0 -210 -384 -210 -386c10 -18 328 -582 328 -582c8 -14 18 -28 40 -28h150c8 0 16 4 18 10c4 6 4 14 0 22z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="871px" height="1025px" viewBox="0 0 871 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Xing" transform="translate(0.2853, 0.8284)" fill="currentColor" fill-rule="nonzero">
+    <path d="M169,718 L21,718 C13,718 7,714 3,708 C-1,702 -1,692 3,684 L159,408 L159,406 L59,234 C55,226 55,218 59,212 C63,206 69,202 79,202 L227,202 C249,202 261,216 267,230 L369,406 C363,418 209,688 209,688 C201,702 191,718 169,718 Z M867,32 L541,610 L541,612 L749,992 C753,1000 753,1008 749,1014 C745,1020 739,1024 729,1024 L581,1024 C559,1024 549,1008 541,996 C541,996 331,612 331,610 C341,592 659,28 659,28 C667,14 677,0 699,0 L849,0 C857,0 865,4 867,10 C871,16 871,24 867,32 Z"></path>
+  </g>
 </svg>

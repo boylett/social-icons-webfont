@@ -1,7 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M564 883h-104c-226 0 -408 -184 -408 -410v-512c0 -56 46 -102 102 -102s102 46 102 102v512c0 114 92 206 204 206h104c112 0 204 -82 204 -180c0 -100 -56 -180 -102 -180h-206c-56 0 -102 -46 -102 -102s46 -102 102 -102h206c170 0 306 172 306 384
-s-182 384 -408 384z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="921px" height="1025px" viewBox="0 0 921 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Bebo" transform="translate(0.7057, 0.711)" fill="currentColor" fill-rule="nonzero">
+    <path d="M512,1024 L408,1024 C182,1024 0,840 0,614 L0,102 C0,46 46,0 102,0 C158,0 204,46 204,102 L204,614 C204,728 296,820 408,820 L512,820 C624,820 716,738 716,640 C716,540 660,460 614,460 L408,460 C352,460 306,414 306,358 C306,302 352,256 408,256 L614,256 C784,256 920,428 920,640 C920,852 738,1024 512,1024 Z"></path>
+  </g>
 </svg>

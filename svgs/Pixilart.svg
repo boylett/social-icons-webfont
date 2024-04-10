@@ -1,6 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 0 1034 1024">
-   <path fill="currentColor"
-d="M341.333 598.556v-113.777h-113.778v-113.778h-113.777v-227.556h113.777v-113.778h227.557v113.778h113.777v-113.778h227.557v113.778h113.777v227.556h-113.777v113.778h-113.778v113.777h-113.778v113.778h-113.777v-113.778h-113.778z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="797px" height="684px" viewBox="0 0 797 684" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Pixilart" transform="translate(0.1072, 0.8284)" fill="currentColor" fill-rule="nonzero">
+    <polygon points="227.555 568.889 227.555 455.112 113.777 455.112 113.777 341.334 -7.10542736e-14 341.334 -7.10542736e-14 113.778 113.777 113.778 113.777 -1.42108547e-14 341.334 -1.42108547e-14 341.334 113.778 455.111 113.778 455.111 -1.42108547e-14 682.668 -1.42108547e-14 682.668 113.778 796.445 113.778 796.445 341.334 682.668 341.334 682.668 455.112 568.89 455.112 568.89 568.889 455.112 568.889 455.112 682.667 341.335 682.667 341.335 568.889 227.557 568.889"></polygon>
+  </g>
 </svg>
