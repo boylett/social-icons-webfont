@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?rsufwh');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?rsufwh#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?rsufwh') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?rsufwh') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?rsufwh##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?x50wdg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?x50wdg#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?x50wdg') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?x50wdg') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?x50wdg##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -222,6 +222,11 @@
     content: $soc-Blackberry; 
   }
 }
+.soc-Blingee {
+  &:before {
+    content: $soc-Blingee; 
+  }
+}
 .soc-Blizzard {
   &:before {
     content: $soc-Blizzard; 
@@ -260,6 +265,11 @@
 .soc-Buffer {
   &:before {
     content: $soc-Buffer; 
+  }
+}
+.soc-Bukkit {
+  &:before {
+    content: $soc-Bukkit; 
   }
 }
 .soc-BuyMeACoffee {
@@ -310,6 +320,11 @@
 .soc-CodePen {
   &:before {
     content: $soc-CodePen; 
+  }
+}
+.soc-Codeberg {
+  &:before {
+    content: $soc-Codeberg; 
   }
 }
 .soc-CoderWall {
@@ -432,9 +447,19 @@
     content: $soc-Draugiem; 
   }
 }
+.soc-DreamWidth {
+  &:before {
+    content: $soc-DreamWidth; 
+  }
+}
 .soc-Dribbble {
   &:before {
     content: $soc-Dribbble; 
+  }
+}
+.soc-Dropbox {
+  &:before {
+    content: $soc-Dropbox; 
   }
 }
 .soc-Drupal {
@@ -492,9 +517,19 @@
     content: $soc-Fandom; 
   }
 }
+.soc-Fediverse {
+  &:before {
+    content: $soc-Fediverse; 
+  }
+}
 .soc-FeedBurner {
   &:before {
     content: $soc-FeedBurner; 
+  }
+}
+.soc-Filegarden {
+  &:before {
+    content: $soc-Filegarden; 
   }
 }
 .soc-FilmFreeway {
@@ -545,6 +580,11 @@
 .soc-FlowCode {
   &:before {
     content: $soc-FlowCode; 
+  }
+}
+.soc-Forgejo {
+  &:before {
+    content: $soc-Forgejo; 
   }
 }
 .soc-Formulr {
@@ -602,9 +642,9 @@
     content: $soc-GOG; 
   }
 }
-.soc-Gag {
+.soc-9Gag {
   &:before {
-    content: $soc-Gag; 
+    content: $soc-9Gag; 
   }
 }
 .soc-GaiaOnline {
@@ -637,9 +677,19 @@
     content: $soc-Ghost; 
   }
 }
+.soc-Git {
+  &:before {
+    content: $soc-Git; 
+  }
+}
 .soc-GitHub {
   &:before {
     content: $soc-GitHub; 
+  }
+}
+.soc-Gitea {
+  &:before {
+    content: $soc-Gitea; 
   }
 }
 .soc-Gitlab {
@@ -667,6 +717,16 @@
     content: $soc-GoToMeeting; 
   }
 }
+.soc-Goatlings {
+  &:before {
+    content: $soc-Goatlings; 
+  }
+}
+.soc-Gogs {
+  &:before {
+    content: $soc-Gogs; 
+  }
+}
 .soc-GoodReads {
   &:before {
     content: $soc-GoodReads; 
@@ -675,6 +735,11 @@
 .soc-Google {
   &:before {
     content: $soc-Google; 
+  }
+}
+.soc-GoogleDrive {
+  &:before {
+    content: $soc-GoogleDrive; 
   }
 }
 .soc-GoogleCalendar {
@@ -802,6 +867,11 @@
     content: $soc-Houzz; 
   }
 }
+.soc-Hypixel {
+  &:before {
+    content: $soc-Hypixel; 
+  }
+}
 .soc-IMDb {
   &:before {
     content: $soc-IMDb; 
@@ -817,6 +887,11 @@
     content: $soc-Identica; 
   }
 }
+.soc-Imgur {
+  &:before {
+    content: $soc-Imgur; 
+  }
+}
 .soc-IndieDB {
   &:before {
     content: $soc-IndieDB; 
@@ -825,6 +900,11 @@
 .soc-Inkblot {
   &:before {
     content: $soc-Inkblot; 
+  }
+}
+.soc-Inkitt {
+  &:before {
+    content: $soc-Inkitt; 
   }
 }
 .soc-Instagram {
@@ -895,6 +975,11 @@
 .soc-Kobo {
   &:before {
     content: $soc-Kobo; 
+  }
+}
+.soc-Koo {
+  &:before {
+    content: $soc-Koo; 
   }
 }
 .soc-Lanyrd {
@@ -1047,6 +1132,11 @@
     content: $soc-ModerNeopets; 
   }
 }
+.soc-Modrinth {
+  &:before {
+    content: $soc-Modrinth; 
+  }
+}
 .soc-Mumble {
   &:before {
     content: $soc-Mumble; 
@@ -1060,6 +1150,11 @@
 .soc-MySpace {
   &:before {
     content: $soc-MySpace; 
+  }
+}
+.soc-NaNoWriMo {
+  &:before {
+    content: $soc-NaNoWriMo; 
   }
 }
 .soc-NameMC {
@@ -1165,6 +1260,11 @@
 .soc-PaperDemon {
   &:before {
     content: $soc-PaperDemon; 
+  }
+}
+.soc-PaperMC {
+  &:before {
+    content: $soc-PaperMC; 
   }
 }
 .soc-Patreon {
@@ -1447,6 +1547,11 @@
     content: $soc-SoundCloud; 
   }
 }
+.soc-Spigot {
+  &:before {
+    content: $soc-Spigot; 
+  }
+}
 .soc-Spip {
   &:before {
     content: $soc-Spip; 
@@ -1455,6 +1560,11 @@
 .soc-Splice {
   &:before {
     content: $soc-Splice; 
+  }
+}
+.soc-Sporcle {
+  &:before {
+    content: $soc-Sporcle; 
   }
 }
 .soc-Spotify {
@@ -1517,6 +1627,11 @@
     content: $soc-StoreHouse; 
   }
 }
+.soc-StoryGraph {
+  &:before {
+    content: $soc-StoryGraph; 
+  }
+}
 .soc-Strava {
   &:before {
     content: $soc-Strava; 
@@ -1547,6 +1662,11 @@
     content: $soc-Subeta; 
   }
 }
+.soc-Sudomemo {
+  &:before {
+    content: $soc-Sudomemo; 
+  }
+}
 .soc-Swarm {
   &:before {
     content: $soc-Swarm; 
@@ -1565,6 +1685,11 @@
 .soc-TeamViewer {
   &:before {
     content: $soc-TeamViewer; 
+  }
+}
+.soc-Technic {
+  &:before {
+    content: $soc-Technic; 
   }
 }
 .soc-Technorati {
@@ -1822,6 +1947,11 @@
     content: $soc-WordPress; 
   }
 }
+.soc-WorldAnvil {
+  &:before {
+    content: $soc-WorldAnvil; 
+  }
+}
 .soc-Wykop {
   &:before {
     content: $soc-Wykop; 
@@ -1912,6 +2042,11 @@
     content: $soc-Zynga; 
   }
 }
+.soc-box {
+  &:before {
+    content: $soc-box; 
+  }
+}
 .soc-macOS {
   &:before {
     content: $soc-macOS; 
@@ -1925,6 +2060,11 @@
 .soc-reCAPTCHA {
   &:before {
     content: $soc-reCAPTCHA; 
+  }
+}
+.soc-sourcehut {
+  &:before {
+    content: $soc-sourcehut; 
   }
 }
 

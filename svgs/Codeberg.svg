@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Codeberg</title>
+    <g id="Codeberg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M10,2 C14.4184331,2 18,5.58174011 18,10.0000346 C18,11.5030996 17.5765377,12.9758181 16.7781678,14.2493604 L10.1078596,5.62592444 C10.0695712,5.57609395 9.98467065,5.56612785 9.92773737,5.59602614 L9.89144656,5.62592444 L3.22148522,14.2490136 C2.42311527,12.9755407 2,11.5029608 2,10.0000346 C2,5.58174011 5.5815667,2 10,2 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
