@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?x50wdg');
-  src:  url('fonts/SocialIcons.eot?x50wdg#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?x50wdg') format('truetype'),
-    url('fonts/SocialIcons.woff?x50wdg') format('woff'),
-    url('fonts/SocialIcons.svg?x50wdg#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?xmnl9c');
+  src:  url('fonts/SocialIcons.eot?xmnl9c#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?xmnl9c') format('truetype'),
+    url('fonts/SocialIcons.woff?xmnl9c') format('woff'),
+    url('fonts/SocialIcons.svg?xmnl9c#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,6 +35,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.soc-9Gag:before {
+  content: "\e984";
+}
 .soc-AdobePortfolio:before {
   content: "\e943";
 }
@@ -64,6 +67,9 @@
 }
 .soc-AngiesList:before {
   content: "\e916";
+}
+.soc-AnimationFramework:before {
+  content: "\e9f2";
 }
 .soc-AnimePlanet:before {
   content: "\e9b7";
@@ -398,9 +404,6 @@
 .soc-GOG:before {
   content: "\e9b9";
 }
-.soc-9Gag:before {
-  content: "\e984";
-}
 .soc-GaiaOnline:before {
   content: "\e9ba";
 }
@@ -455,11 +458,11 @@
 .soc-Google:before {
   content: "\e034";
 }
-.soc-GoogleDrive:before {
-  content: "\e9e2";
-}
 .soc-GoogleCalendar:before {
   content: "\e926";
+}
+.soc-GoogleDrive:before {
+  content: "\e9e2";
 }
 .soc-GoogleGroups:before {
   content: "\e036";

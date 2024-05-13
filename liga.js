@@ -25,6 +25,7 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            '9gag': '&#xe984;',
             'portfolio': '&#xe943;',
             'adobeportfolio': '&#xe943;',
             'airbnb': '&#xe002;',
@@ -36,6 +37,8 @@
             'android': '&#xe006;',
             'angellist': '&#xe007;',
             'angieslist': '&#xe916;',
+            'animationframework': '&#xe9f2;',
+            'theanimationframework': '&#xe9f2;',
             'animeplanet': '&#xe9b7;',
             'anthroart': '&#xe9c1;',
             'appnet': '&#xe009;',
@@ -153,7 +156,6 @@
             'furvilla': '&#xe998;',
             'fyuse': '&#xe90a;',
             'gog': '&#xe9b9;',
-            '9gag': '&#xe984;',
             'gaiaonline': '&#xe9ba;',
             'gamefor': '&#xe94e;',
             'gamejolt': '&#xe901;',
@@ -172,8 +174,8 @@
             'gogs': '&#xe9e1;',
             'goodreads': '&#xe033;',
             'google': '&#xe034;',
-            'googledrive': '&#xe9e2;',
             'googlecalendar': '&#xe926;',
+            'googledrive': '&#xe9e2;',
             'googlegroups': '&#xe036;',
             'googlehangouts': '&#xe974;',
             'googlemaps': '&#xe937;',

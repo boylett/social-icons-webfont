@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?x50wdg');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?x50wdg#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?x50wdg') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?x50wdg') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?x50wdg##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?xmnl9c');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?xmnl9c#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?xmnl9c') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?xmnl9c') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?xmnl9c##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -37,6 +37,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.soc-9Gag {
+  &:before {
+    content: $soc-9Gag; 
+  }
+}
 .soc-AdobePortfolio {
   &:before {
     content: $soc-AdobePortfolio; 
@@ -85,6 +90,11 @@
 .soc-AngiesList {
   &:before {
     content: $soc-AngiesList; 
+  }
+}
+.soc-AnimationFramework {
+  &:before {
+    content: $soc-AnimationFramework; 
   }
 }
 .soc-AnimePlanet {
@@ -642,11 +652,6 @@
     content: $soc-GOG; 
   }
 }
-.soc-9Gag {
-  &:before {
-    content: $soc-9Gag; 
-  }
-}
 .soc-GaiaOnline {
   &:before {
     content: $soc-GaiaOnline; 
@@ -737,14 +742,14 @@
     content: $soc-Google; 
   }
 }
-.soc-GoogleDrive {
-  &:before {
-    content: $soc-GoogleDrive; 
-  }
-}
 .soc-GoogleCalendar {
   &:before {
     content: $soc-GoogleCalendar; 
+  }
+}
+.soc-GoogleDrive {
+  &:before {
+    content: $soc-GoogleDrive; 
   }
 }
 .soc-GoogleGroups {

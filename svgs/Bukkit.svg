@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Bukkit</title>
     <g id="Bukkit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M56,55 L56,44 L68,44 L68,67 L7,67 L7,8 L56,8 L56,19 L20,19 L20,32 L56,32 L56,44 L20,44 L20,55 L56,55 Z M68,19 L68,32 L56,32 L56,19 L68,19 Z" id="Shape" fill="#000000"></path>
+        <path d="M56,55 L56,44 L68,44 L68,67 L7,67 L7,8 L56,8 L56,19 L20,19 L20,32 L56,32 L56,44 L20,44 L20,55 L56,55 Z M68,19 L68,32 L56,32 L56,19 L68,19 Z" id="Shape" fill="currentColor"></path>
     </g>
 </svg>
