@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?xmnl9c');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?xmnl9c#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?xmnl9c') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?xmnl9c') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?xmnl9c##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?w3muj');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?w3muj#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?w3muj') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?w3muj') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?w3muj##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -37,6 +37,26 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.soc-DNAxCAT {
+  &:before {
+    content: $soc-DNAxCAT; 
+  }
+}
+.soc-Gamebanana {
+  &:before {
+    content: $soc-Gamebanana; 
+  }
+}
+.soc-Scratch {
+  &:before {
+    content: $soc-Scratch; 
+  }
+}
+.soc-Zenius-I-Vanisher {
+  &:before {
+    content: $soc-Zenius-I-Vanisher; 
+  }
+}
 .soc-9Gag {
   &:before {
     content: $soc-9Gag; 

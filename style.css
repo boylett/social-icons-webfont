@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?xmnl9c');
-  src:  url('fonts/SocialIcons.eot?xmnl9c#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?xmnl9c') format('truetype'),
-    url('fonts/SocialIcons.woff?xmnl9c') format('woff'),
-    url('fonts/SocialIcons.svg?xmnl9c#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?w3muj');
+  src:  url('fonts/SocialIcons.eot?w3muj#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?w3muj') format('truetype'),
+    url('fonts/SocialIcons.woff?w3muj') format('woff'),
+    url('fonts/SocialIcons.svg?w3muj#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,6 +35,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.soc-DNAxCAT:before {
+  content: "\e9f3";
+}
+.soc-Gamebanana:before {
+  content: "\e9f4";
+}
+.soc-Scratch:before {
+  content: "\e9f5";
+}
+.soc-Zenius-I-Vanisher:before {
+  content: "\e9f6";
+}
 .soc-9Gag:before {
   content: "\e984";
 }

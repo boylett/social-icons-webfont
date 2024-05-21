@@ -25,6 +25,11 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'dnaxcat': '&#xe9f3;',
+            'gamebanana': '&#xe9f4;',
+            'scratch': '&#xe9f5;',
+            'zeniusivanisher': '&#xe9f6;',
+            'zenius-i-vanisher': '&#xe9f6;',
             '9gag': '&#xe984;',
             'portfolio': '&#xe943;',
             'adobeportfolio': '&#xe943;',
