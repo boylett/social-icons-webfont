@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?w3muj');
-  src:  url('fonts/SocialIcons.eot?w3muj#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?w3muj') format('truetype'),
-    url('fonts/SocialIcons.woff?w3muj') format('woff'),
-    url('fonts/SocialIcons.svg?w3muj#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?xgf7m1');
+  src:  url('fonts/SocialIcons.eot?xgf7m1#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?xgf7m1') format('truetype'),
+    url('fonts/SocialIcons.woff?xgf7m1') format('woff'),
+    url('fonts/SocialIcons.svg?xgf7m1#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,18 +35,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.soc-DNAxCAT:before {
-  content: "\e9f3";
-}
-.soc-Gamebanana:before {
-  content: "\e9f4";
-}
-.soc-Scratch:before {
-  content: "\e9f5";
-}
-.soc-Zenius-I-Vanisher:before {
-  content: "\e9f6";
-}
 .soc-9Gag:before {
   content: "\e984";
 }
@@ -254,6 +242,9 @@
 .soc-Curse:before {
   content: "\e016";
 }
+.soc-DNAxCAT:before {
+  content: "\e9f3";
+}
 .soc-Dailymotion:before {
   content: "\e017";
 }
@@ -427,6 +418,9 @@
 }
 .soc-GameWisp:before {
   content: "\e905";
+}
+.soc-Gamebanana:before {
+  content: "\e9f4";
 }
 .soc-Genius:before {
   content: "\e9cf";
@@ -893,6 +887,9 @@
 .soc-Roblox:before {
   content: "\e9ae";
 }
+.soc-Scratch:before {
+  content: "\e9f5";
+}
 .soc-Seedrs:before {
   content: "\e929";
 }
@@ -1237,6 +1234,9 @@
 }
 .soc-Zazzle:before {
   content: "\e97b";
+}
+.soc-Zenius-I-Vanisher:before {
+  content: "\e9f6";
 }
 .soc-Zerply:before {
   content: "\e0a7";
