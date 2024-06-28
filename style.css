@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?xgf7m1');
-  src:  url('fonts/SocialIcons.eot?xgf7m1#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?xgf7m1') format('truetype'),
-    url('fonts/SocialIcons.woff?xgf7m1') format('woff'),
-    url('fonts/SocialIcons.svg?xgf7m1#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?ttmv4v');
+  src:  url('fonts/SocialIcons.eot?ttmv4v#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?ttmv4v') format('truetype'),
+    url('fonts/SocialIcons.woff?ttmv4v') format('woff'),
+    url('fonts/SocialIcons.svg?ttmv4v#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -110,6 +110,9 @@
 .soc-Ask:before {
   content: "\e930";
 }
+.soc-Atabook:before {
+  content: "\e9f7";
+}
 .soc-Augment:before {
   content: "\e908";
 }
@@ -142,6 +145,9 @@
 }
 .soc-Behance:before {
   content: "\e010";
+}
+.soc-BigCartel:before {
+  content: "\e9f8";
 }
 .soc-Bing:before {
   content: "\e92a";
@@ -398,6 +404,9 @@
 .soc-FurryNetwork:before {
   content: "\e9d1";
 }
+.soc-FurryPaws:before {
+  content: "\e9f9";
+}
 .soc-Furvilla:before {
   content: "\e998";
 }
@@ -445,6 +454,9 @@
 }
 .soc-Glaze:before {
   content: "\e98f";
+}
+.soc-GlobalComix:before {
+  content: "\e9fa";
 }
 .soc-Gnome:before {
   content: "\e961";
@@ -719,6 +731,9 @@
 .soc-NameMC:before {
   content: "\e9ad";
 }
+.soc-NamiComi:before {
+  content: "\e9fb";
+}
 .soc-Napster:before {
   content: "\e954";
 }
@@ -953,6 +968,9 @@
 .soc-SoundCloud:before {
   content: "\e078";
 }
+.soc-SpaceHey:before {
+  content: "\e9fc";
+}
 .soc-Spigot:before {
   content: "\e9ea";
 }
@@ -1021,6 +1039,9 @@
 }
 .soc-Subeta:before {
   content: "\e9cb";
+}
+.soc-SubscribeStar:before {
+  content: "\e9fd";
 }
 .soc-Sudomemo:before {
   content: "\e9ed";

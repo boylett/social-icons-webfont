@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?xgf7m1');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?xgf7m1#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?xgf7m1') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?xgf7m1') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?xgf7m1##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ttmv4v');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ttmv4v#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ttmv4v') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ttmv4v') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ttmv4v##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -162,6 +162,11 @@
     content: $soc-Ask; 
   }
 }
+.soc-Atabook {
+  &:before {
+    content: $soc-Atabook; 
+  }
+}
 .soc-Augment {
   &:before {
     content: $soc-Augment; 
@@ -215,6 +220,11 @@
 .soc-Behance {
   &:before {
     content: $soc-Behance; 
+  }
+}
+.soc-BigCartel {
+  &:before {
+    content: $soc-BigCartel; 
   }
 }
 .soc-Bing {
@@ -642,6 +652,11 @@
     content: $soc-FurryNetwork; 
   }
 }
+.soc-FurryPaws {
+  &:before {
+    content: $soc-FurryPaws; 
+  }
+}
 .soc-Furvilla {
   &:before {
     content: $soc-Furvilla; 
@@ -720,6 +735,11 @@
 .soc-Glaze {
   &:before {
     content: $soc-Glaze; 
+  }
+}
+.soc-GlobalComix {
+  &:before {
+    content: $soc-GlobalComix; 
   }
 }
 .soc-Gnome {
@@ -1177,6 +1197,11 @@
     content: $soc-NameMC; 
   }
 }
+.soc-NamiComi {
+  &:before {
+    content: $soc-NamiComi; 
+  }
+}
 .soc-Napster {
   &:before {
     content: $soc-Napster; 
@@ -1567,6 +1592,11 @@
     content: $soc-SoundCloud; 
   }
 }
+.soc-SpaceHey {
+  &:before {
+    content: $soc-SpaceHey; 
+  }
+}
 .soc-Spigot {
   &:before {
     content: $soc-Spigot; 
@@ -1680,6 +1710,11 @@
 .soc-Subeta {
   &:before {
     content: $soc-Subeta; 
+  }
+}
+.soc-SubscribeStar {
+  &:before {
+    content: $soc-SubscribeStar; 
   }
 }
 .soc-Sudomemo {
