@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Juxt</title>
+    <g id="Juxt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M40.62,5 L55,5 L55,45.2 C55,57.89 47.27,64.61 35.59,64.61 C23.49,64.61 15,57.55 15,44.28 L29.28,44.28 C29.28,49.28 31.47,51.75 35.16,51.75 C38.61,51.75 40.62,49.57 40.62,45.2 L40.62,5 Z" id="Path" fill="currentColor" fill-rule="nonzero"></path>
+    </g>
+</svg>

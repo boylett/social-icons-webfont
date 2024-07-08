@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ttmv4v');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ttmv4v#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ttmv4v') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ttmv4v') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ttmv4v##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?f14lo2');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?f14lo2#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?f14lo2') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?f14lo2') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?f14lo2##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -92,6 +92,11 @@
     content: $soc-AngiesList; 
   }
 }
+.soc-AnimalJam {
+  &:before {
+    content: $soc-AnimalJam; 
+  }
+}
 .soc-AnimationFramework {
   &:before {
     content: $soc-AnimationFramework; 
@@ -107,6 +112,11 @@
     content: $soc-AnthroArt; 
   }
 }
+.soc-Anthrodex {
+  &:before {
+    content: $soc-Anthrodex; 
+  }
+}
 .soc-AppNet {
   &:before {
     content: $soc-AppNet; 
@@ -120,6 +130,11 @@
 .soc-Apple {
   &:before {
     content: $soc-Apple; 
+  }
+}
+.soc-ArchLinux {
+  &:before {
+    content: $soc-ArchLinux; 
   }
 }
 .soc-ArchiveOfOurOwn {
@@ -402,6 +417,11 @@
     content: $soc-Dailymotion; 
   }
 }
+.soc-Daz3D {
+  &:before {
+    content: $soc-Daz3D; 
+  }
+}
 .soc-Debian {
   &:before {
     content: $soc-Debian; 
@@ -492,6 +512,11 @@
     content: $soc-Drupal; 
   }
 }
+.soc-E-Zbio {
+  &:before {
+    content: $soc-E-Zbio; 
+  }
+}
 .soc-Ebay {
   &:before {
     content: $soc-Ebay; 
@@ -500,6 +525,11 @@
 .soc-Eitaa {
   &:before {
     content: $soc-Eitaa; 
+  }
+}
+.soc-Element {
+  &:before {
+    content: $soc-Element; 
   }
 }
 .soc-ElementaryOS {
@@ -992,6 +1022,11 @@
     content: $soc-Jamendo; 
   }
 }
+.soc-Juxt {
+  &:before {
+    content: $soc-Juxt; 
+  }
+}
 .soc-KeyBase {
   &:before {
     content: $soc-KeyBase; 
@@ -1135,6 +1170,11 @@
 .soc-Minecraft {
   &:before {
     content: $soc-Minecraft; 
+  }
+}
+.soc-MissKey {
+  &:before {
+    content: $soc-MissKey; 
   }
 }
 .soc-Mix {
@@ -1347,6 +1387,11 @@
     content: $soc-Pixiv; 
   }
 }
+.soc-Plancke {
+  &:before {
+    content: $soc-Plancke; 
+  }
+}
 .soc-Play {
   &:before {
     content: $soc-Play; 
@@ -1375,6 +1420,16 @@
 .soc-PronounsPage {
   &:before {
     content: $soc-PronounsPage; 
+  }
+}
+.soc-Pronounscc {
+  &:before {
+    content: $soc-Pronounscc; 
+  }
+}
+.soc-Pronouny {
+  &:before {
+    content: $soc-Pronouny; 
   }
 }
 .soc-Px {
@@ -1445,6 +1500,11 @@
 .soc-Remote {
   &:before {
     content: $soc-Remote; 
+  }
+}
+.soc-Renderosity {
+  &:before {
+    content: $soc-Renderosity; 
   }
 }
 .soc-Renren {
@@ -1530,6 +1590,11 @@
 .soc-Signal {
   &:before {
     content: $soc-Signal; 
+  }
+}
+.soc-Skeb {
+  &:before {
+    content: $soc-Skeb; 
   }
 }
 .soc-SketchFab {
@@ -1695,6 +1760,11 @@
 .soc-StreamJar {
   &:before {
     content: $soc-StreamJar; 
+  }
+}
+.soc-Stripe {
+  &:before {
+    content: $soc-Stripe; 
   }
 }
 .soc-StrudelCafe {
@@ -2107,6 +2177,16 @@
     content: $soc-box; 
   }
 }
+.soc-jsr {
+  &:before {
+    content: $soc-jsr; 
+  }
+}
+.soc-lobsters {
+  &:before {
+    content: $soc-lobsters; 
+  }
+}
 .soc-macOS {
   &:before {
     content: $soc-macOS; 
@@ -2115,6 +2195,11 @@
 .soc-mixcloud {
   &:before {
     content: $soc-mixcloud; 
+  }
+}
+.soc-onedev {
+  &:before {
+    content: $soc-onedev; 
   }
 }
 .soc-reCAPTCHA {

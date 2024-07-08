@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?ttmv4v');
-  src:  url('fonts/SocialIcons.eot?ttmv4v#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?ttmv4v') format('truetype'),
-    url('fonts/SocialIcons.woff?ttmv4v') format('woff'),
-    url('fonts/SocialIcons.svg?ttmv4v#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?f14lo2');
+  src:  url('fonts/SocialIcons.eot?f14lo2#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?f14lo2') format('truetype'),
+    url('fonts/SocialIcons.woff?f14lo2') format('woff'),
+    url('fonts/SocialIcons.svg?f14lo2#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -68,6 +68,9 @@
 .soc-AngiesList:before {
   content: "\e916";
 }
+.soc-AnimalJam:before {
+  content: "\e9fe";
+}
 .soc-AnimationFramework:before {
   content: "\e9f2";
 }
@@ -77,6 +80,9 @@
 .soc-AnthroArt:before {
   content: "\e9c1";
 }
+.soc-Anthrodex:before {
+  content: "\e9ff";
+}
 .soc-AppNet:before {
   content: "\e009";
 }
@@ -85,6 +91,9 @@
 }
 .soc-Apple:before {
   content: "\e008";
+}
+.soc-ArchLinux:before {
+  content: "\ea00";
 }
 .soc-ArchiveOfOurOwn:before {
   content: "\e9c2";
@@ -254,6 +263,9 @@
 .soc-Dailymotion:before {
   content: "\e017";
 }
+.soc-Daz3D:before {
+  content: "\ea01";
+}
 .soc-Debian:before {
   content: "\e95f";
 }
@@ -308,11 +320,17 @@
 .soc-Drupal:before {
   content: "\e022";
 }
+.soc-E-Zbio:before {
+  content: "\ea02";
+}
 .soc-Ebay:before {
   content: "\e023";
 }
 .soc-Eitaa:before {
   content: "\e97c";
+}
+.soc-Element:before {
+  content: "\ea03";
 }
 .soc-ElementaryOS:before {
   content: "\e969";
@@ -608,6 +626,9 @@
 .soc-Jamendo:before {
   content: "\e963";
 }
+.soc-Juxt:before {
+  content: "\ea04";
+}
 .soc-KeyBase:before {
   content: "\e048";
 }
@@ -694,6 +715,9 @@
 }
 .soc-Minecraft:before {
   content: "\e9b4";
+}
+.soc-MissKey:before {
+  content: "\ea05";
 }
 .soc-Mix:before {
   content: "\e964";
@@ -821,6 +845,9 @@
 .soc-Pixiv:before {
   content: "\e94f";
 }
+.soc-Plancke:before {
+  content: "\ea06";
+}
 .soc-Play:before {
   content: "\e064";
 }
@@ -838,6 +865,12 @@
 }
 .soc-PronounsPage:before {
   content: "\e9ac";
+}
+.soc-Pronounscc:before {
+  content: "\ea07";
+}
+.soc-Pronouny:before {
+  content: "\ea08";
 }
 .soc-Px:before {
   content: "\e000";
@@ -880,6 +913,9 @@
 }
 .soc-Remote:before {
   content: "\e972";
+}
+.soc-Renderosity:before {
+  content: "\ea09";
 }
 .soc-Renren:before {
   content: "\e06d";
@@ -931,6 +967,9 @@
 }
 .soc-Signal:before {
   content: "\e9b6";
+}
+.soc-Skeb:before {
+  content: "\ea0a";
 }
 .soc-SketchFab:before {
   content: "\e90c";
@@ -1030,6 +1069,9 @@
 }
 .soc-StreamJar:before {
   content: "\e081";
+}
+.soc-Stripe:before {
+  content: "\ea0b";
 }
 .soc-StrudelCafe:before {
   content: "\e991";
@@ -1277,11 +1319,20 @@
 .soc-box:before {
   content: "\e9f0";
 }
+.soc-jsr:before {
+  content: "\ea0c";
+}
+.soc-lobsters:before {
+  content: "\ea0d";
+}
 .soc-macOS:before {
   content: "\e04f";
 }
 .soc-mixcloud:before {
   content: "\e9a3";
+}
+.soc-onedev:before {
+  content: "\ea0e";
 }
 .soc-reCAPTCHA:before {
   content: "\e98e";

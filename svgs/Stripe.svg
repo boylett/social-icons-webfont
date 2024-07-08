@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Stripe</title>
+    <g id="Stripe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M14.46,11.84 C14.46,14.81 12.15,16.5 8.73,16.5 C7.19531796,16.4988403 5.67724858,16.1822922 4.27,15.57 L4.27,11.64 C5.65,12.39 7.37,12.95 8.73,12.95 C9.65,12.95 10.26,12.71 10.26,11.95 C10.26,9.97 4,10.71 4,6.15 C4,3.24 6.28,1.5 9.62,1.5 C10.98,1.5 12.34,1.7 13.71,2.25 L13.71,6.13 C12.443955,5.46368517 11.0403484,5.1008015 9.61,5.07 C8.75,5.07 8.17,5.32 8.17,5.97 C8.17,7.82 14.46,6.94 14.46,11.85 L14.46,11.84 Z" id="Path" fill="currentColor"></path>
+    </g>
+</svg>
