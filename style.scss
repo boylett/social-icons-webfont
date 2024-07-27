@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?f14lo2');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?f14lo2#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?f14lo2') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?f14lo2') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?f14lo2##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?hzlgac');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?hzlgac#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?hzlgac') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?hzlgac') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?hzlgac##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1047,6 +1047,11 @@
     content: $soc-Kobo; 
   }
 }
+.soc-KomiMart {
+  &:before {
+    content: $soc-KomiMart; 
+  }
+}
 .soc-Koo {
   &:before {
     content: $soc-Koo; 
@@ -1072,6 +1077,11 @@
     content: $soc-LetterBoxd; 
   }
 }
+.soc-LiberaPay {
+  &:before {
+    content: $soc-LiberaPay; 
+  }
+}
 .soc-Line {
   &:before {
     content: $soc-Line; 
@@ -1090,6 +1100,11 @@
 .soc-Linktree {
   &:before {
     content: $soc-Linktree; 
+  }
+}
+.soc-LinuxMint {
+  &:before {
+    content: $soc-LinuxMint; 
   }
 }
 .soc-LiveJournal {
@@ -1925,6 +1940,11 @@
 .soc-Twitch {
   &:before {
     content: $soc-Twitch; 
+  }
+}
+.soc-Twitter {
+  &:before {
+    content: $soc-Twitter; 
   }
 }
 .soc-Uber {

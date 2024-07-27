@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'SocialIcons';
-  src:  url('fonts/SocialIcons.eot?f14lo2');
-  src:  url('fonts/SocialIcons.eot?f14lo2#iefix') format('embedded-opentype'),
-    url('fonts/SocialIcons.ttf?f14lo2') format('truetype'),
-    url('fonts/SocialIcons.woff?f14lo2') format('woff'),
-    url('fonts/SocialIcons.svg?f14lo2#SocialIcons') format('svg');
+  src:  url('fonts/SocialIcons.eot?hzlgac');
+  src:  url('fonts/SocialIcons.eot?hzlgac#iefix') format('embedded-opentype'),
+    url('fonts/SocialIcons.ttf?hzlgac') format('truetype'),
+    url('fonts/SocialIcons.woff?hzlgac') format('woff'),
+    url('fonts/SocialIcons.svg?hzlgac#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -641,6 +641,9 @@
 .soc-Kobo:before {
   content: "\e948";
 }
+.soc-KomiMart:before {
+  content: "\ea0f";
+}
 .soc-Koo:before {
   content: "\e9e6";
 }
@@ -656,6 +659,9 @@
 .soc-LetterBoxd:before {
   content: "\e96d";
 }
+.soc-LiberaPay:before {
+  content: "\ea10";
+}
 .soc-Line:before {
   content: "\e04b";
 }
@@ -667,6 +673,9 @@
 }
 .soc-Linktree:before {
   content: "\e982";
+}
+.soc-LinuxMint:before {
+  content: "\ea11";
 }
 .soc-LiveJournal:before {
   content: "\e04d";
@@ -1168,6 +1177,9 @@
 }
 .soc-Twitch:before {
   content: "\e08c";
+}
+.soc-Twitter:before {
+  content: "\ea12";
 }
 .soc-Uber:before {
   content: "\e08e";
