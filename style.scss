@@ -2,11 +2,10 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?p7opiq');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?p7opiq#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?p7opiq') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?p7opiq') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?p7opiq##{$icomoon-font-family}') format('svg');
+  src:
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ecwk63') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ecwk63') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ecwk63##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -295,6 +294,11 @@
 .soc-Booking {
   &:before {
     content: $soc-Booking; 
+  }
+}
+.soc-Boosty {
+  &:before {
+    content: $soc-Boosty; 
   }
 }
 .soc-Buffer {
@@ -907,6 +911,11 @@
     content: $soc-Heroes; 
   }
 }
+.soc-Hipolink {
+  &:before {
+    content: $soc-Hipolink; 
+  }
+}
 .soc-HomeAdvisor {
   &:before {
     content: $soc-HomeAdvisor; 
@@ -1105,6 +1114,11 @@
 .soc-LinuxMint {
   &:before {
     content: $soc-LinuxMint; 
+  }
+}
+.soc-Lioden {
+  &:before {
+    content: $soc-Lioden; 
   }
 }
 .soc-LiveJournal {
@@ -1470,6 +1484,11 @@
 .soc-Quora {
   &:before {
     content: $soc-Quora; 
+  }
+}
+.soc-Quotev {
+  &:before {
+    content: $soc-Quotev; 
   }
 }
 .soc-RSS {
