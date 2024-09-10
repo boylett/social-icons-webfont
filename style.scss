@@ -3,9 +3,9 @@
 @font-face {
   font-family: '#{$icomoon-font-family}';
   src:
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ecwk63') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ecwk63') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ecwk63##{$icomoon-font-family}') format('svg');
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?k5r3g') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?k5r3g') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?k5r3g##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -451,6 +451,11 @@
     content: $soc-Diablo; 
   }
 }
+.soc-Dibujando {
+  &:before {
+    content: $soc-Dibujando; 
+  }
+}
 .soc-Digg {
   &:before {
     content: $soc-Digg; 
@@ -554,6 +559,11 @@
 .soc-Envato {
   &:before {
     content: $soc-Envato; 
+  }
+}
+.soc-Epic {
+  &:before {
+    content: $soc-Epic; 
   }
 }
 .soc-Escargot {
@@ -971,6 +981,11 @@
     content: $soc-IndieDB; 
   }
 }
+.soc-InkBunny {
+  &:before {
+    content: $soc-InkBunny; 
+  }
+}
 .soc-Inkblot {
   &:before {
     content: $soc-Inkblot; 
@@ -1341,6 +1356,11 @@
     content: $soc-Odnoklassniki; 
   }
 }
+.soc-OpenGameArt {
+  &:before {
+    content: $soc-OpenGameArt; 
+  }
+}
 .soc-Opera {
   &:before {
     content: $soc-Opera; 
@@ -1394,6 +1414,16 @@
 .soc-Persona {
   &:before {
     content: $soc-Persona; 
+  }
+}
+.soc-Picarto {
+  &:before {
+    content: $soc-Picarto; 
+  }
+}
+.soc-Piczel {
+  &:before {
+    content: $soc-Piczel; 
   }
 }
 .soc-PillowFort {
@@ -1669,6 +1699,11 @@
 .soc-SnapChat {
   &:before {
     content: $soc-SnapChat; 
+  }
+}
+.soc-SoFurry {
+  &:before {
+    content: $soc-SoFurry; 
   }
 }
 .soc-Society6 {

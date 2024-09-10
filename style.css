@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'SocialIcons';
   src:
-    url('fonts/SocialIcons.ttf?ecwk63') format('truetype'),
-    url('fonts/SocialIcons.woff?ecwk63') format('woff'),
-    url('fonts/SocialIcons.svg?ecwk63#SocialIcons') format('svg');
+    url('fonts/SocialIcons.ttf?k5r3g') format('truetype'),
+    url('fonts/SocialIcons.woff?k5r3g') format('woff'),
+    url('fonts/SocialIcons.svg?k5r3g#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -283,6 +283,9 @@
 .soc-Diablo:before {
   content: "\e01b";
 }
+.soc-Dibujando:before {
+  content: "\ea17";
+}
 .soc-Digg:before {
   content: "\e01c";
 }
@@ -345,6 +348,9 @@
 }
 .soc-Envato:before {
   content: "\e026";
+}
+.soc-Epic:before {
+  content: "\ea18";
 }
 .soc-Escargot:before {
   content: "\e9b8";
@@ -595,6 +601,9 @@
 .soc-IndieDB:before {
   content: "\e94c";
 }
+.soc-InkBunny:before {
+  content: "\ea19";
+}
 .soc-Inkblot:before {
   content: "\e995";
 }
@@ -817,6 +826,9 @@
 .soc-Odnoklassniki:before {
   content: "\e05a";
 }
+.soc-OpenGameArt:before {
+  content: "\ea1a";
+}
 .soc-Opera:before {
   content: "\e05c";
 }
@@ -849,6 +861,12 @@
 }
 .soc-Persona:before {
   content: "\e062";
+}
+.soc-Picarto:before {
+  content: "\ea1b";
+}
+.soc-Piczel:before {
+  content: "\ea1c";
 }
 .soc-PillowFort:before {
   content: "\e980";
@@ -1014,6 +1032,9 @@
 }
 .soc-SnapChat:before {
   content: "\e076";
+}
+.soc-SoFurry:before {
+  content: "\ea1d";
 }
 .soc-Society6:before {
   content: "\e97a";

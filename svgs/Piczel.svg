@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Piczel</title>
+    <g id="Piczel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M239,64 L243,71 L243,85 L258,85 L263,93 L257,218 L238,218 L237,237 L64,237 L63,218 L43,218 L37,93 L42,85 L57,85 L57,71 L61,64 L239,64 Z M227.694,206.999 L72.306,206.999 L73,227 L227,227 L227.694,206.999 Z M222,213 L221.5,221 L203,221 L203.5,213 L222,213 Z M232,83 L68,83 L68.764,104.999 L49,105 L53,207 L72,207 L69,105 L231,105 L228,207 L247,207 L251,105 L231.236,104.999 L232,83 Z" fill="currentColor"></path>
+    </g>
+</svg>
