@@ -25,6 +25,7 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'friendlycaptcha': '&#xea1e;',
             '9gag': '&#xe984;',
             'portfolio': '&#xe943;',
             'adobeportfolio': '&#xe943;',

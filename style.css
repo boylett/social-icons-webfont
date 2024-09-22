@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'SocialIcons';
   src:
-    url('fonts/SocialIcons.ttf?s3lhr0') format('truetype'),
-    url('fonts/SocialIcons.woff?s3lhr0') format('woff'),
-    url('fonts/SocialIcons.svg?s3lhr0#SocialIcons') format('svg');
+    url('fonts/SocialIcons.ttf?1xv1b8') format('truetype'),
+    url('fonts/SocialIcons.woff?1xv1b8') format('woff'),
+    url('fonts/SocialIcons.svg?1xv1b8#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -34,6 +34,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.soc-FriendlyCaptcha:before {
+  content: "\ea1e";
+}
 .soc-9Gag:before {
   content: "\e984";
 }

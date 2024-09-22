@@ -128,6 +128,7 @@ export const icons = {
   "Forrst": [ "forrst" ],
   "FourSquare": [ "foursquare" ],
   "Freelancer": [ "freelancer" ],
+  "FriendlyCaptcha": [ "friendlycaptcha" ],
   "FriendFeed": [ "friendfeed" ],
   "Fundable": [ "fundable" ],
   "FurAffinity": [ "furaffinity" ],
