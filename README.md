@@ -1,4 +1,4 @@
-[![1.41.1](https://badgen.net/badge/npm/1.41.1/blue)](https://www.npmjs.com/package/social-icons-webfont)
+[![1.42](https://badgen.net/badge/npm/1.42/blue)](https://www.npmjs.com/package/social-icons-webfont)
 
 # Social Icons
 Icon font containing social media branding icons.
