@@ -3,6 +3,8 @@
 # Social Icons Webfont
 Icon font containing social media branding icons.
 
+You can view all icons and their ligatures [here](https://boylett.github.io/social-icons-webfont/demo.html).
+
 Generated with [IcoMoon](https://icomoon.io/).
 
 ## Usage
