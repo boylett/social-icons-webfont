@@ -1,6 +1,6 @@
 [![1.43](https://badgen.net/badge/npm/1.43/blue)](https://www.npmjs.com/package/social-icons-webfont)
 
-# Social Icons
+# Social Icons Webfont
 Icon font containing social media branding icons.
 
 Generated with [IcoMoon](https://icomoon.io/).
