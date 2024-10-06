@@ -3,9 +3,9 @@
 @font-face {
   font-family: '#{$icomoon-font-family}';
   src:
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?1xv1b8') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?1xv1b8') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?1xv1b8##{$icomoon-font-family}') format('svg');
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ulyczk') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ulyczk') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ulyczk##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -36,11 +36,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.soc-FriendlyCaptcha {
-  &:before {
-    content: $soc-FriendlyCaptcha; 
-  }
-}
 .soc-9Gag {
   &:before {
     content: $soc-9Gag; 
@@ -49,6 +44,11 @@
 .soc-AdobePortfolio {
   &:before {
     content: $soc-AdobePortfolio; 
+  }
+}
+.soc-Afdian {
+  &:before {
+    content: $soc-Afdian; 
   }
 }
 .soc-AirBnB {
@@ -64,6 +64,11 @@
 .soc-Alibaba {
   &:before {
     content: $soc-Alibaba; 
+  }
+}
+.soc-AllMyLinks {
+  &:before {
+    content: $soc-AllMyLinks; 
   }
 }
 .soc-Alliance {
@@ -164,6 +169,11 @@
 .soc-ArtStation {
   &:before {
     content: $soc-ArtStation; 
+  }
+}
+.soc-Artconomy {
+  &:before {
+    content: $soc-Artconomy; 
   }
 }
 .soc-Artfol {
@@ -396,6 +406,11 @@
     content: $soc-ComicFury; 
   }
 }
+.soc-Commishes {
+  &:before {
+    content: $soc-Commishes; 
+  }
+}
 .soc-CraigsList {
   &:before {
     content: $soc-CraigsList; 
@@ -489,6 +504,11 @@
 .soc-Dlive {
   &:before {
     content: $soc-Dlive; 
+  }
+}
+.soc-Donorbox {
+  &:before {
+    content: $soc-Donorbox; 
   }
 }
 .soc-Doodle {
@@ -586,9 +606,24 @@
     content: $soc-Facebook; 
   }
 }
+.soc-FanFiction {
+  &:before {
+    content: $soc-FanFiction; 
+  }
+}
+.soc-Fanbox {
+  &:before {
+    content: $soc-Fanbox; 
+  }
+}
 .soc-Fandom {
   &:before {
     content: $soc-Fandom; 
+  }
+}
+.soc-Fantia {
+  &:before {
+    content: $soc-Fantia; 
   }
 }
 .soc-Fediverse {
@@ -686,6 +721,11 @@
     content: $soc-FriendFeed; 
   }
 }
+.soc-FriendlyCaptcha {
+  &:before {
+    content: $soc-FriendlyCaptcha; 
+  }
+}
 .soc-Fundable {
   &:before {
     content: $soc-Fundable; 
@@ -704,6 +744,11 @@
 .soc-FurryPaws {
   &:before {
     content: $soc-FurryPaws; 
+  }
+}
+.soc-Furtastic {
+  &:before {
+    content: $soc-Furtastic; 
   }
 }
 .soc-Furvilla {
@@ -794,6 +839,11 @@
 .soc-Gnome {
   &:before {
     content: $soc-Gnome; 
+  }
+}
+.soc-GoFundMe {
+  &:before {
+    content: $soc-GoFundMe; 
   }
 }
 .soc-GoToMeeting {
@@ -1061,6 +1111,11 @@
     content: $soc-KeyBase; 
   }
 }
+.soc-Kickstarter {
+  &:before {
+    content: $soc-Kickstarter; 
+  }
+}
 .soc-Kitsu {
   &:before {
     content: $soc-Kitsu; 
@@ -1189,6 +1244,11 @@
 .soc-Matrix {
   &:before {
     content: $soc-Matrix; 
+  }
+}
+.soc-MediaWiki {
+  &:before {
+    content: $soc-MediaWiki; 
   }
 }
 .soc-Medium {
@@ -1359,6 +1419,11 @@
 .soc-Odnoklassniki {
   &:before {
     content: $soc-Odnoklassniki; 
+  }
+}
+.soc-OpenCollective {
+  &:before {
+    content: $soc-OpenCollective; 
   }
 }
 .soc-OpenGameArt {
@@ -1534,6 +1599,11 @@
 .soc-RaidCall {
   &:before {
     content: $soc-RaidCall; 
+  }
+}
+.soc-RateYourMusic {
+  &:before {
+    content: $soc-RateYourMusic; 
   }
 }
 .soc-Ravelry {
@@ -1921,6 +1991,11 @@
     content: $soc-Tidal; 
   }
 }
+.soc-TiddlyWiki {
+  &:before {
+    content: $soc-TiddlyWiki; 
+  }
+}
 .soc-Tiktok {
   &:before {
     content: $soc-Tiktok; 
@@ -2199,6 +2274,11 @@
 .soc-Yelp {
   &:before {
     content: $soc-Yelp; 
+  }
+}
+.soc-Yooco {
+  &:before {
+    content: $soc-Yooco; 
   }
 }
 .soc-YouNow {
