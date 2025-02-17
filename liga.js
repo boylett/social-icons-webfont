@@ -25,6 +25,7 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            '4dopt': '&#xea3f;',
             '9gag': '&#xe984;',
             'portfolio': '&#xe943;',
             'adobeportfolio': '&#xe943;',
@@ -326,6 +327,7 @@
             'odnoklassniki': '&#xe05a;',
             'opencollective': '&#xea2b;',
             'opengameart': '&#xea1a;',
+            'openworkbook': '&#xea40;',
             'opera': '&#xe05c;',
             'origin': '&#xe941;',
             'outlook': '&#xe05d;',
@@ -526,7 +528,6 @@
             'zoom': '&#xe921;',
             'zynga': '&#xe0a9;',
             'box': '&#xe9f0;',
-            '4dopt': '&#xea3f;',
             'jsr': '&#xea0c;',
             'lobsters': '&#xea0d;',
             'macos': '&#xe04f;',

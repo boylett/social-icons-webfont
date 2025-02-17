@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'SocialIcons';
   src:
-    url('fonts/SocialIcons.ttf?6ira2s') format('truetype'),
-    url('fonts/SocialIcons.woff?6ira2s') format('woff'),
-    url('fonts/SocialIcons.svg?6ira2s#SocialIcons') format('svg');
+    url('fonts/SocialIcons.ttf?3cdqyn') format('truetype'),
+    url('fonts/SocialIcons.woff?3cdqyn') format('woff'),
+    url('fonts/SocialIcons.svg?3cdqyn#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -34,6 +34,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.soc-4dopt:before {
+  content: "\ea3f";
+}
 .soc-9Gag:before {
   content: "\e984";
 }
@@ -889,6 +892,9 @@
 .soc-OpenGameArt:before {
   content: "\ea1a";
 }
+.soc-OpenWorkbook:before {
+  content: "\ea40";
+}
 .soc-Opera:before {
   content: "\e05c";
 }
@@ -1461,9 +1467,6 @@
 }
 .soc-box:before {
   content: "\e9f0";
-}
-.soc-4dopt:before {
-  content: "\ea3f";
 }
 .soc-jsr:before {
   content: "\ea0c";
