@@ -374,6 +374,7 @@ export const icons = {
   "Stage32": [ "stage32" ],
   "StarCraft": [ "starcraft" ],
   "StayFriends": [ "stayfriends" ],
+  "SteamDB": [ "steamdb" ],
   "Steam": [ "steam" ],
   "Stitcher": [ "stitcher" ],
   "StoreHouse": [ "storehouse" ],

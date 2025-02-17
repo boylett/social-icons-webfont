@@ -3,9 +3,9 @@
 @font-face {
   font-family: '#{$icomoon-font-family}';
   src:
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ulyczk') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ulyczk') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ulyczk##{$icomoon-font-family}') format('svg');
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?6ira2s') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?6ira2s') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?6ira2s##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -206,6 +206,11 @@
     content: $soc-Avvo; 
   }
 }
+.soc-Backloggd {
+  &:before {
+    content: $soc-Backloggd; 
+  }
+}
 .soc-Baidu {
   &:before {
     content: $soc-Baidu; 
@@ -219,6 +224,11 @@
 .soc-BandCamp {
   &:before {
     content: $soc-BandCamp; 
+  }
+}
+.soc-Barq {
+  &:before {
+    content: $soc-Barq; 
   }
 }
 .soc-BattleNet {
@@ -621,6 +631,11 @@
     content: $soc-Fandom; 
   }
 }
+.soc-Fanlore {
+  &:before {
+    content: $soc-Fanlore; 
+  }
+}
 .soc-Fantia {
   &:before {
     content: $soc-Fantia; 
@@ -1016,6 +1031,11 @@
     content: $soc-IMDb; 
   }
 }
+.soc-IbisPaint {
+  &:before {
+    content: $soc-IbisPaint; 
+  }
+}
 .soc-Icq {
   &:before {
     content: $soc-Icq; 
@@ -1106,6 +1126,11 @@
     content: $soc-Juxt; 
   }
 }
+.soc-KakaoTalk {
+  &:before {
+    content: $soc-KakaoTalk; 
+  }
+}
 .soc-KeyBase {
   &:before {
     content: $soc-KeyBase; 
@@ -1174,6 +1199,11 @@
 .soc-Link {
   &:before {
     content: $soc-Link; 
+  }
+}
+.soc-LinkStack {
+  &:before {
+    content: $soc-LinkStack; 
   }
 }
 .soc-LinkedIn {
@@ -1536,6 +1566,11 @@
     content: $soc-Player; 
   }
 }
+.soc-Plurk {
+  &:before {
+    content: $soc-Plurk; 
+  }
+}
 .soc-Pocket {
   &:before {
     content: $soc-Pocket; 
@@ -1544,6 +1579,11 @@
 .soc-Polar {
   &:before {
     content: $soc-Polar; 
+  }
+}
+.soc-Printables {
+  &:before {
+    content: $soc-Printables; 
   }
 }
 .soc-PronounsPage {
@@ -1666,6 +1706,11 @@
     content: $soc-ResidentAdvisor; 
   }
 }
+.soc-RetroAchievements {
+  &:before {
+    content: $soc-RetroAchievements; 
+  }
+}
 .soc-Retrospring {
   &:before {
     content: $soc-Retrospring; 
@@ -1679,6 +1724,11 @@
 .soc-Roblox {
   &:before {
     content: $soc-Roblox; 
+  }
+}
+.soc-Santae {
+  &:before {
+    content: $soc-Santae; 
   }
 }
 .soc-Scratch {
@@ -1741,6 +1791,11 @@
     content: $soc-SketchFab; 
   }
 }
+.soc-SketchersUnited {
+  &:before {
+    content: $soc-SketchersUnited; 
+  }
+}
 .soc-Skype {
   &:before {
     content: $soc-Skype; 
@@ -1784,6 +1839,11 @@
 .soc-Society6 {
   &:before {
     content: $soc-Society6; 
+  }
+}
+.soc-Soloto {
+  &:before {
+    content: $soc-Soloto; 
   }
 }
 .soc-SongKick {
@@ -1876,6 +1936,11 @@
     content: $soc-Steam; 
   }
 }
+.soc-SteamDB {
+  &:before {
+    content: $soc-SteamDB; 
+  }
+}
 .soc-Stitcher {
   &:before {
     content: $soc-Stitcher; 
@@ -1884,6 +1949,11 @@
 .soc-StoreHouse {
   &:before {
     content: $soc-StoreHouse; 
+  }
+}
+.soc-Storenvy {
+  &:before {
+    content: $soc-Storenvy; 
   }
 }
 .soc-StoryGraph {
@@ -1969,6 +2039,11 @@
 .soc-Telegram {
   &:before {
     content: $soc-Telegram; 
+  }
+}
+.soc-Thingiverse {
+  &:before {
+    content: $soc-Thingiverse; 
   }
 }
 .soc-Threads {
@@ -2171,6 +2246,11 @@
     content: $soc-Wattpad; 
   }
 }
+.soc-Wavebox {
+  &:before {
+    content: $soc-Wavebox; 
+  }
+}
 .soc-WeChat {
   &:before {
     content: $soc-WeChat; 
@@ -2334,6 +2414,11 @@
 .soc-box {
   &:before {
     content: $soc-box; 
+  }
+}
+.soc-4dopt {
+  &:before {
+    content: $soc-4dopt; 
   }
 }
 .soc-jsr {
