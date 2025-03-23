@@ -324,6 +324,7 @@
             'niconico': '&#xe939;',
             'nintendo': '&#xe058;',
             'npm': '&#xe059;',
+            'nuzlockeforums': '&#xea41;',
             'odnoklassniki': '&#xe05a;',
             'opencollective': '&#xea2b;',
             'opengameart': '&#xea1a;',
