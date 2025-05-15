@@ -386,6 +386,9 @@ export const icons = {
   "FeedBurner": [
     "feedburner"
   ],
+  "Fenrecs": [
+    "fenrecs"
+  ],
   "Filegarden": [
     "filegarden"
   ],
@@ -1232,6 +1235,12 @@ export const icons = {
   ],
   "Technorati": [
     "technorati"
+  ],
+  "Teepublic": [
+    "teepublic"
+  ],
+  "Teespring": [
+    "teespring"
   ],
   "Telegram": [
     "telegram"

@@ -386,6 +386,9 @@ export declare const icons = {
   "FeedBurner": [
     "feedburner"
   ],
+  "Fenrecs": [
+    "fenrecs"
+  ],
   "Filegarden": [
     "filegarden"
   ],
@@ -1233,6 +1236,12 @@ export declare const icons = {
   "Technorati": [
     "technorati"
   ],
+  "Teepublic": [
+    "teepublic"
+  ],
+  "Teespring": [
+    "teespring"
+  ],
   "Telegram": [
     "telegram"
   ],
@@ -1489,4 +1498,4 @@ export declare const icons = {
   "sourcehut": [
     "sourcehut"
   ]
-};
+} as const;

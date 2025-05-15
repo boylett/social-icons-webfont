@@ -3,9 +3,9 @@
 @font-face {
   font-family: '#{$icomoon-font-family}';
   src:
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?xeg9d5') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?xeg9d5') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?xeg9d5##{$icomoon-font-family}') format('svg');
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?icijo5') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?icijo5') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?icijo5##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -654,6 +654,11 @@
 .soc-FeedBurner {
   &:before {
     content: $soc-FeedBurner; 
+  }
+}
+.soc-Fenrecs {
+  &:before {
+    content: $soc-Fenrecs; 
   }
 }
 .soc-Filegarden {
@@ -2049,6 +2054,16 @@
 .soc-Technorati {
   &:before {
     content: $soc-Technorati; 
+  }
+}
+.soc-Teepublic {
+  &:before {
+    content: $soc-Teepublic; 
+  }
+}
+.soc-Teespring {
+  &:before {
+    content: $soc-Teespring; 
   }
 }
 .soc-Telegram {
