@@ -169,6 +169,7 @@
             'flickr': '&#xe02d;',
             'flightrising': '&#xe9a9;',
             'flipboard': '&#xe973;',
+            'flipnote': '&#xea45;',
             'flowcode': '&#xe99f;',
             'flowpage': '&#xe99f;',
             'forgejo': '&#xe9dd;',

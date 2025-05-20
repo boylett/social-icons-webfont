@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'SocialIcons';
   src:
-    url('fonts/SocialIcons.ttf?icijo5') format('truetype'),
-    url('fonts/SocialIcons.woff?icijo5') format('woff'),
-    url('fonts/SocialIcons.svg?icijo5#SocialIcons') format('svg');
+    url('fonts/SocialIcons.ttf?vnfiq3') format('truetype'),
+    url('fonts/SocialIcons.woff?vnfiq3') format('woff'),
+    url('fonts/SocialIcons.svg?vnfiq3#SocialIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -438,6 +438,9 @@
 }
 .soc-FlipBoard:before {
   content: "\e973";
+}
+.soc-Flipnote:before {
+  content: "\ea45";
 }
 .soc-FlowCode:before {
   content: "\e99f";

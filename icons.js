@@ -419,6 +419,9 @@ export const icons = {
   "FlipBoard": [
     "flipboard"
   ],
+  "Flipnote": [
+    "flipnote"
+  ],
   "FlowCode": [
     "flowcode",
     "flowpage"
