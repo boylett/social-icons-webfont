@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## [2.1.1] - 2026-06-24
+
+### Changed
+
+- **Consistent 4-space indentation** -- the IcoMoon-owned `style.css`, `React/icons.jsx`, and Vue components now match the export's formatting so future updates apply without whitespace churn.
+
 ## [2.1.0] - 2026-06-24
 
 ### Added

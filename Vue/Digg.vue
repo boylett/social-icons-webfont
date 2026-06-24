@@ -1,5 +1,5 @@
 <template>
-	<svg viewBox="0 0 1024 1024" fill="currentColor" width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-		<path d="M308 348h102v348h-102zM164 204h102v492h-266v-348h164zM164 430h-62v184h62zM308 308h102v-104h-102zM450 348h266v472h-266v-82h164v-42h-164zM552 614h62v-184h-62zM1024 348v472h-266v-82h164v-42h-164v-348zM922 430h-62v184h62z" />
-	</svg>
+    <svg viewBox="0 0 1024 1024" fill="currentColor" width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <path d="M308 348h102v348h-102zM164 204h102v492h-266v-348h164zM164 430h-62v184h62zM308 308h102v-104h-102zM450 348h266v472h-266v-82h164v-42h-164zM552 614h62v-184h-62zM1024 348v472h-266v-82h164v-42h-164v-348zM922 430h-62v184h62z" />
+    </svg>
 </template>
