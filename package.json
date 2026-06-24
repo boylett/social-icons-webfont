@@ -6,10 +6,10 @@
   "files": [
     "fonts",
     "svgs",
+    "React",
+    "Vue",
     "style.css",
-    "style.scss",
     "variables.scss",
-    "liga.js",
     "icons.js",
     "icons.d.ts",
     "hostnames.js",
@@ -18,9 +18,9 @@
   "exports": {
     ".": "./style.css",
     "./style.css": "./style.css",
-    "./style.scss": "./style.scss",
     "./variables.scss": "./variables.scss",
-    "./liga.js": "./liga.js",
+    "./react": "./React/icons.jsx",
+    "./vue/*": "./Vue/*",
     "./icons": {
       "types": "./icons.d.ts",
       "default": "./icons.js"
