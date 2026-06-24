@@ -13,7 +13,8 @@
     "icons.js",
     "icons.d.ts",
     "hostnames.js",
-    "hostnames.d.ts"
+    "hostnames.d.ts",
+    "CHANGELOG.md"
   ],
   "exports": {
     ".": "./style.css",

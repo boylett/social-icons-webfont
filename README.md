@@ -28,16 +28,30 @@ Generated with [IcoMoon](https://icomoon.io/).
 
 There are two equivalent ways to show a glyph.
 
-Ligature - type the icon's ligature as the element text:
+Ligature - add the `social-icons` class and type the icon's ligature as the element text:
 
 ```html
 <i class="social-icons">twitter</i>
 ```
 
-Modifier class - add the `soc-{Name}` class and leave the element empty:
+Modifier class - add the `soc-{Name}` class; it carries the font on its own, so no base class is needed:
 
 ```html
-<i class="social-icons soc-Twitter"></i>
+<i class="soc-Twitter"></i>
+```
+
+## React and Vue
+
+Icons also ship as components for bundlers that compile JSX and single-file components. Component names are PascalCase; names beginning with a digit are prefixed with `D` (eg. `D9Gag`).
+
+```jsx
+import { Twitter, Discord } from 'social-icons-webfont/react';
+
+<Twitter width={ 24 } />
+```
+
+```js
+import Twitter from 'social-icons-webfont/vue/Twitter.vue';
 ```
 
 ## Data exports
