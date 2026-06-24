@@ -3,12 +3,25 @@
   "version": "1.49.1",
   "description": "Icon font containing social media branding icons",
   "main": "style.css",
+  "files": [
+    "fonts",
+    "svgs",
+    "style.css",
+    "style.scss",
+    "variables.scss",
+    "liga.js",
+    "icons.js",
+    "icons.d.ts",
+    "hostnames.js",
+    "hostnames.d.ts"
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boylett/Social-Icons.git"
+    "url": "git+https://github.com/boylett/social-icons-webfont.git"
   },
   "scripts": {
-    "gen": "node ./gen.js"
+    "gen": "node ./gen.js",
+    "version": "node ./sync-version.js && git add README.md"
   },
   "keywords": [
     "social",
@@ -19,8 +32,8 @@
   "author": "Ryan Boylett",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/boylett/Social-Icons/issues"
+    "url": "https://github.com/boylett/social-icons-webfont/issues"
   },
-  "homepage": "https://boylett.github.io/Social-Icons/demo.html",
+  "homepage": "https://boylett.github.io/social-icons-webfont/demo.html",
   "type": "module"
 }
