@@ -1,6 +1,6 @@
 {
   "name": "social-icons-webfont",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Icon font containing social media branding icons",
   "main": "style.css",
   "sideEffects": [
