@@ -42,17 +42,21 @@ Modifier class - add the `soc-{Name}` class; it carries the font on its own, so 
 
 ## React and Vue
 
-Icons also ship as components for bundlers that compile JSX and single-file components. Component names are PascalCase; names beginning with a digit are prefixed with `D` (eg. `D9Gag`).
+The React entry is precompiled to ES modules and ships TypeScript declarations, so it works in strict TypeScript and SSR with no extra bundler config:
 
-```jsx
-import { Twitter, Discord } from 'social-icons-webfont/react';
+```tsx
+import { Twitter, D9Gag } from 'social-icons-webfont/react';
 
 <Twitter width={ 24 } />
 ```
 
+Vue single-file components are imported per icon (through a Vite pipeline):
+
 ```js
 import Twitter from 'social-icons-webfont/vue/Twitter.vue';
 ```
+
+Component names are JS-sanitised identifiers and can differ from the `icons.js` data keys: a leading digit gains a `D` prefix (`9Gag` -> `D9Gag`) and hyphens are dropped (`Ko-Fi` -> `KoFi`).
 
 ## Data exports
 

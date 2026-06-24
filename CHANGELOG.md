@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## [2.0.1] - 2026-06-24
+
+### Added
+
+- **`sideEffects` field** -- marks only the stylesheets as side-effectful and declares `react` an optional peer dependency, so bundlers tree-shake unused icon components.
+
+### Changed
+
+- **React export precompiled and typed** -- `./react` now ships ES modules with a generated `React/icons.d.ts`, consuming cleanly under strict TypeScript and SSR without bundler config.
+
 ## [2.0.0] - 2026-06-24
 
 ### Added
