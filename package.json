@@ -15,6 +15,32 @@
     "hostnames.js",
     "hostnames.d.ts"
   ],
+  "exports": {
+    ".": "./style.css",
+    "./style.css": "./style.css",
+    "./style.scss": "./style.scss",
+    "./variables.scss": "./variables.scss",
+    "./liga.js": "./liga.js",
+    "./icons": {
+      "types": "./icons.d.ts",
+      "default": "./icons.js"
+    },
+    "./icons.js": {
+      "types": "./icons.d.ts",
+      "default": "./icons.js"
+    },
+    "./hostnames": {
+      "types": "./hostnames.d.ts",
+      "default": "./hostnames.js"
+    },
+    "./hostnames.js": {
+      "types": "./hostnames.d.ts",
+      "default": "./hostnames.js"
+    },
+    "./fonts/*": "./fonts/*",
+    "./svgs/*": "./svgs/*",
+    "./package.json": "./package.json"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/boylett/social-icons-webfont.git"
