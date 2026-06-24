@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="872px" height="1025px" viewBox="0 0 872 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="SketchFab" transform="translate(0.8853, 0.8284)" fill="currentColor" fill-rule="nonzero">
-    <path d="M369.664,1024 L2.048,812.032 L2.048,384 L369.664,582.656 L369.664,1024 Z M435.2,481.28 L5.68434189e-14,250.88 L435.2,-2.84217094e-14 L870.4,250.88 L435.2,481.28 Z M870.4,813.056 L503.808,1024 L503.808,583.68 L870.4,386.048 L870.4,813.056 Z"></path>
-  </g>
-</svg>
+<svg viewBox="0 0 1024 1024" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M446.464 1024l-367.616-211.968v-428.032l367.616 198.656v441.344zM512 481.28l-435.2-230.4 435.2-250.88 435.2 250.88-435.2 230.4zM947.2 813.056l-366.592 210.944v-440.32l366.592-197.632v427.008z" /></svg>

@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="805px" height="1025px" viewBox="0 0 805 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="StackOverflow" transform="translate(0.9205, 0.8284)" fill="currentColor" fill-rule="nonzero">
-    <path d="M586,942 L76,942 L78,598 L2,598 L0,1024 L668,1024 L668,594 L586,594 L586,942 Z M126,798 L524,798 L524,880 L126,880 L126,798 Z M136,646 L538,684 L530,772 L128,734 L136,646 Z M172,472 L562,582 L538,666 L150,556 L172,472 Z M268,276 L612,484 L568,560 L222,350 L268,276 Z M628,468 L392,140 L464,90 L698,418 L628,468 Z M650,14 L736,0 L804,398 L716,412 L650,14 Z"></path>
-  </g>
-</svg>
+<svg viewBox="0 0 1024 1024" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M696 942h-510l2-344h-76l-2 426h668v-430h-82zM236 798h398v82h-398zM246 646l402 38-8 88-402-38zM282 472l390 110-24 84-388-110zM378 276l344 208-44 76-346-210zM738 468l-236-328 72-50 234 328zM760 14l86-14 68 398-88 14z" /></svg>

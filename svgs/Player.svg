@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="764px" height="1025px" viewBox="0 0 764 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="Player" transform="translate(0.8334, 0.4253)" fill="currentColor" fill-rule="nonzero">
-    <path d="M382,0 C172,0 0,172 0,382 L0,388 L0,390 L0,394 L0,398 L0,398 C10,676 300,1024 300,1024 L300,564 C200,518 156,400 200,302 C246,200 364,156 462,202 C562,246 608,364 562,464 C540,516 496,552 444,572 L444,760 C652,726 792,530 758,320 C730,136 570,0 382,0 Z"></path>
-  </g>
-</svg>
+<svg viewBox="0 0 1024 1024" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M512 0c-210 0-382 172-382 382 0 2 0 4 0 6s0 2 0 2c0 2 0 2 0 4s0 2 0 4v0c10 278 300 626 300 626v-460c-100-46-144-164-100-262 46-102 164-146 262-100 100 44 146 162 100 262-22 52-66 88-118 108v188c208-34 348-230 314-440-28-184-188-320-376-320z" /></svg>

@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1011px" height="1025px" viewBox="0 0 1011 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="Roblox" transform="translate(-0.0069, 0.0926)" fill="currentColor" fill-rule="nonzero">
-    <path d="M213.504,0 L0,807.607 L796.837,1024 L1010.341,216.393 L213.504,0 Z M586.697,655.122 L364.032,594.6327 L423.7166,368.9507 L646.4736,429.44 L586.6797,655.122 L586.697278,655.122 L586.697,655.122 Z"></path>
-  </g>
-</svg>
+<svg viewBox="0 0 1024 1024" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M213.504 0l-213.504 807.607 796.837 216.393 213.504-807.607-796.837-216.393zM586.697 655.122l-222.665-60.489 59.685-225.682 222.757 60.489-59.794 225.682z" /></svg>

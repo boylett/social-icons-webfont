@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g id="Spigot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M18,11 L18,15 L17,15 L17,18 L15,18 L15,15 L14,15 L14,13 L15,13 L15,14 L17,14 L17,11 L18,11 Z M12,12 L12,14 L7,14 L7,13 L11,13 L11,12 L12,12 Z M14,12 L14,13 L13,13 L13,12 L14,12 Z M7,12 L7,13 L6,13 L6,12 L7,12 Z M13,11 L13,12 L12,12 L12,11 L13,11 Z M6,11 L6,12 L2,12 L2,11 L6,11 Z M17,10 L17,11 L16,11 L16,10 L17,10 Z M8,8 L8,9 L7,9 L7,10 L2,10 L2,9 L6,9 L6,8 L8,8 Z M14,8 L14,9 L16,9 L16,10 L13,10 L13,8 L14,8 Z M15,2 L15,3 L12,3 L12,5 L13,5 L13,8 L12,8 L12,6 L11,6 L11,4 L10,4 L10,6 L9,6 L9,8 L8,8 L8,5 L9,5 L9,3 L6,3 L6,2 L15,2 Z" id="Shape" fill="currentColor"></path>
-    </g>
-</svg>
+<svg viewBox="0 0 1024 1024" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M921.6 563.2v204.8h-51.2v153.6h-102.4v-153.6h-51.2v-102.4h51.2v51.2h102.4v-153.6h51.2zM614.4 614.4v102.4h-256v-51.2h204.8v-51.2h51.2zM716.8 614.4v51.2h-51.2v-51.2h51.2zM358.4 614.4v51.2h-51.2v-51.2h51.2zM665.6 563.2v51.2h-51.2v-51.2h51.2zM307.2 563.2v51.2h-204.8v-51.2h204.8zM870.4 512v51.2h-51.2v-51.2h51.2zM409.6 409.6v51.2h-51.2v51.2h-256v-51.2h204.8v-51.2h102.4zM716.8 409.6v51.2h102.4v51.2h-153.6v-102.4h51.2zM768 102.4v51.2h-153.6v102.4h51.2v153.6h-51.2v-102.4h-51.2v-102.4h-51.2v102.4h-51.2v102.4h-51.2v-153.6h51.2v-102.4h-153.6v-51.2h460.8z" /></svg>

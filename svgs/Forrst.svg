@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="857px" height="1025px" viewBox="0 0 857 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="Forrst" transform="translate(0.7412, 0.8284)" fill="currentColor" fill-rule="nonzero">
-    <polygon points="376 1024 0 1024 428 0 856 1024 480 1024 480 854 652 768 640 742 480 822 480 744 578 690 564 664 480 708 480 594 376 594 376 770 290 710 274 734 376 806"></polygon>
-  </g>
-</svg>
+<svg viewBox="0 0 1024 1024" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M460 1024h-376l428-1024 428 1024h-376v-170l172-86-12-26-160 80v-78l98-54-14-26-84 44v-114h-104v176l-86-60-16 24 102 72z" /></svg>

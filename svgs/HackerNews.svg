@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="794px" height="1025px" viewBox="0 0 794 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="HackerNews" transform="translate(0.153, 0.4253)" fill="currentColor" fill-rule="nonzero">
-    <polygon points="464.896 653.312 464.896 1024 330.752 1024 330.752 653.312 0 0 155.647 0 397.311 492.544 648.191 0 793.599 0"></polygon>
-  </g>
-</svg>
+<svg viewBox="0 0 1024 1024" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M579.584 653.312v370.688h-134.144v-370.688l-330.752-653.312h155.648l241.664 492.544 250.88-492.544h145.408l-328.704 653.312zM579.584 653.312z" /></svg>

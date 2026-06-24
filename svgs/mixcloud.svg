@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="853px" height="728px" viewBox="0 0 853 728" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="mixcloud" transform="translate(0.9798, 0.8284)" fill="currentColor" fill-rule="nonzero">
-    <polygon points="852.001 726.4 719.201 726.4 719.201 120.4 744.0008 33.9996 701.201 33.9996 548.401 726.3996 304.401 726.3996 150.8 33.9996 109.2004 33.9996 132.8 120.4 132.8 726.4 -5.68434189e-14 726.4 -5.68434189e-14 0 262.8 0 408.8 692.4 442.8 692.4 589.2 0 852 0 852 726.4"></polygon>
-  </g>
-</svg>
+<svg viewBox="0 0 1024 1024" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M940 874.4h-132.8v-606l24.8-86.4h-42.8l-152.8 692.4h-244l-153.6-692.4h-41.6l23.6 86.4v606h-132.8v-726.4h262.8l146 692.4h34l146.4-692.4h262.8z" /></svg>
