@@ -11,7 +11,9 @@ export const icons = {
   "9Gag": [
     "9gag"
   ],
-  "Acggoods": [],
+  "Acggoods": [
+    "acggoods"
+  ],
   "AdobePortfolio": [
     "portfolio",
     "adobeportfolio"
@@ -307,7 +309,9 @@ export const icons = {
   "DNAxCAT": [
     "dnaxcat"
   ],
-  "Domotown": [],
+  "Domotown": [
+    "domotown"
+  ],
   "Donorbox": [
     "donorbox"
   ],
@@ -688,7 +692,9 @@ export const icons = {
   "Juxt": [
     "juxt"
   ],
-  "KaeruGallery": [],
+  "KaeruGallery": [
+    "kaerugallery"
+  ],
   "KakaoTalk": [
     "kakaotalk"
   ],
@@ -1395,7 +1401,9 @@ export const icons = {
   "VStream": [
     "vstream"
   ],
-  "WAFRN": [],
+  "WAFRN": [
+    "wafrn"
+  ],
   "Warcraft": [
     "warcraft"
   ],
@@ -1408,7 +1416,9 @@ export const icons = {
   "Weasyl": [
     "weasyl"
   ],
-  "WebsiteLeage": [],
+  "WebsiteLeage": [
+    "websiteleage"
+  ],
   "Webtoon": [
     "webtoon"
   ],
@@ -1424,7 +1434,9 @@ export const icons = {
   "Wickr": [
     "wickr"
   ],
-  "WikimediaCommons": [],
+  "WikimediaCommons": [
+    "wikimediacommons"
+  ],
   "Wikipedia": [
     "wikipedia"
   ],
