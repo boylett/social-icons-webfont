@@ -11,7 +11,9 @@ export const hostnames = {
   "9Gag": [
     "9gag.com"
   ],
-  "Acggoods": [],
+  "Acggoods": [
+    "acggoods.com"
+  ],
   "AdobePortfolio": [
     "portfolio.adobe.com"
   ],
@@ -336,7 +338,9 @@ export const hostnames = {
   "DNAxCAT": [
     "dnaxcat.net"
   ],
-  "Domotown": [],
+  "Domotown": [
+    "domo.town"
+  ],
   "Donorbox": [
     "donorbox.org"
   ],
@@ -708,7 +712,9 @@ export const hostnames = {
   "Juxt": [
     "juxt.pretendo.network"
   ],
-  "KaeruGallery": [],
+  "KaeruGallery": [
+    "gallery.kaeru.world"
+  ],
   "KakaoTalk": [
     "kakaocorp.com"
   ],
@@ -1413,7 +1419,9 @@ export const hostnames = {
   "VStream": [
     "vstream.com"
   ],
-  "WAFRN": [],
+  "WAFRN": [
+    "wafrn.net"
+  ],
   "Warcraft": [
     "worldofwarcraft.blizzard.com"
   ],
@@ -1426,7 +1434,9 @@ export const hostnames = {
   "Weasyl": [
     "weasyl.com"
   ],
-  "WebsiteLeage": [],
+  "WebsiteLeage": [
+    "websiteleague.org"
+  ],
   "Webtoon": [
     "webtoons.com"
   ],
@@ -1442,7 +1452,9 @@ export const hostnames = {
   "Wickr": [
     "wickr.com"
   ],
-  "WikimediaCommons": [],
+  "WikimediaCommons": [
+    "commons.wikimedia.org"
+  ],
   "Wikipedia": [
     "wikipedia.org"
   ],
