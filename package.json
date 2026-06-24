@@ -3,10 +3,15 @@
   "version": "2.0.0",
   "description": "Icon font containing social media branding icons",
   "main": "style.css",
+  "sideEffects": [
+    "*.css",
+    "*.scss"
+  ],
   "files": [
     "fonts",
     "svgs",
-    "React",
+    "React/icons.js",
+    "React/icons.d.ts",
     "Vue",
     "style.css",
     "variables.scss",
@@ -20,7 +25,10 @@
     ".": "./style.css",
     "./style.css": "./style.css",
     "./variables.scss": "./variables.scss",
-    "./react": "./React/icons.jsx",
+    "./react": {
+      "types": "./React/icons.d.ts",
+      "default": "./React/icons.js"
+    },
     "./vue/*": "./Vue/*",
     "./icons": {
       "types": "./icons.d.ts",
@@ -48,6 +56,8 @@
   },
   "scripts": {
     "gen": "node ./gen.js",
+    "build": "node ./gen.js && esbuild React/icons.jsx --outfile=React/icons.js --format=esm --jsx=automatic",
+    "prepublishOnly": "npm run build",
     "version": "node ./sync-version.js && git add README.md"
   },
   "keywords": [
@@ -62,5 +72,16 @@
     "url": "https://github.com/boylett/social-icons-webfont/issues"
   },
   "homepage": "https://boylett.github.io/social-icons-webfont/demo.html",
-  "type": "module"
+  "type": "module",
+  "peerDependencies": {
+    "react": ">=17"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.1"
+  }
 }

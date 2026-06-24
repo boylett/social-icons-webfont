@@ -78,6 +78,32 @@ await fs.writeFile("./hostnames.d.ts", `/**
 export declare const hostnames: ${ typeLiteral(hostnames) };
 `);
 
+// The React component identifiers are sanitised by IcoMoon (digit prefix, dropped hyphens), so read them from the export list rather than deriving them
+const reactExports = await fs
+  .readFile("./React/icons.jsx", "utf8")
+  .then(text => text.match(/export\s*\{([^}]+)\}/)?.[ 1 ].split(",").map(name => name.trim()).filter(Boolean) ?? [])
+  .catch(() => []);
+
+if (reactExports.length) {
+  const declarations = reactExports.map(name => `export declare const ${ name }: (props: IconProps) => React.JSX.Element;`).join("\n");
+
+  await fs.writeFile("./React/icons.d.ts", `/**
+ * React components for every icon, keyed by their sanitised component name
+ *
+ * @example
+ * import { Twitter } from "social-icons-webfont/react"
+ */
+import * as React from "react";
+
+/**
+ * Standard SVG attributes plus the optional left/top offsets each icon component accepts
+ */
+export type IconProps = React.SVGProps<SVGSVGElement> & { left?: number | string; top?: number | string };
+
+${ declarations }
+`);
+}
+
 const seeded = Object.keys(icons).filter(name => !(name in existingHostnames));
 
 const ligatureless = Object.entries(icons).filter(([ , ligatures ]) => !ligatures.length).map(([ name ]) => name);
