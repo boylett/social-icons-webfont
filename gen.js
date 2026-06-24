@@ -19,15 +19,15 @@ const typeLiteral = map => {
   return `{\n${ lines.join("\n") }\n}`;
 };
 
-const selection = JSON.parse(
-  await fs.readFile("./selection.json", "utf8")
+const project = JSON.parse(
+  await fs.readFile("./social-icons.icomoon.json", "utf8")
 );
 
 const icons = Object.fromEntries(
-  selection.icons
-    .map(icon => [
-      icon.properties.name,
-      icon.properties.ligatures.split(",").map(ligature => ligature.trim()).filter(Boolean)
+  project.glyphs
+    .map(glyph => [
+      glyph.extras.name,
+      ( glyph.extras.ligatures ?? [] ).map(ligature => ligature.trim()).filter(Boolean)
     ])
     .sort((a, b) => a[ 0 ].localeCompare(b[ 0 ]))
 );
@@ -80,4 +80,10 @@ export declare const hostnames: ${ typeLiteral(hostnames) };
 
 const seeded = Object.keys(icons).filter(name => !(name in existingHostnames));
 
+const ligatureless = Object.entries(icons).filter(([ , ligatures ]) => !ligatures.length).map(([ name ]) => name);
+
 console.log(`Generated ${ Object.keys(icons).length } icons. ${ seeded.length ? `Add domains for: ${ seeded.join(", ") }` : "All hostnames preserved." }`);
+
+if (ligatureless.length) {
+  console.log(`No ligatures set in IcoMoon for: ${ ligatureless.join(", ") }`);
+}

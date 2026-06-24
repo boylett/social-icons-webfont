@@ -7,6 +7,7 @@
 export declare const hostnames: {
   readonly "4dopt": readonly [ "4dopt.com" ];
   readonly "9Gag": readonly [ "9gag.com" ];
+  readonly "Acggoods": readonly [];
   readonly "AdobePortfolio": readonly [ "portfolio.adobe.com" ];
   readonly "Afdian": readonly [ "afdian.com" ];
   readonly "AirBnB": readonly [ "airbnb.com" ];
@@ -103,6 +104,7 @@ export declare const hostnames: {
   readonly "Disqus": readonly [ "disqus.com" ];
   readonly "Dlive": readonly [ "dlive.tv" ];
   readonly "DNAxCAT": readonly [ "dnaxcat.net" ];
+  readonly "Domotown": readonly [];
   readonly "Donorbox": readonly [ "donorbox.org" ];
   readonly "Doodle": readonly [ "doodle.com" ];
   readonly "Douban": readonly [ "m.douban.com" ];
@@ -228,6 +230,7 @@ export declare const hostnames: {
   readonly "Jamendo": readonly [ "jamendo.com" ];
   readonly "jsr": readonly [ "jsr.io" ];
   readonly "Juxt": readonly [ "juxt.pretendo.network" ];
+  readonly "KaeruGallery": readonly [];
   readonly "KakaoTalk": readonly [ "kakaocorp.com" ];
   readonly "KeyBase": readonly [ "keybase.io" ];
   readonly "Kickstarter": readonly [ "kickstarter.com" ];
@@ -460,15 +463,18 @@ export declare const hostnames: {
   readonly "VRChat": readonly [ "vrchat.com" ];
   readonly "Vsco": readonly [ "vsco.co" ];
   readonly "VStream": readonly [ "vstream.com" ];
+  readonly "WAFRN": readonly [];
   readonly "Warcraft": readonly [ "worldofwarcraft.blizzard.com" ];
   readonly "Wattpad": readonly [ "wattpad.com" ];
   readonly "Wavebox": readonly [ "wavebox.io" ];
   readonly "Weasyl": readonly [ "weasyl.com" ];
+  readonly "WebsiteLeage": readonly [];
   readonly "Webtoon": readonly [ "webtoons.com" ];
   readonly "WeChat": readonly [ "wechat.com" ];
   readonly "Weibo": readonly [ "weibo.com" ];
   readonly "WhatsApp": readonly [ "whatsapp.com" ];
   readonly "Wickr": readonly [ "wickr.com" ];
+  readonly "WikimediaCommons": readonly [];
   readonly "Wikipedia": readonly [ "wikipedia.org" ];
   readonly "WindGuru": readonly [ "windguru.cz" ];
   readonly "Windows": readonly [ "windows.com" ];

@@ -7,6 +7,7 @@
 export declare const icons: {
   readonly "4dopt": readonly [ "4dopt" ];
   readonly "9Gag": readonly [ "9gag" ];
+  readonly "Acggoods": readonly [];
   readonly "AdobePortfolio": readonly [ "portfolio", "adobeportfolio" ];
   readonly "Afdian": readonly [ "afdian" ];
   readonly "AirBnB": readonly [ "airbnb" ];
@@ -103,6 +104,7 @@ export declare const icons: {
   readonly "Disqus": readonly [ "disqus" ];
   readonly "Dlive": readonly [ "dlive" ];
   readonly "DNAxCAT": readonly [ "dnaxcat" ];
+  readonly "Domotown": readonly [];
   readonly "Donorbox": readonly [ "donorbox" ];
   readonly "Doodle": readonly [ "doodle" ];
   readonly "Douban": readonly [ "douban" ];
@@ -228,6 +230,7 @@ export declare const icons: {
   readonly "Jamendo": readonly [ "jamendo" ];
   readonly "jsr": readonly [ "jsr" ];
   readonly "Juxt": readonly [ "juxt" ];
+  readonly "KaeruGallery": readonly [];
   readonly "KakaoTalk": readonly [ "kakaotalk" ];
   readonly "KeyBase": readonly [ "keybase" ];
   readonly "Kickstarter": readonly [ "kickstarter" ];
@@ -460,15 +463,18 @@ export declare const icons: {
   readonly "VRChat": readonly [ "vrchat" ];
   readonly "Vsco": readonly [ "vsco" ];
   readonly "VStream": readonly [ "vstream" ];
+  readonly "WAFRN": readonly [];
   readonly "Warcraft": readonly [ "warcraft" ];
   readonly "Wattpad": readonly [ "wattpad" ];
   readonly "Wavebox": readonly [ "wavebox" ];
   readonly "Weasyl": readonly [ "weasyl" ];
+  readonly "WebsiteLeage": readonly [];
   readonly "Webtoon": readonly [ "webtoon" ];
   readonly "WeChat": readonly [ "wechat" ];
   readonly "Weibo": readonly [ "weibo" ];
   readonly "WhatsApp": readonly [ "whatsapp" ];
   readonly "Wickr": readonly [ "wickr" ];
+  readonly "WikimediaCommons": readonly [];
   readonly "Wikipedia": readonly [ "wikipedia" ];
   readonly "WindGuru": readonly [ "windguru" ];
   readonly "Windows": readonly [ "windows" ];
