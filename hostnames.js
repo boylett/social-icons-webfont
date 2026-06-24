@@ -1098,6 +1098,9 @@ export const hostnames = {
   "Roblox": [
     "roblox.com"
   ],
+  "RoyalRoad": [
+    "royalroad.com"
+  ],
   "RSS": [
     "rss.com"
   ],

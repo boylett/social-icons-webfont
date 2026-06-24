@@ -363,6 +363,7 @@ export declare const RetroAchievements: (props: IconProps) => React.JSX.Element;
 export declare const Retrospring: (props: IconProps) => React.JSX.Element;
 export declare const ReverbNation: (props: IconProps) => React.JSX.Element;
 export declare const Roblox: (props: IconProps) => React.JSX.Element;
+export declare const RoyalRoad: (props: IconProps) => React.JSX.Element;
 export declare const RSS: (props: IconProps) => React.JSX.Element;
 export declare const Santae: (props: IconProps) => React.JSX.Element;
 export declare const Scratch: (props: IconProps) => React.JSX.Element;

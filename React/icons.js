@@ -3802,6 +3802,21 @@ function Roblox(props) {
   const y = 0 + dy;
   return /* @__PURE__ */ jsx("svg", { viewBox: `${x} ${y} ${width} ${height}`, fill: "currentColor", width: "32", height: "32", xmlns: "http://www.w3.org/2000/svg", xmlnsXlink: "http://www.w3.org/1999/xlink", ...attrs, children: /* @__PURE__ */ jsx("path", { d: "M213.504 0l-213.504 807.607 796.837 216.393 213.504-807.607-796.837-216.393zM586.697 655.122l-222.665-60.489 59.685-225.682 222.757 60.489-59.794 225.682z" }) });
 }
+function RoyalRoad(props) {
+  const width = 210;
+  const height = 210;
+  const { "left": l, "top": t, ...attrs } = props;
+  const dx = l && -toNumber(l, width) || 0;
+  const dy = t && -toNumber(t, height) || 0;
+  const x = 0 + dx;
+  const y = 0 + dy;
+  return /* @__PURE__ */ jsxs("svg", { viewBox: `${x} ${y} ${width} ${height}`, fill: "none", width: "32", height: "32", xmlns: "http://www.w3.org/2000/svg", xmlnsXlink: "http://www.w3.org/1999/xlink", ...attrs, children: [
+    /* @__PURE__ */ jsx("path", { fill: "currentColor", d: "M34 21c1.3334 7.5 7.5 26 21.5 40 17.4999 17.4999 33 25.5 42 31s16 13.5 30 23.5c11.2 8 43 53 57.5 74.5h-31.5c-4.667-8-15-25.1-19-29.5-5-5.5-15-18.5-35.5-28.5-20.4999-10-36.5001-18.5-54.5-39-23.9999-35-13-54.8333-10.5-72z" }),
+    /* @__PURE__ */ jsx("path", { fill: "currentColor", d: "M57.5 157.5c9 3 16 4.5 26.5 6.5s33.5 7 47 13c10.8 4.8 15.167 10.333 16 12.5-4.333-0.5-14-2-22-2-9.552 0-12 0-26.5-2s-23-8.5-28-12.5-11.5-9-13-15.5z" }),
+    /* @__PURE__ */ jsx("path", { fill: "currentColor", d: "M25 89.5c4 5 10.9541 15.653 24 26C63.5 127 65 127 90 138s32 15 45 35.5c-12-7.5-23-9-41.5-13.5-20.5-3.5-34-4-44.5-12.5-24.5-24.5-22.5-41.5-24-58z" }),
+    /* @__PURE__ */ jsx("path", { fill: "currentColor", d: "M117.5 32.5C145 32.5001 182 42.6002 182 93c0 21.521-12.217 35.054-28.825 43.266l-16.368-18.745C146.364 112.632 153 104.23 153 90.5c0-27.4999-20-34.9999-46-33.5-58.9017 3.3982-55.5-16-57-24.5 5.0019 0.9999 67.5 0 67.5 0z" })
+  ] });
+}
 function RSS(props) {
   const width = 1024;
   const height = 1024;
@@ -5710,6 +5725,7 @@ export {
   Retrospring,
   ReverbNation,
   Roblox,
+  RoyalRoad,
   Santae,
   Scratch,
   Seedrs,

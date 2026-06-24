@@ -357,6 +357,7 @@ export declare const icons: {
   readonly "Retrospring": readonly [ "retrospring" ];
   readonly "ReverbNation": readonly [ "reverbnation" ];
   readonly "Roblox": readonly [ "roblox" ];
+  readonly "RoyalRoad": readonly [ "royalroad" ];
   readonly "RSS": readonly [ "rss" ];
   readonly "Santae": readonly [ "santae" ];
   readonly "Scratch": readonly [ "scratch" ];

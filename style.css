@@ -1086,6 +1086,9 @@
 .soc-Roblox:before {
 	content: "\e9ae";
 }
+.soc-RoyalRoad:before {
+	content: "\f006";
+}
 .soc-RSS:before {
 	content: "\e071";
 }

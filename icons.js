@@ -1078,6 +1078,9 @@ export const icons = {
   "Roblox": [
     "roblox"
   ],
+  "RoyalRoad": [
+    "royalroad"
+  ],
   "RSS": [
     "rss"
   ],

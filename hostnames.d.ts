@@ -357,6 +357,7 @@ export declare const hostnames: {
   readonly "Retrospring": readonly [ "retrospring.net" ];
   readonly "ReverbNation": readonly [ "reverbnation.com" ];
   readonly "Roblox": readonly [ "roblox.com" ];
+  readonly "RoyalRoad": readonly [ "royalroad.com" ];
   readonly "RSS": readonly [ "rss.com" ];
   readonly "Santae": readonly [ "santae.net" ];
   readonly "Scratch": readonly [ "scratch.dit.edu" ];
