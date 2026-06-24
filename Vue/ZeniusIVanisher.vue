@@ -1,0 +1,5 @@
+<template>
+	<svg viewBox="0 0 1024 1024" fill="currentColor" width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<path d="M213.333 128h597.333l-278.146 598.407h192l86.146-85.333v252.739h-597.333l260.781-595.146h-171.823l-88.958 85.333z" />
+	</svg>
+</template>

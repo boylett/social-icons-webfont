@@ -1,0 +1,9 @@
+<template>
+	<svg viewBox="0 0 1024 1024" fill="currentColor" width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<path d="M5.12 371.712h188.416v335.872h-188.416v-335.872z" />
+		<path d="M214.016 314.368h188.416v369.664h-188.416v-369.664z" />
+		<path d="M423.936 344.064h188.416v379.904h-188.416v-379.904z" />
+		<path d="M632.832 289.792h188.416v393.216h-188.416v-393.216z" />
+		<path d="M841.728 359.424h188.416v295.936h-188.416v-295.936z" />
+	</svg>
+</template>
