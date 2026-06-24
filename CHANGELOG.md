@@ -22,6 +22,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - **IcoMoon project file** -- the source of truth is now `social-icons.icomoon.json` (was `selection.json`); `gen.js` reads its `glyphs[].extras`.
 - **Valid TypeScript declarations** -- `icons.d.ts` and `hostnames.d.ts` are now typed ambient declarations of readonly tuples instead of an invalid `as const`.
 - **Repository metadata** -- `repository`, `bugs` and `homepage` point at `social-icons-webfont` rather than the old `Social-Icons` path.
+- **Source SVGs use currentColor** -- every `svgs/` icon inherits the surrounding text colour instead of carrying a hardcoded hex or named fill.
 
 ### Removed
 
