@@ -1,7 +1,7 @@
 <template>
 	<svg viewBox="-305 -516 610 820" fill="currentColor" width="23.804878" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-		<title fill="#000">Wikimedia Commons Logo</title>
-		<defs fill="#000">
+		<title fill="currentColor">Wikimedia Commons Logo</title>
+		<defs fill="currentColor">
 			<clipPath id="WikimediaCommons_c">
 				<circle r="298" />
 			</clipPath>
