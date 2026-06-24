@@ -1,1521 +1,498 @@
 /**
- * Icons are listed with their display name as the key, and a list of applicable hostnames as the value.
+ * Hostnames are listed with their display icon name as the key, and a list of associated domains as the value
  *
  * @example
- * hostnames.Twitter // [ "twitter.com", "x.com" ]
+ * hostnames.Twitter // [ "twitter.com" ]
  */
-export declare const hostnames = {
-  "4dopt": [
-    "4dopt.com"
-  ],
-  "9Gag": [
-    "9gag.com"
-  ],
-  "AdobePortfolio": [
-    "portfolio.adobe.com"
-  ],
-  "Afdian": [
-    "afdian.com"
-  ],
-  "AirBnB": [
-    "airbnb.com"
-  ],
-  "Alibaba": [
-    "alibaba.com"
-  ],
-  "AliExpress": [
-    "aliexpress.com"
-  ],
-  "Alliance": [],
-  "AllMyLinks": [
-    "allmylinks.com"
-  ],
-  "Amazon": [
-    "amazon.ae",
-    "amazon.ca",
-    "amazon.cn",
-    "amazon.co",
-    "amazon.co.jp",
-    "amazon.co.uk",
-    "amazon.com",
-    "amazon.com.au",
-    "amazon.com.be",
-    "amazon.com.br",
-    "amazon.com.cn",
-    "amazon.com.mx",
-    "amazon.com.sg",
-    "amazon.com.tr",
-    "amazon.de",
-    "amazon.eg",
-    "amazon.es",
-    "amazon.fr",
-    "amazon.in",
-    "amazon.it",
-    "amazon.nl",
-    "amazon.pl",
-    "amazon.sa",
-    "amazon.se",
-    "amazon.sg"
-  ],
-  "Amplement": [
-    "amplement.com"
-  ],
-  "Android": [
-    "android.com"
-  ],
-  "AngelList": [
-    "angellist.com"
-  ],
-  "AngiesList": [
-    "angi.com"
-  ],
-  "AnimalJam": [
-    "animaljam.com"
-  ],
-  "AnimationFramework": [
-    "animationframework.com"
-  ],
-  "AnimePlanet": [
-    "anime-planet.com"
-  ],
-  "AnthroArt": [
-    "anthro.art"
-  ],
-  "Anthrodex": [
-    "anthrodex.com"
-  ],
-  "Apple": [
-    "apple.com"
-  ],
-  "AppNet": [
-    "appnet.com"
-  ],
-  "AppStore": [
-    "apps.apple.com"
-  ],
-  "ArchiveOfOurOwn": [
-    "ao3.org",
-    "archiveofourown.gay",
-    "archiveofourown.org"
-  ],
-  "Archiveorg": [
-    "archive.org"
-  ],
-  "ArchLinux": [
-    "archlinux.org"
-  ],
-  "Artconomy": [
-    "artconomy.com"
-  ],
-  "ArtFight": [
-    "artfight.com",
-    "artfight.net"
-  ],
-  "Artfol": [
-    "artfol.app",
-    "artfol.co",
-    "artfol.me"
-  ],
-  "ArtHaven": [
-    "arthaven.co"
-  ],
-  "Artistree": [
-    "artistree.com",
-    "artistree.io"
-  ],
-  "ArtStation": [
-    "artstation.com"
-  ],
-  "Ask": [
-    "ask.com"
-  ],
-  "Atabook": [
-    "atabook.org"
-  ],
-  "Augment": [
-    "augment.com"
-  ],
-  "Avvo": [
-    "avvo.com"
-  ],
-  "Backloggd": [
-    "backloggd.com"
-  ],
-  "Baidu": [
-    "baidu.com"
-  ],
-  "Bale": [
-    "bale.ai"
-  ],
-  "BandCamp": [
-    "bandcamp.com"
-  ],
-  "Barq": [
-    "barq.app"
-  ],
-  "BattleNet": [
-    "battle.net"
-  ],
-  "Beacons": [
-    "beacons.ai"
-  ],
-  "BeatPort": [
-    "beatport.com"
-  ],
-  "BeBee": [
-    "bebee.com"
-  ],
-  "Bebo": [
-    "bebo.com"
-  ],
-  "Behance": [
-    "behance.net"
-  ],
-  "BigCartel": [
-    "bigcartel.com"
-  ],
-  "Bing": [
-    "bing.com"
-  ],
-  "BitBucket": [
-    "bitbucket.org"
-  ],
-  "Blackberry": [
-    "blackberry.com"
-  ],
-  "Blingee": [
-    "blingee.com"
-  ],
-  "Blizzard": [
-    "blizzard.com"
-  ],
-  "Blogger": [
-    "blogger.com",
-    "blogspot.com"
-  ],
-  "Bloglovin": [
-    "bloglovin.com"
-  ],
-  "BlueSky": [
-    "bsky.app",
-    "bsky.dev",
-    "bsky.social"
-  ],
-  "Bonanza": [
-    "bonanza.com"
-  ],
-  "Bookbub": [
-    "bookbub.com"
-  ],
-  "Booking": [
-    "booking.com"
-  ],
-  "Boosty": [
-    "boosty.to"
-  ],
-  "box": [
-    "box.com"
-  ],
-  "Buffer": [
-    "buffer.com"
-  ],
-  "Bukkit": [
-    "bukkit.org"
-  ],
-  "BuyMeACoffee": [
-    "buymeacoffee.com"
-  ],
-  "Buzzly": [
-    "buzzly.art"
-  ],
-  "Calendly": [
-    "calendly.com"
-  ],
-  "Cara": [
-    "cara.app"
-  ],
-  "Carrd": [
-    "carrd.co"
-  ],
-  "CdBaby": [
-    "cdbaby.com"
-  ],
-  "CharacterHub": [
-    "characterhub.com"
-  ],
-  "ChickenSmoothie": [
-    "chickensmoothie.com"
-  ],
-  "Chrome": [
-    "chromewebstore.google.com"
-  ],
-  "Codeberg": [
-    "codeberg.org"
-  ],
-  "CodePen": [
-    "codepen.io"
-  ],
-  "Codered": [
-    "coderedweb.com"
-  ],
-  "CoderWall": [
-    "coderwall.com"
-  ],
-  "Cohost": [
-    "cohost.org"
-  ],
-  "Collectorz": [
-    "clz.com"
-  ],
-  "ComicFury": [
-    "comicfury.com"
-  ],
-  "Commishes": [
-    "commishes.com"
-  ],
-  "CraigsList": [
-    "craigslist.org"
-  ],
-  "CrunchBase": [
-    "crunchbase.com"
-  ],
-  "Curiouscat": [
-    "curiouscat.me"
-  ],
-  "Curse": [
-    "curseforge.com"
-  ],
-  "Dailymotion": [
-    "dailymotion.com"
-  ],
-  "Daz3D": [
-    "daz3d.com"
-  ],
-  "Debian": [
-    "debian.org"
-  ],
-  "Deezer": [
-    "deezer.com"
-  ],
-  "Delicious": [
-    "del.icio.us"
-  ],
-  "Deviantart": [
-    "deviantart.com"
-  ],
-  "Diablo": [
-    "diablo.blixxard.com",
-    "diablo2.blixxard.com",
-    "diablo3.blixxard.com",
-    "diablo4.blixxard.com",
-    "diabloimmortal.blixxard.com"
-  ],
-  "Dibujando": [
-    "dibujando.net"
-  ],
-  "Digg": [
-    "digg.com"
-  ],
-  "DigitalOcean": [
-    "digitalocean.com"
-  ],
-  "Discord": [
-    "discord.gg",
-    "discord.com"
-  ],
-  "Displate": [
-    "displate.com"
-  ],
-  "Disqus": [
-    "disqus.com"
-  ],
-  "Dlive": [
-    "dlive.tv"
-  ],
-  "DNAxCAT": [
-    "dnaxcat.net"
-  ],
-  "Donorbox": [
-    "donorbox.org"
-  ],
-  "Doodle": [
-    "doodle.com"
-  ],
-  "Douban": [
-    "m.douban.com"
-  ],
-  "Draugiem": [
-    "draugiem.lv"
-  ],
-  "DreamWidth": [
-    "dreamwidth.org"
-  ],
-  "Dribbble": [
-    "dribbble.com"
-  ],
-  "Dropbox": [
-    "dropbox.com"
-  ],
-  "Drupal": [
-    "drupal.org"
-  ],
-  "E-Zbio": [
-    "e-z.bio"
-  ],
-  "Ebay": [
-    "ebay.com"
-  ],
-  "Eitaa": [
-    "web.eitaa.com"
-  ],
-  "Element": [
-    "element.io"
-  ],
-  "ElementaryOS": [
-    "elementaryos.io"
-  ],
-  "Ello": [
-    "ello.co"
-  ],
-  "Endomodo": [
-    "endomodo.com"
-  ],
-  "Envato": [
-    "envato.com"
-  ],
-  "Epic": [
-    "epicgames.com"
-  ],
-  "Escargot": [
-    "escargot.chat"
-  ],
-  "Etsy": [
-    "etsy.com"
-  ],
-  "Facebook": [
-    "facebook.com",
-    "facebook.net",
-    "fb.me"
-  ],
-  "Fanbox": [
-    "fanbox.cc"
-  ],
-  "Fandom": [
-    "fandom.com"
-  ],
-  "FanFiction": [
-    "fanfiction.net"
-  ],
-  "Fanlore": [
-    "fanlore.org"
-  ],
-  "Fantia": [
-    "fantia.jp"
-  ],
-  "Fediverse": [],
-  "FeedBurner": [
-    "feedburner.google.com"
-  ],
-  "Fenrecs": [
-    "fenrecs.com"
-  ],
-  "Filegarden": [
-    "filegarden.com"
-  ],
-  "FilmFreeway": [
-    "filmfreeway.com"
-  ],
-  "FilmWeb": [
-    "filmweb.pl"
-  ],
-  "Firefox": [
-    "mozilla.org"
-  ],
-  "Fiverr": [
-    "fiverr.com"
-  ],
-  "Flash": [],
-  "Flattr": [
-    "flattr.com"
-  ],
-  "Flickr": [
-    "flickr.com"
-  ],
-  "FlightRising": [
-    "flightrising.com"
-  ],
-  "FlipBoard": [
-    "flipboard.com"
-  ],
-  "Flipnote": [],
-  "FlowCode": [
-    "flowcode.com",
-    "flow.page"
-  ],
-  "Forgejo": [
-    "forgejo.org"
-  ],
-  "Formulr": [
-    "formulr.co.uk"
-  ],
-  "Forrst": [
-    "forrst.com"
-  ],
-  "FourSquare": [
-    "foursquare.com"
-  ],
-  "Freelancer": [
-    "freelancer.com"
-  ],
-  "FriendFeed": [
-    "friendfeed.com"
-  ],
-  "FriendlyCaptcha": [
-    "friendlycaptcha.com"
-  ],
-  "Fundable": [
-    "fundable.com"
-  ],
-  "FurAffinity": [
-    "furaffinity.net"
-  ],
-  "FurryNetwork": [
-    "furrynetwork.com"
-  ],
-  "FurryPaws": [
-    "furrypaws",
-    "furry-paws.com"
-  ],
-  "Furtastic": [
-    "furtastic.art"
-  ],
-  "Furvilla": [
-    "furvilla.com"
-  ],
-  "Fyuse": [
-    "fyuse.org"
-  ],
-  "GaiaOnline": [
-    "gaiaonline.com"
-  ],
-  "Gamebanana": [
-    "gamebanana.com"
-  ],
-  "GameFor": [
-    "iamgamefor.com"
-  ],
-  "GameJolt": [
-    "gamejolt.com"
-  ],
-  "GameWisp": [
-    "gamewisp.com"
-  ],
-  "Genius": [
-    "genius.com"
-  ],
-  "Ghost": [
-    "ghost.org"
-  ],
-  "Git": [
-    "git-scm.com"
-  ],
-  "Gitea": [
-    "gitea.com"
-  ],
-  "GitHub": [
-    "github.com"
-  ],
-  "Gitlab": [
-    "gitlab.com"
-  ],
-  "Gitter": [
-    "gitter.im"
-  ],
-  "Glaze": [
-    "glaze.cs.uchicago.edu"
-  ],
-  "GlobalComix": [
-    "globalcomix.com"
-  ],
-  "Gnome": [
-    "gnome.org"
-  ],
-  "Goatlings": [
-    "goatlings.com"
-  ],
-  "GoFundMe": [
-    "gofundme.com"
-  ],
-  "GOG": [
-    "gog.com"
-  ],
-  "Gogs": [
-    "gogs.io"
-  ],
-  "GoodReads": [
-    "goodreads.com"
-  ],
-  "Google": [
-    "google.com"
-  ],
-  "GoogleCalendar": [
-    "calendar.google.com"
-  ],
-  "GoogleDrive": [
-    "drive.google.com"
-  ],
-  "GoogleGroups": [
-    "groups.google.com"
-  ],
-  "GoogleHangouts": [
-    "hangouts.google.com"
-  ],
-  "GoogleMaps": [
-    "maps.google.com"
-  ],
-  "GooglePhotos": [
-    "photos.google.com"
-  ],
-  "GooglePlayMusic": [
-    "music.google.com",
-    "music.youtube.com"
-  ],
-  "GooglePlus": [
-    "plus.google.com"
-  ],
-  "GoogleScholar": [
-    "googlescholar",
-    "scholar.google.com"
-  ],
-  "GoToMeeting": [
-    "goto.com"
-  ],
-  "GrooveShark": [
-    "groovesharks.org"
-  ],
-  "GrundosCafe": [
-    "grundos.cafe"
-  ],
-  "Guilded": [
-    "guilded.gg"
-  ],
-  "Gumroad": [
-    "gumroad.com"
-  ],
-  "Guru": [
-    "guru.com"
-  ],
-  "Gust": [
-    "gust.com"
-  ],
-  "HackerNews": [
-    "thehackernews.com"
-  ],
-  "HackerOne": [
-    "hackerone.com"
-  ],
-  "HackerRank": [
-    "hackerrank.com"
-  ],
-  "HearthStone": [
-    "hearthstone.blizzard.com"
-  ],
-  "Hellocoton": [
-    "hellocoton.fr"
-  ],
-  "Heroes": [
-    "thunderpick.io"
-  ],
-  "Hipolink": [
-    "hipolink.net"
-  ],
-  "HomeAdvisor": [
-    "homeadvisor.com"
-  ],
-  "Homefy": [
-    "ahomefy.com"
-  ],
-  "Homes": [
-    "homes.com"
-  ],
-  "Horde": [],
-  "Houzz": [
-    "houzz.com"
-  ],
-  "Hypixel": [
-    "hypixel.net"
-  ],
-  "IbisPaint": [
-    "ibispaint.com"
-  ],
-  "Icq": [
-    "icq.com"
-  ],
-  "Identica": [
-    "identi.ca"
-  ],
-  "IMDb": [
-    "imdb.com"
-  ],
-  "Imgur": [
-    "imgur.com"
-  ],
-  "IndieDB": [
-    "indiedb.com"
-  ],
-  "Inkblot": [
-    "inkblot.art"
-  ],
-  "InkBunny": [
-    "inkbunny.net"
-  ],
-  "Inkitt": [
-    "inkitt.com"
-  ],
-  "Instagram": [
-    "instagram.com"
-  ],
-  "Instructables": [
-    "instructables.com"
-  ],
-  "Internet": [],
-  "Invision": [
-    "in-vision.webflow.io"
-  ],
-  "Issuu": [
-    "issuu.com"
-  ],
-  "Istock": [
-    "istockphoto.com"
-  ],
-  "Itaku": [
-    "itaku.ee"
-  ],
-  "Itchio": [
-    "itch.io"
-  ],
-  "Itunes": [
-    "music.apple.com"
-  ],
-  "Jamendo": [
-    "jamendo.com"
-  ],
-  "jsr": [
-    "jsr.io"
-  ],
-  "Juxt": [
-    "juxt.pretendo.network"
-  ],
-  "KakaoTalk": [
-    "kakaocorp.com"
-  ],
-  "KeyBase": [
-    "keybase.io"
-  ],
-  "Kickstarter": [
-    "kickstarter.com"
-  ],
-  "Kitsu": [
-    "kitsu.io"
-  ],
-  "Ko-Fi": [
-    "kofi",
-    "ko-fi.com"
-  ],
-  "Kobo": [
-    "kobo.com"
-  ],
-  "KomiMart": [
-    "komimart.com"
-  ],
-  "Koo": [
-    "kooapp.com"
-  ],
-  "Lanyrd": [
-    "lanyrd"
-  ],
-  "LastFM": [
-    "last.fm"
-  ],
-  "LeprdSpace": [
-    "leprdspace",
-    "leprd.space"
-  ],
-  "LetterBoxd": [
-    "letterboxd.com"
-  ],
-  "LiberaPay": [
-    "liberapay.com"
-  ],
-  "Line": [
-    "line"
-  ],
-  "Link": [
-    "link"
-  ],
-  "LinkedIn": [
-    "linkedin.com"
-  ],
-  "LinkStack": [
-    "linkstack.org"
-  ],
-  "Linktree": [
-    "linktr.ee"
-  ],
-  "LinuxMint": [
-    "linuxmint.com"
-  ],
-  "Lioden": [
-    "lioden.com"
-  ],
-  "LiveJournal": [
-    "livejournal.com"
-  ],
-  "LiveMaster": [
-    "livemaster.com"
-  ],
-  "lobsters": [
-    "lobste.rs"
-  ],
-  "LogMeIn": [
-    "logmein.com"
-  ],
-  "Loomly": [
-    "loomly.com"
-  ],
-  "Lyft": [
-    "lyft.com"
-  ],
-  "macOS": [
-    "macos"
-  ],
-  "Mail": [
-    "mail.com"
-  ],
-  "Mailru": [
-    "mail.ru"
-  ],
-  "MakeShip": [
-    "makeship.com"
-  ],
-  "Mastodon": [
-    "mastodon.social"
-  ],
-  "Matrix": [
-    "matrix.org"
-  ],
-  "MediaWiki": [
-    "mediawiki.org"
-  ],
-  "Medium": [
-    "medium.com"
-  ],
-  "Meetup": [
-    "meetup.com"
-  ],
-  "Messenger": [
-    "messenger.com"
-  ],
-  "Metapop": [
-    "metapop.com"
-  ],
-  "Microsoft": [
-    "microsoft.com"
-  ],
-  "Minecraft": [
-    "minecraft.net"
-  ],
-  "MissKey": [
-    "misskey-hub.net"
-  ],
-  "Mix": [
-    "mix"
-  ],
-  "mixcloud": [
-    "mixcloud.com"
-  ],
-  "Mixer": [
-    "mixer.com"
-  ],
-  "MobCrush": [
-    "mobcrush"
-  ],
-  "Moddb": [
-    "moddb.com"
-  ],
-  "ModelMayhem": [
-    "modelmayhem.com"
-  ],
-  "ModerNeopets": [
-    "moderneopets",
-    "moderneopets.com"
-  ],
-  "Modrinth": [
-    "modrinth.com"
-  ],
-  "Mumble": [
-    "mumble.info"
-  ],
-  "MyAnimeList": [
-    "myanimelist.net"
-  ],
-  "MySpace": [
-    "myspace.com"
-  ],
-  "NameMC": [
-    "namemc.com"
-  ],
-  "NamiComi": [
-    "namicomi.com"
-  ],
-  "NaNoWriMo": [
-    "nanowrimo.org"
-  ],
-  "Napster": [
-    "napster.com"
-  ],
-  "Natgeo": [
-    "nationalgeographic.com"
-  ],
-  "Naver": [
-    "naver.com"
-  ],
-  "Nekoweb": [
-    "nekoweb.org"
-  ],
-  "Neocities": [
-    "neocities.org"
-  ],
-  "Neopets": [
-    "neopets.com"
-  ],
-  "Newgrounds": [
-    "newgrounds.com"
-  ],
-  "NewsVine": [
-    "newsvine.com"
-  ],
-  "Nextdoor": [
-    "nextdoor.com"
-  ],
-  "NexusMods": [
-    "nexus",
-    "nexusmods.com"
-  ],
-  "Niconico": [
-    "nicovideo.jp"
-  ],
-  "Nintendo": [
-    "nintendo.com"
-  ],
-  "Npm": [
-    "npmjs.com"
-  ],
-  "NuzlockeForums": [
-    "nuzlockeforums.com"
-  ],
-  "Odnoklassniki": [
-    "ok.ru"
-  ],
-  "onedev": [
-    "onedev.io"
-  ],
-  "OpenCollective": [
-    "opencollective.com"
-  ],
-  "OpenGameArt": [
-    "opengameart.org"
-  ],
-  "OpenWorkbook": [
-    "openworkbook"
-  ],
-  "Opera": [
-    "opera.com"
-  ],
-  "Origin": [
-    "ea.com/ea-app"
-  ],
-  "Outlook": [
-    "outlook.com"
-  ],
-  "Overwatch": [
-    "overwatch.blizzard.com"
-  ],
-  "Pandora": [
-    "pandora.net"
-  ],
-  "PaperDemon": [
-    "paperdemon.com"
-  ],
-  "PaperMC": [
-    "papermc.io"
-  ],
-  "Patreon": [
-    "patreon.com"
-  ],
-  "Paypal": [
-    "paypal.com"
-  ],
-  "Periscope": [
-    "pscp.tv"
-  ],
-  "Persona": [
-    "persona"
-  ],
-  "Picarto": [
-    "picarto.tv"
-  ],
-  "Piczel": [
-    "piczel.tv"
-  ],
-  "PillowFort": [
-    "pillowfort.social"
-  ],
-  "Pinterest": [
-    "pinterest.com"
-  ],
-  "Pixilart": [
-    "pixilart.com"
-  ],
-  "Pixiv": [
-    "pixiv.net"
-  ],
-  "Plancke": [
-    "plancke.io"
-  ],
-  "Play": [
-    "play"
-  ],
-  "Player": [
-    "player.pl"
-  ],
-  "PlayStation": [
-    "playstation.com"
-  ],
-  "Plurk": [
-    "plurk.com"
-  ],
-  "Pocket": [
-    "getpocket.com"
-  ],
-  "Polar": [
-    "polar.sh"
-  ],
-  "Printables": [
-    "printables.com"
-  ],
-  "Pronounscc": [
-    "pronouns.cc"
-  ],
-  "PronounsPage": [
-    "en.pronouns.page"
-  ],
-  "Pronouny": [
-    "pronouny.xyz"
-  ],
-  "Px": [
-    "500px.com"
-  ],
-  "Qobuz": [
-    "qobuz.com"
-  ],
-  "Qq": [
-    "qq.com"
-  ],
-  "QRcode": [
-    "qrcode"
-  ],
-  "Quora": [
-    "quora.com"
-  ],
-  "Quotev": [
-    "quotev.com"
-  ],
-  "RaidCall": [
-    "raidcall.com"
-  ],
-  "RateYourMusic": [
-    "rateyourmusic.com"
-  ],
-  "Ravelry": [
-    "ravelry.com"
-  ],
-  "Realtor": [
-    "realtor.com"
-  ],
-  "reCAPTCHA": [
-    "recaptcha",
-    "captcha"
-  ],
-  "RedBubble": [
-    "redbubble.com"
-  ],
-  "Reddit": [
-    "reddit.com"
-  ],
-  "Redfin": [
-    "redfin.com"
-  ],
-  "RefSheet": [
-    "refsheet.net"
-  ],
-  "Remote": [
-    "remote.com"
-  ],
-  "Renderosity": [
-    "renderosity.com"
-  ],
-  "Renren": [
-    "renren.com"
-  ],
-  "Rentry": [
-    "rentry.co"
-  ],
-  "ResearchGate": [
-    "researchgate.net"
-  ],
-  "ResidentAdvisor": [
-    "ra.co"
-  ],
-  "RetroAchievements": [
-    "retroachievements.org"
-  ],
-  "Retrospring": [
-    "retrospring.net"
-  ],
-  "ReverbNation": [
-    "reverbnation.com"
-  ],
-  "Roblox": [
-    "roblox.com"
-  ],
-  "RSS": [
-    "rss.com"
-  ],
-  "Santae": [
-    "santae.net"
-  ],
-  "Scratch": [
-    "scratch.dit.edu"
-  ],
-  "Seedrs": [
-    "seedrs"
-  ],
-  "SeenThis": [
-    "seenthis.co"
-  ],
-  "Session": [
-    "getsession.org"
-  ],
-  "SharePoint": [
-    "microsoft.com/nb-no/microsoft-365/sharepoint"
-  ],
-  "ShareThis": [
-    "sharethis.com"
-  ],
-  "SheezyArt": [
-    "sheezyart",
-    "sheezy-art",
-    "sheezy.art"
-  ],
-  "Shopify": [
-    "shopify.com"
-  ],
-  "Side7": [
-    "side7.com"
-  ],
-  "Signal": [
-    "signal.org"
-  ],
-  "Skeb": [
-    "skeb.jp"
-  ],
-  "SketchersUnited": [
-    "sketchersunited.org"
-  ],
-  "SketchFab": [
-    "sketchfab.com"
-  ],
-  "Skype": [
-    "skype.com"
-  ],
-  "Slack": [
-    "slack.com"
-  ],
-  "SlideShare": [
-    "slideshare.net"
-  ],
-  "SmashCast": [
-    "smashcast.tv"
-  ],
-  "SmashWords": [
-    "smashwords.com"
-  ],
-  "SmugMug": [
-    "smugmug.com"
-  ],
-  "SnapChat": [
-    "snapchat.com"
-  ],
-  "Society6": [
-    "society6.com"
-  ],
-  "SoFurry": [
-    "sofurry.com"
-  ],
-  "Soloto": [
-    "soloto"
-  ],
-  "SongKick": [
-    "songkick.com"
-  ],
-  "Soroush": [
-    "soroush"
-  ],
-  "SoundCloud": [
-    "soundcloud.com"
-  ],
-  "sourcehut": [
-    "sourcehut.org"
-  ],
-  "SpaceHey": [
-    "spacehey.com"
-  ],
-  "Spigot": [
-    "spigotmc.org"
-  ],
-  "Spip": [
-    "spip.net"
-  ],
-  "Splice": [
-    "splice.com"
-  ],
-  "Sporcle": [
-    "sporcle.com"
-  ],
-  "Spotify": [
-    "spotify.com"
-  ],
-  "SpreadShirt": [
-    "spreadshirt.com"
-  ],
-  "SquareSpace": [
-    "squarespace.com"
-  ],
-  "SquidgeWorld": [
-    "squidgeworld.org"
-  ],
-  "StackExchange": [
-    "stackexchange.com"
-  ],
-  "StackOverflow": [
-    "stackoverflow.com"
-  ],
-  "Stage32": [
-    "stage32.com"
-  ],
-  "StarCraft": [
-    "starcraft.blizzard.com"
-  ],
-  "StayFriends": [
-    "stayfriends.de"
-  ],
-  "Steam": [
-    "store.steampowered.com"
-  ],
-  "SteamDB": [
-    "steamdb.io"
-  ],
-  "Stitcher": [
-    "stitcher.com"
-  ],
-  "StoreHouse": [
-    "storehouse.com"
-  ],
-  "Storenvy": [
-    "storenvy.com"
-  ],
-  "StoryGraph": [
-    "thestorygraph.com"
-  ],
-  "Strava": [
-    "strava.com"
-  ],
-  "StrawPage": [
-    "straw.page"
-  ],
-  "StreamJar": [
-    "streamjar"
-  ],
-  "Stripe": [
-    "stripe.com"
-  ],
-  "StrudelCafe": [
-    "strudelcafe",
-    "strudel-cafe.com"
-  ],
-  "StumbleUpon": [
-    "stumbleupon.com"
-  ],
-  "Subeta": [
-    "subeta.net"
-  ],
-  "SubscribeStar": [
-    "subscribestar.com"
-  ],
-  "Sudomemo": [
-    "sudomemo.net"
-  ],
-  "Swarm": [
-    "swarm"
-  ],
-  "Tapas": [
-    "tapas.io"
-  ],
-  "TeamSpeak": [
-    "teamspeak.com"
-  ],
-  "TeamViewer": [
-    "teamviewer.com"
-  ],
-  "Technic": [
-    "technicpack.net"
-  ],
-  "Technorati": [
-    "technorati.com"
-  ],
-  "Teepublic": [
-    "teepublic.com"
-  ],
-  "Teespring": [
-    "teespring.com"
-  ],
-  "Telegram": [
-    "telegram.org"
-  ],
-  "Thingiverse": [
-    "thingiverse.com"
-  ],
-  "Threads": [
-    "threads.net"
-  ],
-  "Threema": [
-    "threema.com"
-  ],
-  "Throne": [
-    "throne.com"
-  ],
-  "Tidal": [
-    "tidal.com"
-  ],
-  "TiddlyWiki": [
-    "tiddlywiki.com"
-  ],
-  "Tiktok": [
-    "tiktok.com"
-  ],
-  "Tinder": [
-    "tinder.com"
-  ],
-  "ToneDen": [
-    "toneden.io"
-  ],
-  "Toptal": [
-    "toptal.com"
-  ],
-  "Torial": [
-    "torial.com"
-  ],
-  "ToyHouse": [
-    "toyhou.se"
-  ],
-  "Tracks": [
-    "8tracks.com"
-  ],
-  "TraxSource": [
-    "traxsource.com"
-  ],
-  "Trello": [
-    "trello.com"
-  ],
-  "TripAdvisor": [
-    "tripadvisor.com"
-  ],
-  "Tripit": [
-    "tripit.com"
-  ],
-  "TripleJ": [
-    "abc.net.au/triplej"
-  ],
-  "Trulia": [
-    "trulia.com"
-  ],
-  "Tumblr": [
-    "tumblr.com"
-  ],
-  "TuneIn": [
-    "tunein.com"
-  ],
-  "Twitch": [
-    "twitch.tv"
-  ],
-  "Twitter": [
-    "twitter.com"
-  ],
-  "Uber": [
-    "uber.com"
-  ],
-  "Ubuntu": [
-    "ubuntu.com"
-  ],
-  "Udemy": [
-    "udemy.com"
-  ],
-  "UnSplash": [
-    "unsplash.com"
-  ],
-  "UnVale": [
-    "unvale.io"
-  ],
-  "UpWork": [
-    "upwork.com"
-  ],
-  "Ventrilo": [
-    "ventrilo.com"
-  ],
-  "VGen": [
-    "vgen.co"
-  ],
-  "Viadeo": [
-    "viadeo.com"
-  ],
-  "Viber": [
-    "viber.com"
-  ],
-  "ViewBug": [
-    "viewbug.com"
-  ],
-  "Vimeo": [
-    "vimeo.com"
-  ],
-  "Vkontakte": [
-    "vk.com"
-  ],
-  "VRChat": [
-    "vrchat.com"
-  ],
-  "Vsco": [
-    "vsco.co"
-  ],
-  "VStream": [
-    "vstream.com"
-  ],
-  "Warcraft": [
-    "worldofwarcraft.blizzard.com"
-  ],
-  "Wattpad": [
-    "wattpad.com"
-  ],
-  "Wavebox": [
-    "wavebox.io"
-  ],
-  "Weasyl": [
-    "weasyl.com"
-  ],
-  "Webtoon": [
-    "webtoons.com"
-  ],
-  "WeChat": [
-    "wechat.com"
-  ],
-  "Weibo": [
-    "weibo.com"
-  ],
-  "WhatsApp": [
-    "whatsapp.com"
-  ],
-  "Wickr": [
-    "wickr.com"
-  ],
-  "Wikipedia": [
-    "wikipedia.org"
-  ],
-  "WindGuru": [
-    "windguru.cz"
-  ],
-  "Windows": [
-    "windows.com"
-  ],
-  "Wix": [
-    "wix.com"
-  ],
-  "WordPress": [
-    "wordpress.com"
-  ],
-  "WorldAnvil": [
-    "worldanvil.com"
-  ],
-  "Wykop": [
-    "wykop.pl"
-  ],
-  "X": [
-    "theplatformformerlyknownastwitter",
-    "unicode-x",
-    "x.com"
-  ],
-  "Xbox": [
-    "xbox.com"
-  ],
-  "Xing": [
-    "xing.com"
-  ],
-  "Yahoo": [
-    "yahoo.com"
-  ],
-  "Yammer": [
-    "yammer.com"
-  ],
-  "Yandex": [
-    "yandex.com"
-  ],
-  "Yelp": [
-    "yelp.com"
-  ],
-  "Yooco": [
-    "yooco.org"
-  ],
-  "YouNow": [
-    "younow.com"
-  ],
-  "Youtube": [
-    "youtube.com"
-  ],
-  "YTGaming": [
-    "ytgaming",
-    "yt-gaming"
-  ],
-  "Zapier": [
-    "zapier.com"
-  ],
-  "Zazzle": [
-    "zazzle.com"
-  ],
-  "Zenius-I-Vanisher": [
-    "zenius-i-vanisher.com"
-  ],
-  "Zerply": [
-    "zerply.com"
-  ],
-  "Zillow": [
-    "zillow.com"
-  ],
-  "Zomato": [
-    "zomato.com"
-  ],
-  "Zoom": [
-    "zoom.com"
-  ],
-  "Zynga": [
-    "zynga.com"
-  ]
-} as const;
+export declare const hostnames: {
+  readonly "4dopt": readonly [ "4dopt.com" ];
+  readonly "9Gag": readonly [ "9gag.com" ];
+  readonly "AdobePortfolio": readonly [ "portfolio.adobe.com" ];
+  readonly "Afdian": readonly [ "afdian.com" ];
+  readonly "AirBnB": readonly [ "airbnb.com" ];
+  readonly "Alibaba": readonly [ "alibaba.com" ];
+  readonly "AliExpress": readonly [ "aliexpress.com" ];
+  readonly "Alliance": readonly [];
+  readonly "AllMyLinks": readonly [ "allmylinks.com" ];
+  readonly "Amazon": readonly [ "amazon.ae", "amazon.ca", "amazon.cn", "amazon.co", "amazon.co.jp", "amazon.co.uk", "amazon.com", "amazon.com.au", "amazon.com.be", "amazon.com.br", "amazon.com.cn", "amazon.com.mx", "amazon.com.sg", "amazon.com.tr", "amazon.de", "amazon.eg", "amazon.es", "amazon.fr", "amazon.in", "amazon.it", "amazon.nl", "amazon.pl", "amazon.sa", "amazon.se", "amazon.sg" ];
+  readonly "Amplement": readonly [ "amplement.com" ];
+  readonly "Android": readonly [ "android.com" ];
+  readonly "AngelList": readonly [ "angellist.com" ];
+  readonly "AngiesList": readonly [ "angi.com" ];
+  readonly "AnimalJam": readonly [ "animaljam.com" ];
+  readonly "AnimationFramework": readonly [ "animationframework.com" ];
+  readonly "AnimePlanet": readonly [ "anime-planet.com" ];
+  readonly "AnthroArt": readonly [ "anthro.art" ];
+  readonly "Anthrodex": readonly [ "anthrodex.com" ];
+  readonly "Apple": readonly [ "apple.com" ];
+  readonly "AppNet": readonly [ "appnet.com" ];
+  readonly "AppStore": readonly [ "apps.apple.com" ];
+  readonly "ArchiveOfOurOwn": readonly [ "ao3.org", "archiveofourown.gay", "archiveofourown.org" ];
+  readonly "Archiveorg": readonly [ "archive.org" ];
+  readonly "ArchLinux": readonly [ "archlinux.org" ];
+  readonly "Artconomy": readonly [ "artconomy.com" ];
+  readonly "ArtFight": readonly [ "artfight.com", "artfight.net" ];
+  readonly "Artfol": readonly [ "artfol.app", "artfol.co", "artfol.me" ];
+  readonly "ArtHaven": readonly [ "arthaven.co" ];
+  readonly "Artistree": readonly [ "artistree.com", "artistree.io" ];
+  readonly "ArtStation": readonly [ "artstation.com" ];
+  readonly "Ask": readonly [ "ask.com" ];
+  readonly "Atabook": readonly [ "atabook.org" ];
+  readonly "Augment": readonly [ "augment.com" ];
+  readonly "Avvo": readonly [ "avvo.com" ];
+  readonly "Backloggd": readonly [ "backloggd.com" ];
+  readonly "Baidu": readonly [ "baidu.com" ];
+  readonly "Bale": readonly [ "bale.ai" ];
+  readonly "BandCamp": readonly [ "bandcamp.com" ];
+  readonly "Barq": readonly [ "barq.app" ];
+  readonly "BattleNet": readonly [ "battle.net" ];
+  readonly "Beacons": readonly [ "beacons.ai" ];
+  readonly "BeatPort": readonly [ "beatport.com" ];
+  readonly "BeBee": readonly [ "bebee.com" ];
+  readonly "Bebo": readonly [ "bebo.com" ];
+  readonly "Behance": readonly [ "behance.net" ];
+  readonly "BigCartel": readonly [ "bigcartel.com" ];
+  readonly "Bing": readonly [ "bing.com" ];
+  readonly "BitBucket": readonly [ "bitbucket.org" ];
+  readonly "Blackberry": readonly [ "blackberry.com" ];
+  readonly "Blingee": readonly [ "blingee.com" ];
+  readonly "Blizzard": readonly [ "blizzard.com" ];
+  readonly "Blogger": readonly [ "blogger.com", "blogspot.com" ];
+  readonly "Bloglovin": readonly [ "bloglovin.com" ];
+  readonly "BlueSky": readonly [ "bsky.app", "bsky.dev", "bsky.social" ];
+  readonly "Bonanza": readonly [ "bonanza.com" ];
+  readonly "Bookbub": readonly [ "bookbub.com" ];
+  readonly "Booking": readonly [ "booking.com" ];
+  readonly "Boosty": readonly [ "boosty.to" ];
+  readonly "box": readonly [ "box.com" ];
+  readonly "Buffer": readonly [ "buffer.com" ];
+  readonly "Bukkit": readonly [ "bukkit.org" ];
+  readonly "BuyMeACoffee": readonly [ "buymeacoffee.com" ];
+  readonly "Buzzly": readonly [ "buzzly.art" ];
+  readonly "Calendly": readonly [ "calendly.com" ];
+  readonly "Cara": readonly [ "cara.app" ];
+  readonly "Carrd": readonly [ "carrd.co" ];
+  readonly "CdBaby": readonly [ "cdbaby.com" ];
+  readonly "CharacterHub": readonly [ "characterhub.com" ];
+  readonly "ChickenSmoothie": readonly [ "chickensmoothie.com" ];
+  readonly "Chrome": readonly [ "chromewebstore.google.com" ];
+  readonly "Codeberg": readonly [ "codeberg.org" ];
+  readonly "CodePen": readonly [ "codepen.io" ];
+  readonly "Codered": readonly [ "coderedweb.com" ];
+  readonly "CoderWall": readonly [ "coderwall.com" ];
+  readonly "Cohost": readonly [ "cohost.org" ];
+  readonly "Collectorz": readonly [ "clz.com" ];
+  readonly "ComicFury": readonly [ "comicfury.com" ];
+  readonly "Commishes": readonly [ "commishes.com" ];
+  readonly "CraigsList": readonly [ "craigslist.org" ];
+  readonly "CrunchBase": readonly [ "crunchbase.com" ];
+  readonly "Curiouscat": readonly [ "curiouscat.me" ];
+  readonly "Curse": readonly [ "curseforge.com" ];
+  readonly "Dailymotion": readonly [ "dailymotion.com" ];
+  readonly "Daz3D": readonly [ "daz3d.com" ];
+  readonly "Debian": readonly [ "debian.org" ];
+  readonly "Deezer": readonly [ "deezer.com" ];
+  readonly "Delicious": readonly [ "del.icio.us" ];
+  readonly "Deviantart": readonly [ "deviantart.com" ];
+  readonly "Diablo": readonly [ "diablo.blixxard.com", "diablo2.blixxard.com", "diablo3.blixxard.com", "diablo4.blixxard.com", "diabloimmortal.blixxard.com" ];
+  readonly "Dibujando": readonly [ "dibujando.net" ];
+  readonly "Digg": readonly [ "digg.com" ];
+  readonly "DigitalOcean": readonly [ "digitalocean.com" ];
+  readonly "Discord": readonly [ "discord.gg", "discord.com" ];
+  readonly "Displate": readonly [ "displate.com" ];
+  readonly "Disqus": readonly [ "disqus.com" ];
+  readonly "Dlive": readonly [ "dlive.tv" ];
+  readonly "DNAxCAT": readonly [ "dnaxcat.net" ];
+  readonly "Donorbox": readonly [ "donorbox.org" ];
+  readonly "Doodle": readonly [ "doodle.com" ];
+  readonly "Douban": readonly [ "m.douban.com" ];
+  readonly "Draugiem": readonly [ "draugiem.lv" ];
+  readonly "DreamWidth": readonly [ "dreamwidth.org" ];
+  readonly "Dribbble": readonly [ "dribbble.com" ];
+  readonly "Dropbox": readonly [ "dropbox.com" ];
+  readonly "Drupal": readonly [ "drupal.org" ];
+  readonly "E-Zbio": readonly [ "e-z.bio" ];
+  readonly "Ebay": readonly [ "ebay.com" ];
+  readonly "Eitaa": readonly [ "web.eitaa.com" ];
+  readonly "Element": readonly [ "element.io" ];
+  readonly "ElementaryOS": readonly [ "elementaryos.io" ];
+  readonly "Ello": readonly [ "ello.co" ];
+  readonly "Endomodo": readonly [ "endomodo.com" ];
+  readonly "Envato": readonly [ "envato.com" ];
+  readonly "Epic": readonly [ "epicgames.com" ];
+  readonly "Escargot": readonly [ "escargot.chat" ];
+  readonly "Etsy": readonly [ "etsy.com" ];
+  readonly "Facebook": readonly [ "facebook.com", "facebook.net", "fb.me" ];
+  readonly "Fanbox": readonly [ "fanbox.cc" ];
+  readonly "Fandom": readonly [ "fandom.com" ];
+  readonly "FanFiction": readonly [ "fanfiction.net" ];
+  readonly "Fanlore": readonly [ "fanlore.org" ];
+  readonly "Fantia": readonly [ "fantia.jp" ];
+  readonly "Fediverse": readonly [];
+  readonly "FeedBurner": readonly [ "feedburner.google.com" ];
+  readonly "Fenrecs": readonly [ "fenrecs.com" ];
+  readonly "Filegarden": readonly [ "filegarden.com" ];
+  readonly "FilmFreeway": readonly [ "filmfreeway.com" ];
+  readonly "FilmWeb": readonly [ "filmweb.pl" ];
+  readonly "Firefox": readonly [ "mozilla.org" ];
+  readonly "Fiverr": readonly [ "fiverr.com" ];
+  readonly "Flash": readonly [];
+  readonly "Flattr": readonly [ "flattr.com" ];
+  readonly "Flickr": readonly [ "flickr.com" ];
+  readonly "FlightRising": readonly [ "flightrising.com" ];
+  readonly "FlipBoard": readonly [ "flipboard.com" ];
+  readonly "Flipnote": readonly [];
+  readonly "FlowCode": readonly [ "flowcode.com", "flow.page" ];
+  readonly "Forgejo": readonly [ "forgejo.org" ];
+  readonly "Formulr": readonly [ "formulr.co.uk" ];
+  readonly "Forrst": readonly [ "forrst.com" ];
+  readonly "FourSquare": readonly [ "foursquare.com" ];
+  readonly "Freelancer": readonly [ "freelancer.com" ];
+  readonly "FriendFeed": readonly [ "friendfeed.com" ];
+  readonly "FriendlyCaptcha": readonly [ "friendlycaptcha.com" ];
+  readonly "Fundable": readonly [ "fundable.com" ];
+  readonly "FurAffinity": readonly [ "furaffinity.net" ];
+  readonly "FurryNetwork": readonly [ "furrynetwork.com" ];
+  readonly "FurryPaws": readonly [ "furrypaws", "furry-paws.com" ];
+  readonly "Furtastic": readonly [ "furtastic.art" ];
+  readonly "Furvilla": readonly [ "furvilla.com" ];
+  readonly "Fyuse": readonly [ "fyuse.org" ];
+  readonly "GaiaOnline": readonly [ "gaiaonline.com" ];
+  readonly "Gamebanana": readonly [ "gamebanana.com" ];
+  readonly "GameFor": readonly [ "iamgamefor.com" ];
+  readonly "GameJolt": readonly [ "gamejolt.com" ];
+  readonly "GameWisp": readonly [ "gamewisp.com" ];
+  readonly "Genius": readonly [ "genius.com" ];
+  readonly "Ghost": readonly [ "ghost.org" ];
+  readonly "Git": readonly [ "git-scm.com" ];
+  readonly "Gitea": readonly [ "gitea.com" ];
+  readonly "GitHub": readonly [ "github.com" ];
+  readonly "Gitlab": readonly [ "gitlab.com" ];
+  readonly "Gitter": readonly [ "gitter.im" ];
+  readonly "Glaze": readonly [ "glaze.cs.uchicago.edu" ];
+  readonly "GlobalComix": readonly [ "globalcomix.com" ];
+  readonly "Gnome": readonly [ "gnome.org" ];
+  readonly "Goatlings": readonly [ "goatlings.com" ];
+  readonly "GoFundMe": readonly [ "gofundme.com" ];
+  readonly "GOG": readonly [ "gog.com" ];
+  readonly "Gogs": readonly [ "gogs.io" ];
+  readonly "GoodReads": readonly [ "goodreads.com" ];
+  readonly "Google": readonly [ "google.com" ];
+  readonly "GoogleCalendar": readonly [ "calendar.google.com" ];
+  readonly "GoogleDrive": readonly [ "drive.google.com" ];
+  readonly "GoogleGroups": readonly [ "groups.google.com" ];
+  readonly "GoogleHangouts": readonly [ "hangouts.google.com" ];
+  readonly "GoogleMaps": readonly [ "maps.google.com" ];
+  readonly "GooglePhotos": readonly [ "photos.google.com" ];
+  readonly "GooglePlayMusic": readonly [ "music.google.com", "music.youtube.com" ];
+  readonly "GooglePlus": readonly [ "plus.google.com" ];
+  readonly "GoogleScholar": readonly [ "googlescholar", "scholar.google.com" ];
+  readonly "GoToMeeting": readonly [ "goto.com" ];
+  readonly "GrooveShark": readonly [ "groovesharks.org" ];
+  readonly "GrundosCafe": readonly [ "grundos.cafe" ];
+  readonly "Guilded": readonly [ "guilded.gg" ];
+  readonly "Gumroad": readonly [ "gumroad.com" ];
+  readonly "Guru": readonly [ "guru.com" ];
+  readonly "Gust": readonly [ "gust.com" ];
+  readonly "HackerNews": readonly [ "thehackernews.com" ];
+  readonly "HackerOne": readonly [ "hackerone.com" ];
+  readonly "HackerRank": readonly [ "hackerrank.com" ];
+  readonly "HearthStone": readonly [ "hearthstone.blizzard.com" ];
+  readonly "Hellocoton": readonly [ "hellocoton.fr" ];
+  readonly "Heroes": readonly [ "thunderpick.io" ];
+  readonly "Hipolink": readonly [ "hipolink.net" ];
+  readonly "HomeAdvisor": readonly [ "homeadvisor.com" ];
+  readonly "Homefy": readonly [ "ahomefy.com" ];
+  readonly "Homes": readonly [ "homes.com" ];
+  readonly "Horde": readonly [];
+  readonly "Houzz": readonly [ "houzz.com" ];
+  readonly "Hypixel": readonly [ "hypixel.net" ];
+  readonly "IbisPaint": readonly [ "ibispaint.com" ];
+  readonly "Icq": readonly [ "icq.com" ];
+  readonly "Identica": readonly [ "identi.ca" ];
+  readonly "IMDb": readonly [ "imdb.com" ];
+  readonly "Imgur": readonly [ "imgur.com" ];
+  readonly "IndieDB": readonly [ "indiedb.com" ];
+  readonly "Inkblot": readonly [ "inkblot.art" ];
+  readonly "InkBunny": readonly [ "inkbunny.net" ];
+  readonly "Inkitt": readonly [ "inkitt.com" ];
+  readonly "Instagram": readonly [ "instagram.com" ];
+  readonly "Instructables": readonly [ "instructables.com" ];
+  readonly "Internet": readonly [];
+  readonly "Invision": readonly [ "in-vision.webflow.io" ];
+  readonly "Issuu": readonly [ "issuu.com" ];
+  readonly "Istock": readonly [ "istockphoto.com" ];
+  readonly "Itaku": readonly [ "itaku.ee" ];
+  readonly "Itchio": readonly [ "itch.io" ];
+  readonly "Itunes": readonly [ "music.apple.com" ];
+  readonly "Jamendo": readonly [ "jamendo.com" ];
+  readonly "jsr": readonly [ "jsr.io" ];
+  readonly "Juxt": readonly [ "juxt.pretendo.network" ];
+  readonly "KakaoTalk": readonly [ "kakaocorp.com" ];
+  readonly "KeyBase": readonly [ "keybase.io" ];
+  readonly "Kickstarter": readonly [ "kickstarter.com" ];
+  readonly "Kitsu": readonly [ "kitsu.io" ];
+  readonly "Ko-Fi": readonly [ "kofi", "ko-fi.com" ];
+  readonly "Kobo": readonly [ "kobo.com" ];
+  readonly "KomiMart": readonly [ "komimart.com" ];
+  readonly "Koo": readonly [ "kooapp.com" ];
+  readonly "Lanyrd": readonly [ "lanyrd" ];
+  readonly "LastFM": readonly [ "last.fm" ];
+  readonly "LeprdSpace": readonly [ "leprdspace", "leprd.space" ];
+  readonly "LetterBoxd": readonly [ "letterboxd.com" ];
+  readonly "LiberaPay": readonly [ "liberapay.com" ];
+  readonly "Line": readonly [ "line" ];
+  readonly "Link": readonly [ "link" ];
+  readonly "LinkedIn": readonly [ "linkedin.com" ];
+  readonly "LinkStack": readonly [ "linkstack.org" ];
+  readonly "Linktree": readonly [ "linktr.ee" ];
+  readonly "LinuxMint": readonly [ "linuxmint.com" ];
+  readonly "Lioden": readonly [ "lioden.com" ];
+  readonly "LiveJournal": readonly [ "livejournal.com" ];
+  readonly "LiveMaster": readonly [ "livemaster.com" ];
+  readonly "lobsters": readonly [ "lobste.rs" ];
+  readonly "LogMeIn": readonly [ "logmein.com" ];
+  readonly "Loomly": readonly [ "loomly.com" ];
+  readonly "Lyft": readonly [ "lyft.com" ];
+  readonly "macOS": readonly [ "macos" ];
+  readonly "Mail": readonly [ "mail.com" ];
+  readonly "Mailru": readonly [ "mail.ru" ];
+  readonly "MakeShip": readonly [ "makeship.com" ];
+  readonly "Mastodon": readonly [ "mastodon.social" ];
+  readonly "Matrix": readonly [ "matrix.org" ];
+  readonly "MediaWiki": readonly [ "mediawiki.org" ];
+  readonly "Medium": readonly [ "medium.com" ];
+  readonly "Meetup": readonly [ "meetup.com" ];
+  readonly "Messenger": readonly [ "messenger.com" ];
+  readonly "Metapop": readonly [ "metapop.com" ];
+  readonly "Microsoft": readonly [ "microsoft.com" ];
+  readonly "Minecraft": readonly [ "minecraft.net" ];
+  readonly "MissKey": readonly [ "misskey-hub.net" ];
+  readonly "Mix": readonly [ "mix" ];
+  readonly "mixcloud": readonly [ "mixcloud.com" ];
+  readonly "Mixer": readonly [ "mixer.com" ];
+  readonly "MobCrush": readonly [ "mobcrush" ];
+  readonly "Moddb": readonly [ "moddb.com" ];
+  readonly "ModelMayhem": readonly [ "modelmayhem.com" ];
+  readonly "ModerNeopets": readonly [ "moderneopets", "moderneopets.com" ];
+  readonly "Modrinth": readonly [ "modrinth.com" ];
+  readonly "Mumble": readonly [ "mumble.info" ];
+  readonly "MyAnimeList": readonly [ "myanimelist.net" ];
+  readonly "MySpace": readonly [ "myspace.com" ];
+  readonly "NameMC": readonly [ "namemc.com" ];
+  readonly "NamiComi": readonly [ "namicomi.com" ];
+  readonly "NaNoWriMo": readonly [ "nanowrimo.org" ];
+  readonly "Napster": readonly [ "napster.com" ];
+  readonly "Natgeo": readonly [ "nationalgeographic.com" ];
+  readonly "Naver": readonly [ "naver.com" ];
+  readonly "Nekoweb": readonly [ "nekoweb.org" ];
+  readonly "Neocities": readonly [ "neocities.org" ];
+  readonly "Neopets": readonly [ "neopets.com" ];
+  readonly "Newgrounds": readonly [ "newgrounds.com" ];
+  readonly "NewsVine": readonly [ "newsvine.com" ];
+  readonly "Nextdoor": readonly [ "nextdoor.com" ];
+  readonly "NexusMods": readonly [ "nexus", "nexusmods.com" ];
+  readonly "Niconico": readonly [ "nicovideo.jp" ];
+  readonly "Nintendo": readonly [ "nintendo.com" ];
+  readonly "Npm": readonly [ "npmjs.com" ];
+  readonly "NuzlockeForums": readonly [ "nuzlockeforums.com" ];
+  readonly "Odnoklassniki": readonly [ "ok.ru" ];
+  readonly "onedev": readonly [ "onedev.io" ];
+  readonly "OpenCollective": readonly [ "opencollective.com" ];
+  readonly "OpenGameArt": readonly [ "opengameart.org" ];
+  readonly "OpenWorkbook": readonly [ "openworkbook" ];
+  readonly "Opera": readonly [ "opera.com" ];
+  readonly "Origin": readonly [ "ea.com/ea-app" ];
+  readonly "Outlook": readonly [ "outlook.com" ];
+  readonly "Overwatch": readonly [ "overwatch.blizzard.com" ];
+  readonly "Pandora": readonly [ "pandora.net" ];
+  readonly "PaperDemon": readonly [ "paperdemon.com" ];
+  readonly "PaperMC": readonly [ "papermc.io" ];
+  readonly "Patreon": readonly [ "patreon.com" ];
+  readonly "Paypal": readonly [ "paypal.com" ];
+  readonly "Periscope": readonly [ "pscp.tv" ];
+  readonly "Persona": readonly [ "persona" ];
+  readonly "Picarto": readonly [ "picarto.tv" ];
+  readonly "Piczel": readonly [ "piczel.tv" ];
+  readonly "PillowFort": readonly [ "pillowfort.social" ];
+  readonly "Pinterest": readonly [ "pinterest.com" ];
+  readonly "Pixilart": readonly [ "pixilart.com" ];
+  readonly "Pixiv": readonly [ "pixiv.net" ];
+  readonly "Plancke": readonly [ "plancke.io" ];
+  readonly "Play": readonly [ "play" ];
+  readonly "Player": readonly [ "player.pl" ];
+  readonly "PlayStation": readonly [ "playstation.com" ];
+  readonly "Plurk": readonly [ "plurk.com" ];
+  readonly "Pocket": readonly [ "getpocket.com" ];
+  readonly "Polar": readonly [ "polar.sh" ];
+  readonly "Printables": readonly [ "printables.com" ];
+  readonly "Pronounscc": readonly [ "pronouns.cc" ];
+  readonly "PronounsPage": readonly [ "en.pronouns.page" ];
+  readonly "Pronouny": readonly [ "pronouny.xyz" ];
+  readonly "Px": readonly [ "500px.com" ];
+  readonly "Qobuz": readonly [ "qobuz.com" ];
+  readonly "Qq": readonly [ "qq.com" ];
+  readonly "QRcode": readonly [ "qrcode" ];
+  readonly "Quora": readonly [ "quora.com" ];
+  readonly "Quotev": readonly [ "quotev.com" ];
+  readonly "RaidCall": readonly [ "raidcall.com" ];
+  readonly "RateYourMusic": readonly [ "rateyourmusic.com" ];
+  readonly "Ravelry": readonly [ "ravelry.com" ];
+  readonly "Realtor": readonly [ "realtor.com" ];
+  readonly "reCAPTCHA": readonly [ "recaptcha", "captcha" ];
+  readonly "RedBubble": readonly [ "redbubble.com" ];
+  readonly "Reddit": readonly [ "reddit.com" ];
+  readonly "Redfin": readonly [ "redfin.com" ];
+  readonly "RefSheet": readonly [ "refsheet.net" ];
+  readonly "Remote": readonly [ "remote.com" ];
+  readonly "Renderosity": readonly [ "renderosity.com" ];
+  readonly "Renren": readonly [ "renren.com" ];
+  readonly "Rentry": readonly [ "rentry.co" ];
+  readonly "ResearchGate": readonly [ "researchgate.net" ];
+  readonly "ResidentAdvisor": readonly [ "ra.co" ];
+  readonly "RetroAchievements": readonly [ "retroachievements.org" ];
+  readonly "Retrospring": readonly [ "retrospring.net" ];
+  readonly "ReverbNation": readonly [ "reverbnation.com" ];
+  readonly "Roblox": readonly [ "roblox.com" ];
+  readonly "RSS": readonly [ "rss.com" ];
+  readonly "Santae": readonly [ "santae.net" ];
+  readonly "Scratch": readonly [ "scratch.dit.edu" ];
+  readonly "Seedrs": readonly [ "seedrs" ];
+  readonly "SeenThis": readonly [ "seenthis.co" ];
+  readonly "Session": readonly [ "getsession.org" ];
+  readonly "SharePoint": readonly [ "microsoft.com/nb-no/microsoft-365/sharepoint" ];
+  readonly "ShareThis": readonly [ "sharethis.com" ];
+  readonly "SheezyArt": readonly [ "sheezyart", "sheezy-art", "sheezy.art" ];
+  readonly "Shopify": readonly [ "shopify.com" ];
+  readonly "Side7": readonly [ "side7.com" ];
+  readonly "Signal": readonly [ "signal.org" ];
+  readonly "Skeb": readonly [ "skeb.jp" ];
+  readonly "SketchersUnited": readonly [ "sketchersunited.org" ];
+  readonly "SketchFab": readonly [ "sketchfab.com" ];
+  readonly "Skype": readonly [ "skype.com" ];
+  readonly "Slack": readonly [ "slack.com" ];
+  readonly "SlideShare": readonly [ "slideshare.net" ];
+  readonly "SmashCast": readonly [ "smashcast.tv" ];
+  readonly "SmashWords": readonly [ "smashwords.com" ];
+  readonly "SmugMug": readonly [ "smugmug.com" ];
+  readonly "SnapChat": readonly [ "snapchat.com" ];
+  readonly "Society6": readonly [ "society6.com" ];
+  readonly "SoFurry": readonly [ "sofurry.com" ];
+  readonly "Soloto": readonly [ "soloto" ];
+  readonly "SongKick": readonly [ "songkick.com" ];
+  readonly "Soroush": readonly [ "soroush" ];
+  readonly "SoundCloud": readonly [ "soundcloud.com" ];
+  readonly "sourcehut": readonly [ "sourcehut.org" ];
+  readonly "SpaceHey": readonly [ "spacehey.com" ];
+  readonly "Spigot": readonly [ "spigotmc.org" ];
+  readonly "Spip": readonly [ "spip.net" ];
+  readonly "Splice": readonly [ "splice.com" ];
+  readonly "Sporcle": readonly [ "sporcle.com" ];
+  readonly "Spotify": readonly [ "spotify.com" ];
+  readonly "SpreadShirt": readonly [ "spreadshirt.com" ];
+  readonly "SquareSpace": readonly [ "squarespace.com" ];
+  readonly "SquidgeWorld": readonly [ "squidgeworld.org" ];
+  readonly "StackExchange": readonly [ "stackexchange.com" ];
+  readonly "StackOverflow": readonly [ "stackoverflow.com" ];
+  readonly "Stage32": readonly [ "stage32.com" ];
+  readonly "StarCraft": readonly [ "starcraft.blizzard.com" ];
+  readonly "StayFriends": readonly [ "stayfriends.de" ];
+  readonly "Steam": readonly [ "store.steampowered.com" ];
+  readonly "SteamDB": readonly [ "steamdb.io" ];
+  readonly "Stitcher": readonly [ "stitcher.com" ];
+  readonly "StoreHouse": readonly [ "storehouse.com" ];
+  readonly "Storenvy": readonly [ "storenvy.com" ];
+  readonly "StoryGraph": readonly [ "thestorygraph.com" ];
+  readonly "Strava": readonly [ "strava.com" ];
+  readonly "StrawPage": readonly [ "straw.page" ];
+  readonly "StreamJar": readonly [ "streamjar" ];
+  readonly "Stripe": readonly [ "stripe.com" ];
+  readonly "StrudelCafe": readonly [ "strudelcafe", "strudel-cafe.com" ];
+  readonly "StumbleUpon": readonly [ "stumbleupon.com" ];
+  readonly "Subeta": readonly [ "subeta.net" ];
+  readonly "SubscribeStar": readonly [ "subscribestar.com" ];
+  readonly "Sudomemo": readonly [ "sudomemo.net" ];
+  readonly "Swarm": readonly [ "swarm" ];
+  readonly "Tapas": readonly [ "tapas.io" ];
+  readonly "TeamSpeak": readonly [ "teamspeak.com" ];
+  readonly "TeamViewer": readonly [ "teamviewer.com" ];
+  readonly "Technic": readonly [ "technicpack.net" ];
+  readonly "Technorati": readonly [ "technorati.com" ];
+  readonly "Teepublic": readonly [ "teepublic.com" ];
+  readonly "Teespring": readonly [ "teespring.com" ];
+  readonly "Telegram": readonly [ "telegram.org" ];
+  readonly "Thingiverse": readonly [ "thingiverse.com" ];
+  readonly "Threads": readonly [ "threads.net" ];
+  readonly "Threema": readonly [ "threema.com" ];
+  readonly "Throne": readonly [ "throne.com" ];
+  readonly "Tidal": readonly [ "tidal.com" ];
+  readonly "TiddlyWiki": readonly [ "tiddlywiki.com" ];
+  readonly "Tiktok": readonly [ "tiktok.com" ];
+  readonly "Tinder": readonly [ "tinder.com" ];
+  readonly "ToneDen": readonly [ "toneden.io" ];
+  readonly "Toptal": readonly [ "toptal.com" ];
+  readonly "Torial": readonly [ "torial.com" ];
+  readonly "ToyHouse": readonly [ "toyhou.se" ];
+  readonly "Tracks": readonly [ "8tracks.com" ];
+  readonly "TraxSource": readonly [ "traxsource.com" ];
+  readonly "Trello": readonly [ "trello.com" ];
+  readonly "TripAdvisor": readonly [ "tripadvisor.com" ];
+  readonly "Tripit": readonly [ "tripit.com" ];
+  readonly "TripleJ": readonly [ "abc.net.au/triplej" ];
+  readonly "Trulia": readonly [ "trulia.com" ];
+  readonly "Tumblr": readonly [ "tumblr.com" ];
+  readonly "TuneIn": readonly [ "tunein.com" ];
+  readonly "Twitch": readonly [ "twitch.tv" ];
+  readonly "Twitter": readonly [ "twitter.com" ];
+  readonly "Uber": readonly [ "uber.com" ];
+  readonly "Ubuntu": readonly [ "ubuntu.com" ];
+  readonly "Udemy": readonly [ "udemy.com" ];
+  readonly "UnSplash": readonly [ "unsplash.com" ];
+  readonly "UnVale": readonly [ "unvale.io" ];
+  readonly "UpWork": readonly [ "upwork.com" ];
+  readonly "Ventrilo": readonly [ "ventrilo.com" ];
+  readonly "VGen": readonly [ "vgen.co" ];
+  readonly "Viadeo": readonly [ "viadeo.com" ];
+  readonly "Viber": readonly [ "viber.com" ];
+  readonly "ViewBug": readonly [ "viewbug.com" ];
+  readonly "Vimeo": readonly [ "vimeo.com" ];
+  readonly "Vkontakte": readonly [ "vk.com" ];
+  readonly "VRChat": readonly [ "vrchat.com" ];
+  readonly "Vsco": readonly [ "vsco.co" ];
+  readonly "VStream": readonly [ "vstream.com" ];
+  readonly "Warcraft": readonly [ "worldofwarcraft.blizzard.com" ];
+  readonly "Wattpad": readonly [ "wattpad.com" ];
+  readonly "Wavebox": readonly [ "wavebox.io" ];
+  readonly "Weasyl": readonly [ "weasyl.com" ];
+  readonly "Webtoon": readonly [ "webtoons.com" ];
+  readonly "WeChat": readonly [ "wechat.com" ];
+  readonly "Weibo": readonly [ "weibo.com" ];
+  readonly "WhatsApp": readonly [ "whatsapp.com" ];
+  readonly "Wickr": readonly [ "wickr.com" ];
+  readonly "Wikipedia": readonly [ "wikipedia.org" ];
+  readonly "WindGuru": readonly [ "windguru.cz" ];
+  readonly "Windows": readonly [ "windows.com" ];
+  readonly "Wix": readonly [ "wix.com" ];
+  readonly "WordPress": readonly [ "wordpress.com" ];
+  readonly "WorldAnvil": readonly [ "worldanvil.com" ];
+  readonly "Wykop": readonly [ "wykop.pl" ];
+  readonly "X": readonly [ "theplatformformerlyknownastwitter", "unicode-x", "x.com" ];
+  readonly "Xbox": readonly [ "xbox.com" ];
+  readonly "Xing": readonly [ "xing.com" ];
+  readonly "Yahoo": readonly [ "yahoo.com" ];
+  readonly "Yammer": readonly [ "yammer.com" ];
+  readonly "Yandex": readonly [ "yandex.com" ];
+  readonly "Yelp": readonly [ "yelp.com" ];
+  readonly "Yooco": readonly [ "yooco.org" ];
+  readonly "YouNow": readonly [ "younow.com" ];
+  readonly "Youtube": readonly [ "youtube.com" ];
+  readonly "YTGaming": readonly [ "ytgaming", "yt-gaming" ];
+  readonly "Zapier": readonly [ "zapier.com" ];
+  readonly "Zazzle": readonly [ "zazzle.com" ];
+  readonly "Zenius-I-Vanisher": readonly [ "zenius-i-vanisher.com" ];
+  readonly "Zerply": readonly [ "zerply.com" ];
+  readonly "Zillow": readonly [ "zillow.com" ];
+  readonly "Zomato": readonly [ "zomato.com" ];
+  readonly "Zoom": readonly [ "zoom.com" ];
+  readonly "Zynga": readonly [ "zynga.com" ];
+};

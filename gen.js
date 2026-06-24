@@ -1,78 +1,83 @@
-import fs from "fs";
+import fs from "node:fs/promises";
 
-fs.readFile("./selection.json", "utf8", (err, data) => {
-  if (err) {
-    console.error(err);
+/**
+ * Renders a name-to-strings map as a valid ambient TypeScript type literal of readonly tuples
+ *
+ * @param map - Object whose values are arrays of strings
+ */
+const typeLiteral = map => {
+  const lines = Object
+    .entries(map)
+    .map(([ name, values ]) => {
+      const tuple = values.length
+        ? `readonly [ ${ values.map(value => JSON.stringify(value)).join(", ") } ]`
+        : "readonly []";
 
-    return;
-  }
+      return `  readonly ${ JSON.stringify(name) }: ${ tuple };`;
+    });
 
-  const selection = JSON.parse(
-    data
-  );
+  return `{\n${ lines.join("\n") }\n}`;
+};
 
-  const icons = Object
-    .fromEntries(
-      selection.icons
-        .map(
-          icon => [
-            icon.properties.name,
-            icon.properties.ligatures.split(",").map(s => s.trim()).filter(Boolean)
-          ]
-        )
-        .sort(
-          (a, b) =>
-            a[ 0 ] - b[ 0 ]
-        )
-    );
+const selection = JSON.parse(
+  await fs.readFile("./selection.json", "utf8")
+);
 
-  fs.writeFile("./icons.js", `/**
- * Icons are listed with their display name as the key, and a list of applicable ligatures as the value.
+const icons = Object.fromEntries(
+  selection.icons
+    .map(icon => [
+      icon.properties.name,
+      icon.properties.ligatures.split(",").map(ligature => ligature.trim()).filter(Boolean)
+    ])
+    .sort((a, b) => a[ 0 ].localeCompare(b[ 0 ]))
+);
+
+// Domains are curated by hand, so reuse the previous run's values and seed only brand-new icons with an empty list
+const existingHostnames = await fs
+  .readFile("./hostnames.js", "utf8")
+  .then(text => JSON.parse(text.slice(text.indexOf("{"), text.lastIndexOf("}") + 1)))
+  .catch(() => ({}));
+
+const hostnames = Object.fromEntries(
+  Object.keys(icons).map(name => [ name, existingHostnames[ name ] ?? [] ])
+);
+
+await fs.writeFile("./icons.js", `/**
+ * Icons are listed with their display name as the key, and a list of applicable ligatures as the value
  *
  * @example
  * icons.Twitter // [ "twitter", "x-twitter", "twitter-x" ]
  */
-export const icons = ${ JSON.stringify(icons, null, 2) };`, err => {
-    if (err) {
-      console.error(err);
-    }
-  });
+export const icons = ${ JSON.stringify(icons, null, 2) };
+`);
 
-  fs.writeFile("./icons.d.ts", `/**
- * Icons are listed with their display name as the key, and a list of applicable ligatures as the value.
+await fs.writeFile("./icons.d.ts", `/**
+ * Icons are listed with their display name as the key, and a list of applicable ligatures as the value
  *
  * @example
  * icons.Twitter // [ "twitter", "x-twitter", "twitter-x" ]
  */
-export declare const icons = ${ JSON.stringify(icons, null, 2) } as const;`, err => {
-    if (err) {
-      console.error(err);
-    }
-  });
+export declare const icons: ${ typeLiteral(icons) };
+`);
 
-  fs.writeFile("./hostnames.js", `/**
- * Icons are listed with their display name as the key, and a list of applicable hostnames as the value.
+await fs.writeFile("./hostnames.js", `/**
+ * Hostnames are listed with their display icon name as the key, and a list of associated domains as the value
  *
  * @example
- * icons.Twitter // [ "twitter.com", "x.com" ]
+ * hostnames.Twitter // [ "twitter.com" ]
  */
-export const hostnames = ${ JSON.stringify(icons, null, 2) };`, err => {
-    if (err) {
-      console.error(err);
-    }
-  });
+export const hostnames = ${ JSON.stringify(hostnames, null, 2) };
+`);
 
-  fs.writeFile("./hostnames.d.ts", `/**
- * Icons are listed with their display name as the key, and a list of applicable hostnames as the value.
+await fs.writeFile("./hostnames.d.ts", `/**
+ * Hostnames are listed with their display icon name as the key, and a list of associated domains as the value
  *
  * @example
- * icons.Twitter // [ "twitter.com", "x.com" ]
+ * hostnames.Twitter // [ "twitter.com" ]
  */
-export declare const hostnames = ${ JSON.stringify(icons, null, 2) } as const;`, err => {
-    if (err) {
-      console.error(err);
-    }
-  });
+export declare const hostnames: ${ typeLiteral(hostnames) };
+`);
 
-  console.log("Icon sets generated successfully. New domain names must be parsed manually.");
-});
+const seeded = Object.keys(icons).filter(name => !(name in existingHostnames));
+
+console.log(`Generated ${ Object.keys(icons).length } icons. ${ seeded.length ? `Add domains for: ${ seeded.join(", ") }` : "All hostnames preserved." }`);

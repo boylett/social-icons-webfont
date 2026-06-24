@@ -1,1504 +1,498 @@
 /**
- * Icons are listed with their display name as the key, and a list of applicable ligatures as the value.
+ * Icons are listed with their display name as the key, and a list of applicable ligatures as the value
  *
  * @example
  * icons.Twitter // [ "twitter", "x-twitter", "twitter-x" ]
  */
-export declare const icons = {
-  "4dopt": [
-    "4dopt"
-  ],
-  "9Gag": [
-    "9gag"
-  ],
-  "AdobePortfolio": [
-    "portfolio",
-    "adobeportfolio"
-  ],
-  "Afdian": [
-    "afdian"
-  ],
-  "AirBnB": [
-    "airbnb"
-  ],
-  "AliExpress": [
-    "aliexpress"
-  ],
-  "Alibaba": [
-    "alibaba"
-  ],
-  "AllMyLinks": [
-    "allmylinks"
-  ],
-  "Alliance": [
-    "alliance"
-  ],
-  "Amazon": [
-    "amazon"
-  ],
-  "Amplement": [
-    "amplement"
-  ],
-  "Android": [
-    "android"
-  ],
-  "AngelList": [
-    "angellist"
-  ],
-  "AngiesList": [
-    "angieslist"
-  ],
-  "AnimalJam": [
-    "animaljam"
-  ],
-  "AnimationFramework": [
-    "animationframework",
-    "theanimationframework"
-  ],
-  "AnimePlanet": [
-    "animeplanet"
-  ],
-  "AnthroArt": [
-    "anthroart"
-  ],
-  "Anthrodex": [
-    "anthrodex"
-  ],
-  "AppNet": [
-    "appnet"
-  ],
-  "AppStore": [
-    "appstore"
-  ],
-  "Apple": [
-    "apple"
-  ],
-  "ArchLinux": [
-    "archlinux"
-  ],
-  "ArchiveOfOurOwn": [
-    "archiveofourown"
-  ],
-  "Archiveorg": [
-    "archive",
-    "archive.org",
-    "archiveorg"
-  ],
-  "ArtFight": [
-    "artfight"
-  ],
-  "ArtHaven": [
-    "arthaven"
-  ],
-  "ArtStation": [
-    "artstation"
-  ],
-  "Artconomy": [
-    "artconomy"
-  ],
-  "Artfol": [
-    "artfol"
-  ],
-  "Artistree": [
-    "artistree"
-  ],
-  "Ask": [
-    "ask"
-  ],
-  "Atabook": [
-    "atabook"
-  ],
-  "Augment": [
-    "augment"
-  ],
-  "Avvo": [
-    "avvo"
-  ],
-  "Backloggd": [
-    "backloggd"
-  ],
-  "Baidu": [
-    "baidu"
-  ],
-  "Bale": [
-    "bale"
-  ],
-  "BandCamp": [
-    "bandcamp"
-  ],
-  "Barq": [
-    "barq"
-  ],
-  "BattleNet": [
-    "battlenet"
-  ],
-  "BeBee": [
-    "bebee"
-  ],
-  "Beacons": [
-    "beacons"
-  ],
-  "BeatPort": [
-    "beatport"
-  ],
-  "Bebo": [
-    "bebo"
-  ],
-  "Behance": [
-    "behance"
-  ],
-  "BigCartel": [
-    "bigcartel"
-  ],
-  "Bing": [
-    "bing"
-  ],
-  "BitBucket": [
-    "bitbucket"
-  ],
-  "Blackberry": [
-    "blackberry"
-  ],
-  "Blingee": [
-    "blingee"
-  ],
-  "Blizzard": [
-    "blizzard"
-  ],
-  "Blogger": [
-    "blogger"
-  ],
-  "Bloglovin": [
-    "bloglovin"
-  ],
-  "BlueSky": [
-    "bluesky",
-    "blue-sky"
-  ],
-  "Bonanza": [
-    "bonanza"
-  ],
-  "Bookbub": [
-    "bookbub"
-  ],
-  "Booking": [
-    "booking"
-  ],
-  "Boosty": [
-    "boosty"
-  ],
-  "Buffer": [
-    "buffer"
-  ],
-  "Bukkit": [
-    "bukkit"
-  ],
-  "BuyMeACoffee": [
-    "buymeacoffee"
-  ],
-  "Buzzly": [
-    "buzzly",
-    "buzzlyart"
-  ],
-  "Calendly": [
-    "calendly"
-  ],
-  "Cara": [
-    "cara"
-  ],
-  "Carrd": [
-    "carrd"
-  ],
-  "CdBaby": [
-    "cdbaby"
-  ],
-  "CharacterHub": [
-    "characterhub"
-  ],
-  "ChickenSmoothie": [
-    "chickensmoothie"
-  ],
-  "Chrome": [
-    "chrome"
-  ],
-  "CodePen": [
-    "codepen"
-  ],
-  "Codeberg": [
-    "codeberg"
-  ],
-  "CoderWall": [
-    "coderwall"
-  ],
-  "Codered": [
-    "codered"
-  ],
-  "Cohost": [
-    "cohost"
-  ],
-  "Collectorz": [
-    "collectorz"
-  ],
-  "ComicFury": [
-    "comicfury"
-  ],
-  "Commishes": [
-    "commishes"
-  ],
-  "CraigsList": [
-    "craigslist"
-  ],
-  "CrunchBase": [
-    "crunchbase"
-  ],
-  "Curiouscat": [
-    "curiouscat"
-  ],
-  "Curse": [
-    "curse"
-  ],
-  "DNAxCAT": [
-    "dnaxcat"
-  ],
-  "Dailymotion": [
-    "dailymotion"
-  ],
-  "Daz3D": [
-    "daz3d"
-  ],
-  "Debian": [
-    "debian"
-  ],
-  "Deezer": [
-    "deezer"
-  ],
-  "Delicious": [
-    "delicious"
-  ],
-  "Deviantart": [
-    "deviantart"
-  ],
-  "Diablo": [
-    "diablo"
-  ],
-  "Dibujando": [
-    "dibujando"
-  ],
-  "Digg": [
-    "digg"
-  ],
-  "DigitalOcean": [
-    "digitalocean",
-    "digital-ocean"
-  ],
-  "Discord": [
-    "discord"
-  ],
-  "Displate": [
-    "displate"
-  ],
-  "Disqus": [
-    "disqus"
-  ],
-  "Dlive": [
-    "dlive"
-  ],
-  "Donorbox": [
-    "donorbox"
-  ],
-  "Doodle": [
-    "doodle"
-  ],
-  "Douban": [
-    "douban"
-  ],
-  "Draugiem": [
-    "draugiem"
-  ],
-  "DreamWidth": [
-    "dreamwidth"
-  ],
-  "Dribbble": [
-    "dribbble"
-  ],
-  "Dropbox": [
-    "dropbox"
-  ],
-  "Drupal": [
-    "drupal"
-  ],
-  "E-Zbio": [
-    "e-zbio",
-    "ezbio"
-  ],
-  "Ebay": [
-    "ebay"
-  ],
-  "Eitaa": [
-    "eitaa"
-  ],
-  "Element": [
-    "element"
-  ],
-  "ElementaryOS": [
-    "elementaryos"
-  ],
-  "Ello": [
-    "ello"
-  ],
-  "Endomodo": [
-    "endomodo"
-  ],
-  "Envato": [
-    "envato"
-  ],
-  "Epic": [
-    "epic",
-    "epicgames"
-  ],
-  "Escargot": [
-    "escargot"
-  ],
-  "Etsy": [
-    "etsy"
-  ],
-  "Facebook": [
-    "facebook"
-  ],
-  "FanFiction": [
-    "fanfiction"
-  ],
-  "Fanbox": [
-    "fanbox"
-  ],
-  "Fandom": [
-    "fandom"
-  ],
-  "Fanlore": [
-    "fanlore"
-  ],
-  "Fantia": [
-    "fantia"
-  ],
-  "Fediverse": [
-    "fediverse"
-  ],
-  "FeedBurner": [
-    "feedburner"
-  ],
-  "Fenrecs": [
-    "fenrecs"
-  ],
-  "Filegarden": [
-    "filegarden"
-  ],
-  "FilmFreeway": [
-    "filmfreeway"
-  ],
-  "FilmWeb": [
-    "filmweb"
-  ],
-  "Firefox": [
-    "firefox"
-  ],
-  "Fiverr": [
-    "fiverr"
-  ],
-  "Flash": [
-    "flash"
-  ],
-  "Flattr": [
-    "flattr"
-  ],
-  "Flickr": [
-    "flickr"
-  ],
-  "FlightRising": [
-    "flightrising"
-  ],
-  "FlipBoard": [
-    "flipboard"
-  ],
-  "Flipnote": [
-    "flipnote"
-  ],
-  "FlowCode": [
-    "flowcode",
-    "flowpage"
-  ],
-  "Forgejo": [
-    "forgejo"
-  ],
-  "Formulr": [
-    "formulr"
-  ],
-  "Forrst": [
-    "forrst"
-  ],
-  "FourSquare": [
-    "foursquare"
-  ],
-  "Freelancer": [
-    "freelancer"
-  ],
-  "FriendFeed": [
-    "friendfeed"
-  ],
-  "FriendlyCaptcha": [
-    "friendlycaptcha"
-  ],
-  "Fundable": [
-    "fundable"
-  ],
-  "FurAffinity": [
-    "furaffinity"
-  ],
-  "FurryNetwork": [
-    "furrynetwork"
-  ],
-  "FurryPaws": [
-    "furrypaws",
-    "furry-paws"
-  ],
-  "Furtastic": [
-    "furtastic"
-  ],
-  "Furvilla": [
-    "furvilla"
-  ],
-  "Fyuse": [
-    "fyuse"
-  ],
-  "GOG": [
-    "gog"
-  ],
-  "GaiaOnline": [
-    "gaiaonline"
-  ],
-  "GameFor": [
-    "gamefor"
-  ],
-  "GameJolt": [
-    "gamejolt"
-  ],
-  "GameWisp": [
-    "gamewisp"
-  ],
-  "Gamebanana": [
-    "gamebanana"
-  ],
-  "Genius": [
-    "genius"
-  ],
-  "Ghost": [
-    "ghost"
-  ],
-  "Git": [
-    "git"
-  ],
-  "GitHub": [
-    "github"
-  ],
-  "Gitea": [
-    "gitea"
-  ],
-  "Gitlab": [
-    "gitlab"
-  ],
-  "Gitter": [
-    "gitter"
-  ],
-  "Glaze": [
-    "glaze"
-  ],
-  "GlobalComix": [
-    "globalcomix"
-  ],
-  "Gnome": [
-    "gnome"
-  ],
-  "GoFundMe": [
-    "gofundme"
-  ],
-  "GoToMeeting": [
-    "gotomeeting"
-  ],
-  "Goatlings": [
-    "goatlings"
-  ],
-  "Gogs": [
-    "gogs"
-  ],
-  "GoodReads": [
-    "goodreads"
-  ],
-  "Google": [
-    "google"
-  ],
-  "GoogleCalendar": [
-    "googlecalendar"
-  ],
-  "GoogleDrive": [
-    "googledrive"
-  ],
-  "GoogleGroups": [
-    "googlegroups"
-  ],
-  "GoogleHangouts": [
-    "googlehangouts"
-  ],
-  "GoogleMaps": [
-    "googlemaps"
-  ],
-  "GooglePhotos": [
-    "googlephotos"
-  ],
-  "GooglePlayMusic": [
-    "googleplaymusic"
-  ],
-  "GooglePlus": [
-    "googleplus"
-  ],
-  "GoogleScholar": [
-    "googlescholar",
-    "scholar"
-  ],
-  "GrooveShark": [
-    "grooveshark"
-  ],
-  "GrundosCafe": [
-    "grundoscafe"
-  ],
-  "Guilded": [
-    "guilded"
-  ],
-  "Gumroad": [
-    "gumroad"
-  ],
-  "Guru": [
-    "guru"
-  ],
-  "Gust": [
-    "gust"
-  ],
-  "HackerNews": [
-    "hackernews"
-  ],
-  "HackerOne": [
-    "hackerone"
-  ],
-  "HackerRank": [
-    "hackerrank"
-  ],
-  "HearthStone": [
-    "hearthstone"
-  ],
-  "Hellocoton": [
-    "hellocoton"
-  ],
-  "Heroes": [
-    "heroes"
-  ],
-  "Hipolink": [
-    "hipolink"
-  ],
-  "HomeAdvisor": [
-    "homeadvisor"
-  ],
-  "Homefy": [
-    "homefy"
-  ],
-  "Homes": [
-    "homes"
-  ],
-  "Horde": [
-    "horde"
-  ],
-  "Houzz": [
-    "houzz"
-  ],
-  "Hypixel": [
-    "hypixel"
-  ],
-  "IMDb": [
-    "imdb"
-  ],
-  "IbisPaint": [
-    "ibispaint"
-  ],
-  "Icq": [
-    "icq"
-  ],
-  "Identica": [
-    "identica"
-  ],
-  "Imgur": [
-    "imgur"
-  ],
-  "IndieDB": [
-    "indiedb"
-  ],
-  "InkBunny": [
-    "inkbunny"
-  ],
-  "Inkblot": [
-    "inkblot"
-  ],
-  "Inkitt": [
-    "inkitt"
-  ],
-  "Instagram": [
-    "instagram"
-  ],
-  "Instructables": [
-    "instructables"
-  ],
-  "Internet": [
-    "internet"
-  ],
-  "Invision": [
-    "invision"
-  ],
-  "Issuu": [
-    "issuu"
-  ],
-  "Istock": [
-    "istock"
-  ],
-  "Itaku": [
-    "itaku"
-  ],
-  "Itchio": [
-    "itchio"
-  ],
-  "Itunes": [
-    "itunes"
-  ],
-  "Jamendo": [
-    "jamendo"
-  ],
-  "Juxt": [
-    "juxt"
-  ],
-  "KakaoTalk": [
-    "kakaotalk"
-  ],
-  "KeyBase": [
-    "keybase"
-  ],
-  "Kickstarter": [
-    "kickstarter"
-  ],
-  "Kitsu": [
-    "kitsu"
-  ],
-  "Ko-Fi": [
-    "kofi",
-    "ko-fi"
-  ],
-  "Kobo": [
-    "kobo"
-  ],
-  "KomiMart": [
-    "komimart"
-  ],
-  "Koo": [
-    "koo"
-  ],
-  "Lanyrd": [
-    "lanyrd"
-  ],
-  "LastFM": [
-    "lastfm"
-  ],
-  "LeprdSpace": [
-    "leprdspace",
-    "leprd.space"
-  ],
-  "LetterBoxd": [
-    "letterboxd"
-  ],
-  "LiberaPay": [
-    "liberapay"
-  ],
-  "Line": [
-    "line"
-  ],
-  "Link": [
-    "link"
-  ],
-  "LinkStack": [
-    "linkstack"
-  ],
-  "LinkedIn": [
-    "linkedin"
-  ],
-  "Linktree": [
-    "linktree"
-  ],
-  "LinuxMint": [
-    "linuxmint"
-  ],
-  "Lioden": [
-    "lioden"
-  ],
-  "LiveJournal": [
-    "livejournal"
-  ],
-  "LiveMaster": [
-    "livemaster"
-  ],
-  "LogMeIn": [
-    "logmein"
-  ],
-  "Loomly": [
-    "loomly"
-  ],
-  "Lyft": [
-    "lyft"
-  ],
-  "Mail": [
-    "mail"
-  ],
-  "Mailru": [
-    "mailru"
-  ],
-  "MakeShip": [
-    "makeship"
-  ],
-  "Mastodon": [
-    "mastodon"
-  ],
-  "Matrix": [
-    "matrix"
-  ],
-  "MediaWiki": [
-    "mediawiki"
-  ],
-  "Medium": [
-    "medium"
-  ],
-  "Meetup": [
-    "meetup"
-  ],
-  "Messenger": [
-    "messenger"
-  ],
-  "Metapop": [
-    "metapop"
-  ],
-  "Microsoft": [
-    "microsoft"
-  ],
-  "Minecraft": [
-    "minecraft"
-  ],
-  "MissKey": [
-    "misskey"
-  ],
-  "Mix": [
-    "mix"
-  ],
-  "Mixer": [
-    "mixer"
-  ],
-  "MobCrush": [
-    "mobcrush"
-  ],
-  "Moddb": [
-    "moddb"
-  ],
-  "ModelMayhem": [
-    "modelmayhem"
-  ],
-  "ModerNeopets": [
-    "moderneopets",
-    "modernneopets"
-  ],
-  "Modrinth": [
-    "modrinth"
-  ],
-  "Mumble": [
-    "mumble"
-  ],
-  "MyAnimeList": [
-    "myanimelist"
-  ],
-  "MySpace": [
-    "myspace"
-  ],
-  "NaNoWriMo": [
-    "nanowrimo"
-  ],
-  "NameMC": [
-    "namemc"
-  ],
-  "NamiComi": [
-    "namicomi"
-  ],
-  "Napster": [
-    "napster"
-  ],
-  "Natgeo": [
-    "natgeo"
-  ],
-  "Naver": [
-    "naver"
-  ],
-  "Nekoweb": [
-    "nekoweb"
-  ],
-  "Neocities": [
-    "neocities"
-  ],
-  "Neopets": [
-    "neopets"
-  ],
-  "Newgrounds": [
-    "newgrounds"
-  ],
-  "NewsVine": [
-    "newsvine"
-  ],
-  "Nextdoor": [
-    "nextdoor"
-  ],
-  "NexusMods": [
-    "nexus",
-    "nexusmods"
-  ],
-  "Niconico": [
-    "niconico"
-  ],
-  "Nintendo": [
-    "nintendo"
-  ],
-  "Npm": [
-    "npm"
-  ],
-  "NuzlockeForums": [
-    "nuzlockeforums"
-  ],
-  "Odnoklassniki": [
-    "odnoklassniki"
-  ],
-  "OpenCollective": [
-    "opencollective"
-  ],
-  "OpenGameArt": [
-    "opengameart"
-  ],
-  "OpenWorkbook": [
-    "openworkbook"
-  ],
-  "Opera": [
-    "opera"
-  ],
-  "Origin": [
-    "origin"
-  ],
-  "Outlook": [
-    "outlook"
-  ],
-  "Overwatch": [
-    "overwatch"
-  ],
-  "Pandora": [
-    "pandora"
-  ],
-  "PaperDemon": [
-    "paperdemon"
-  ],
-  "PaperMC": [
-    "papermc"
-  ],
-  "Patreon": [
-    "patreon"
-  ],
-  "Paypal": [
-    "paypal"
-  ],
-  "Periscope": [
-    "periscope"
-  ],
-  "Persona": [
-    "persona"
-  ],
-  "Picarto": [
-    "picarto"
-  ],
-  "Piczel": [
-    "piczel"
-  ],
-  "PillowFort": [
-    "pillowfort"
-  ],
-  "Pinterest": [
-    "pinterest"
-  ],
-  "Pixilart": [
-    "pixilart"
-  ],
-  "Pixiv": [
-    "pixiv"
-  ],
-  "Plancke": [
-    "plancke"
-  ],
-  "Play": [
-    "play"
-  ],
-  "PlayStation": [
-    "playstation"
-  ],
-  "Player": [
-    "player"
-  ],
-  "Plurk": [
-    "plurk"
-  ],
-  "Pocket": [
-    "pocket"
-  ],
-  "Polar": [
-    "polar"
-  ],
-  "Printables": [
-    "printables"
-  ],
-  "PronounsPage": [
-    "pronounspage"
-  ],
-  "Pronounscc": [
-    "pronounscc"
-  ],
-  "Pronouny": [
-    "pronouny"
-  ],
-  "Px": [
-    "500px"
-  ],
-  "QRcode": [
-    "qrcode"
-  ],
-  "Qobuz": [
-    "qobuz"
-  ],
-  "Qq": [
-    "qq"
-  ],
-  "Quora": [
-    "quora"
-  ],
-  "Quotev": [
-    "quotev"
-  ],
-  "RSS": [
-    "rss"
-  ],
-  "RaidCall": [
-    "raidcall"
-  ],
-  "RateYourMusic": [
-    "rateyourmusic"
-  ],
-  "Ravelry": [
-    "ravelry"
-  ],
-  "Realtor": [
-    "realtor"
-  ],
-  "RedBubble": [
-    "redbubble"
-  ],
-  "Reddit": [
-    "reddit"
-  ],
-  "Redfin": [
-    "redfin"
-  ],
-  "RefSheet": [
-    "refsheet"
-  ],
-  "Remote": [
-    "remote"
-  ],
-  "Renderosity": [
-    "renderosity"
-  ],
-  "Renren": [
-    "renren"
-  ],
-  "Rentry": [
-    "rentry"
-  ],
-  "ResearchGate": [
-    "researchgate"
-  ],
-  "ResidentAdvisor": [
-    "residentadvisor"
-  ],
-  "RetroAchievements": [
-    "retroachievements"
-  ],
-  "Retrospring": [
-    "retrospring"
-  ],
-  "ReverbNation": [
-    "reverbnation"
-  ],
-  "Roblox": [
-    "roblox"
-  ],
-  "Santae": [
-    "santae"
-  ],
-  "Scratch": [
-    "scratch"
-  ],
-  "Seedrs": [
-    "seedrs"
-  ],
-  "SeenThis": [
-    "seenthis"
-  ],
-  "Session": [
-    "session"
-  ],
-  "SharePoint": [
-    "sharepoint"
-  ],
-  "ShareThis": [
-    "sharethis"
-  ],
-  "SheezyArt": [
-    "sheezyart",
-    "sheezy-art",
-    "sheezy"
-  ],
-  "Shopify": [
-    "shopify"
-  ],
-  "Side7": [
-    "side7"
-  ],
-  "Signal": [
-    "signal"
-  ],
-  "Skeb": [
-    "skeb"
-  ],
-  "SketchFab": [
-    "sketchfab"
-  ],
-  "SketchersUnited": [
-    "sketchersunited"
-  ],
-  "Skype": [
-    "skype"
-  ],
-  "Slack": [
-    "slack"
-  ],
-  "SlideShare": [
-    "slideshare"
-  ],
-  "SmashCast": [
-    "smashcast"
-  ],
-  "SmashWords": [
-    "smashwords"
-  ],
-  "SmugMug": [
-    "smugmug"
-  ],
-  "SnapChat": [
-    "snapchat"
-  ],
-  "SoFurry": [
-    "sofurry"
-  ],
-  "Society6": [
-    "society6"
-  ],
-  "Soloto": [
-    "soloto"
-  ],
-  "SongKick": [
-    "songkick"
-  ],
-  "Soroush": [
-    "soroush"
-  ],
-  "SoundCloud": [
-    "soundcloud"
-  ],
-  "SpaceHey": [
-    "spacehey"
-  ],
-  "Spigot": [
-    "spigot"
-  ],
-  "Spip": [
-    "spip"
-  ],
-  "Splice": [
-    "splice"
-  ],
-  "Sporcle": [
-    "sporcle"
-  ],
-  "Spotify": [
-    "spotify"
-  ],
-  "SpreadShirt": [
-    "spreadshirt"
-  ],
-  "SquareSpace": [
-    "squarespace"
-  ],
-  "SquidgeWorld": [
-    "squidgeworld"
-  ],
-  "StackExchange": [
-    "stackexchange"
-  ],
-  "StackOverflow": [
-    "stackoverflow"
-  ],
-  "Stage32": [
-    "stage32"
-  ],
-  "StarCraft": [
-    "starcraft"
-  ],
-  "StayFriends": [
-    "stayfriends"
-  ],
-  "Steam": [
-    "steam"
-  ],
-  "SteamDB": [
-    "steamdb"
-  ],
-  "Stitcher": [
-    "stitcher"
-  ],
-  "StoreHouse": [
-    "storehouse"
-  ],
-  "Storenvy": [
-    "storenvy"
-  ],
-  "StoryGraph": [
-    "storygraph"
-  ],
-  "Strava": [
-    "strava"
-  ],
-  "StrawPage": [
-    "strawpage"
-  ],
-  "StreamJar": [
-    "streamjar"
-  ],
-  "Stripe": [
-    "stripe"
-  ],
-  "StrudelCafe": [
-    "strudelcafe",
-    "strudel-cafe"
-  ],
-  "StumbleUpon": [
-    "stumbleupon"
-  ],
-  "Subeta": [
-    "subeta"
-  ],
-  "SubscribeStar": [
-    "subscribestar"
-  ],
-  "Sudomemo": [
-    "sudomemo"
-  ],
-  "Swarm": [
-    "swarm"
-  ],
-  "Tapas": [
-    "tapas"
-  ],
-  "TeamSpeak": [
-    "teamspeak"
-  ],
-  "TeamViewer": [
-    "teamviewer"
-  ],
-  "Technic": [
-    "technic"
-  ],
-  "Technorati": [
-    "technorati"
-  ],
-  "Teepublic": [
-    "teepublic"
-  ],
-  "Teespring": [
-    "teespring"
-  ],
-  "Telegram": [
-    "telegram"
-  ],
-  "Thingiverse": [
-    "thingiverse"
-  ],
-  "Threads": [
-    "threads"
-  ],
-  "Threema": [
-    "threema"
-  ],
-  "Throne": [
-    "throne"
-  ],
-  "Tidal": [
-    "tidal"
-  ],
-  "TiddlyWiki": [
-    "tiddlywiki"
-  ],
-  "Tiktok": [
-    "tiktok"
-  ],
-  "Tinder": [
-    "tinder"
-  ],
-  "ToneDen": [
-    "toneden"
-  ],
-  "Toptal": [
-    "toptal"
-  ],
-  "Torial": [
-    "torial"
-  ],
-  "ToyHouse": [
-    "toyhouse"
-  ],
-  "Tracks": [
-    "8tracks"
-  ],
-  "TraxSource": [
-    "traxsource"
-  ],
-  "Trello": [
-    "trello"
-  ],
-  "TripAdvisor": [
-    "tripadvisor"
-  ],
-  "Tripit": [
-    "tripit"
-  ],
-  "TripleJ": [
-    "triplej"
-  ],
-  "Trulia": [
-    "trulia"
-  ],
-  "Tumblr": [
-    "tumblr"
-  ],
-  "TuneIn": [
-    "tunein"
-  ],
-  "Twitch": [
-    "twitch"
-  ],
-  "Twitter": [
-    "twitter",
-    "x-twitter",
-    "twitter-x"
-  ],
-  "Uber": [
-    "uber"
-  ],
-  "Ubuntu": [
-    "ubuntu"
-  ],
-  "Udemy": [
-    "udemy"
-  ],
-  "UnSplash": [
-    "unsplash"
-  ],
-  "UnVale": [
-    "unvale"
-  ],
-  "UpWork": [
-    "upwork"
-  ],
-  "VGen": [
-    "vgen"
-  ],
-  "VRChat": [
-    "vrchat"
-  ],
-  "VStream": [
-    "vstream"
-  ],
-  "Ventrilo": [
-    "ventrilo"
-  ],
-  "Viadeo": [
-    "viadeo"
-  ],
-  "Viber": [
-    "viber"
-  ],
-  "ViewBug": [
-    "viewbug"
-  ],
-  "Vimeo": [
-    "vimeo"
-  ],
-  "Vkontakte": [
-    "vkontakte"
-  ],
-  "Vsco": [
-    "vsco"
-  ],
-  "Warcraft": [
-    "warcraft"
-  ],
-  "Wattpad": [
-    "wattpad"
-  ],
-  "Wavebox": [
-    "wavebox"
-  ],
-  "WeChat": [
-    "wechat"
-  ],
-  "Weasyl": [
-    "weasyl"
-  ],
-  "Webtoon": [
-    "webtoon"
-  ],
-  "Weibo": [
-    "weibo"
-  ],
-  "WhatsApp": [
-    "whatsapp"
-  ],
-  "Wickr": [
-    "wickr"
-  ],
-  "Wikipedia": [
-    "wikipedia"
-  ],
-  "WindGuru": [
-    "windguru"
-  ],
-  "Windows": [
-    "windows"
-  ],
-  "Wix": [
-    "wix"
-  ],
-  "WordPress": [
-    "wordpress"
-  ],
-  "WorldAnvil": [
-    "worldanvil"
-  ],
-  "Wykop": [
-    "wykop"
-  ],
-  "X": [
-    "theplatformformerlyknownastwitter",
-    "unicode-x",
-    "x"
-  ],
-  "Xbox": [
-    "xbox"
-  ],
-  "Xing": [
-    "xing"
-  ],
-  "YTGaming": [
-    "ytgaming",
-    "yt-gaming"
-  ],
-  "Yahoo": [
-    "yahoo"
-  ],
-  "Yammer": [
-    "yammer"
-  ],
-  "Yandex": [
-    "yandex"
-  ],
-  "Yelp": [
-    "yelp"
-  ],
-  "Yooco": [
-    "yooco"
-  ],
-  "YouNow": [
-    "younow"
-  ],
-  "Youtube": [
-    "youtube"
-  ],
-  "Zapier": [
-    "zapier"
-  ],
-  "Zazzle": [
-    "zazzle"
-  ],
-  "Zenius-I-Vanisher": [
-    "zeniusivanisher",
-    "zenius-i-vanisher"
-  ],
-  "Zerply": [
-    "zerply"
-  ],
-  "Zillow": [
-    "zillow"
-  ],
-  "Zomato": [
-    "zomato"
-  ],
-  "Zoom": [
-    "zoom"
-  ],
-  "Zynga": [
-    "zynga"
-  ],
-  "box": [
-    "box"
-  ],
-  "jsr": [
-    "jsr"
-  ],
-  "lobsters": [
-    "lobsters"
-  ],
-  "macOS": [
-    "macos"
-  ],
-  "mixcloud": [
-    "mixcloud"
-  ],
-  "onedev": [
-    "onedev"
-  ],
-  "reCAPTCHA": [
-    "recaptcha",
-    "captcha"
-  ],
-  "sourcehut": [
-    "sourcehut"
-  ]
-} as const;
+export declare const icons: {
+  readonly "4dopt": readonly [ "4dopt" ];
+  readonly "9Gag": readonly [ "9gag" ];
+  readonly "AdobePortfolio": readonly [ "portfolio", "adobeportfolio" ];
+  readonly "Afdian": readonly [ "afdian" ];
+  readonly "AirBnB": readonly [ "airbnb" ];
+  readonly "Alibaba": readonly [ "alibaba" ];
+  readonly "AliExpress": readonly [ "aliexpress" ];
+  readonly "Alliance": readonly [ "alliance" ];
+  readonly "AllMyLinks": readonly [ "allmylinks" ];
+  readonly "Amazon": readonly [ "amazon" ];
+  readonly "Amplement": readonly [ "amplement" ];
+  readonly "Android": readonly [ "android" ];
+  readonly "AngelList": readonly [ "angellist" ];
+  readonly "AngiesList": readonly [ "angieslist" ];
+  readonly "AnimalJam": readonly [ "animaljam" ];
+  readonly "AnimationFramework": readonly [ "animationframework", "theanimationframework" ];
+  readonly "AnimePlanet": readonly [ "animeplanet" ];
+  readonly "AnthroArt": readonly [ "anthroart" ];
+  readonly "Anthrodex": readonly [ "anthrodex" ];
+  readonly "Apple": readonly [ "apple" ];
+  readonly "AppNet": readonly [ "appnet" ];
+  readonly "AppStore": readonly [ "appstore" ];
+  readonly "ArchiveOfOurOwn": readonly [ "archiveofourown" ];
+  readonly "Archiveorg": readonly [ "archive", "archive.org", "archiveorg" ];
+  readonly "ArchLinux": readonly [ "archlinux" ];
+  readonly "Artconomy": readonly [ "artconomy" ];
+  readonly "ArtFight": readonly [ "artfight" ];
+  readonly "Artfol": readonly [ "artfol" ];
+  readonly "ArtHaven": readonly [ "arthaven" ];
+  readonly "Artistree": readonly [ "artistree" ];
+  readonly "ArtStation": readonly [ "artstation" ];
+  readonly "Ask": readonly [ "ask" ];
+  readonly "Atabook": readonly [ "atabook" ];
+  readonly "Augment": readonly [ "augment" ];
+  readonly "Avvo": readonly [ "avvo" ];
+  readonly "Backloggd": readonly [ "backloggd" ];
+  readonly "Baidu": readonly [ "baidu" ];
+  readonly "Bale": readonly [ "bale" ];
+  readonly "BandCamp": readonly [ "bandcamp" ];
+  readonly "Barq": readonly [ "barq" ];
+  readonly "BattleNet": readonly [ "battlenet" ];
+  readonly "Beacons": readonly [ "beacons" ];
+  readonly "BeatPort": readonly [ "beatport" ];
+  readonly "BeBee": readonly [ "bebee" ];
+  readonly "Bebo": readonly [ "bebo" ];
+  readonly "Behance": readonly [ "behance" ];
+  readonly "BigCartel": readonly [ "bigcartel" ];
+  readonly "Bing": readonly [ "bing" ];
+  readonly "BitBucket": readonly [ "bitbucket" ];
+  readonly "Blackberry": readonly [ "blackberry" ];
+  readonly "Blingee": readonly [ "blingee" ];
+  readonly "Blizzard": readonly [ "blizzard" ];
+  readonly "Blogger": readonly [ "blogger" ];
+  readonly "Bloglovin": readonly [ "bloglovin" ];
+  readonly "BlueSky": readonly [ "bluesky", "blue-sky" ];
+  readonly "Bonanza": readonly [ "bonanza" ];
+  readonly "Bookbub": readonly [ "bookbub" ];
+  readonly "Booking": readonly [ "booking" ];
+  readonly "Boosty": readonly [ "boosty" ];
+  readonly "box": readonly [ "box" ];
+  readonly "Buffer": readonly [ "buffer" ];
+  readonly "Bukkit": readonly [ "bukkit" ];
+  readonly "BuyMeACoffee": readonly [ "buymeacoffee" ];
+  readonly "Buzzly": readonly [ "buzzly", "buzzlyart" ];
+  readonly "Calendly": readonly [ "calendly" ];
+  readonly "Cara": readonly [ "cara" ];
+  readonly "Carrd": readonly [ "carrd" ];
+  readonly "CdBaby": readonly [ "cdbaby" ];
+  readonly "CharacterHub": readonly [ "characterhub" ];
+  readonly "ChickenSmoothie": readonly [ "chickensmoothie" ];
+  readonly "Chrome": readonly [ "chrome" ];
+  readonly "Codeberg": readonly [ "codeberg" ];
+  readonly "CodePen": readonly [ "codepen" ];
+  readonly "Codered": readonly [ "codered" ];
+  readonly "CoderWall": readonly [ "coderwall" ];
+  readonly "Cohost": readonly [ "cohost" ];
+  readonly "Collectorz": readonly [ "collectorz" ];
+  readonly "ComicFury": readonly [ "comicfury" ];
+  readonly "Commishes": readonly [ "commishes" ];
+  readonly "CraigsList": readonly [ "craigslist" ];
+  readonly "CrunchBase": readonly [ "crunchbase" ];
+  readonly "Curiouscat": readonly [ "curiouscat" ];
+  readonly "Curse": readonly [ "curse" ];
+  readonly "Dailymotion": readonly [ "dailymotion" ];
+  readonly "Daz3D": readonly [ "daz3d" ];
+  readonly "Debian": readonly [ "debian" ];
+  readonly "Deezer": readonly [ "deezer" ];
+  readonly "Delicious": readonly [ "delicious" ];
+  readonly "Deviantart": readonly [ "deviantart" ];
+  readonly "Diablo": readonly [ "diablo" ];
+  readonly "Dibujando": readonly [ "dibujando" ];
+  readonly "Digg": readonly [ "digg" ];
+  readonly "DigitalOcean": readonly [ "digitalocean", "digital-ocean" ];
+  readonly "Discord": readonly [ "discord" ];
+  readonly "Displate": readonly [ "displate" ];
+  readonly "Disqus": readonly [ "disqus" ];
+  readonly "Dlive": readonly [ "dlive" ];
+  readonly "DNAxCAT": readonly [ "dnaxcat" ];
+  readonly "Donorbox": readonly [ "donorbox" ];
+  readonly "Doodle": readonly [ "doodle" ];
+  readonly "Douban": readonly [ "douban" ];
+  readonly "Draugiem": readonly [ "draugiem" ];
+  readonly "DreamWidth": readonly [ "dreamwidth" ];
+  readonly "Dribbble": readonly [ "dribbble" ];
+  readonly "Dropbox": readonly [ "dropbox" ];
+  readonly "Drupal": readonly [ "drupal" ];
+  readonly "E-Zbio": readonly [ "e-zbio", "ezbio" ];
+  readonly "Ebay": readonly [ "ebay" ];
+  readonly "Eitaa": readonly [ "eitaa" ];
+  readonly "Element": readonly [ "element" ];
+  readonly "ElementaryOS": readonly [ "elementaryos" ];
+  readonly "Ello": readonly [ "ello" ];
+  readonly "Endomodo": readonly [ "endomodo" ];
+  readonly "Envato": readonly [ "envato" ];
+  readonly "Epic": readonly [ "epic", "epicgames" ];
+  readonly "Escargot": readonly [ "escargot" ];
+  readonly "Etsy": readonly [ "etsy" ];
+  readonly "Facebook": readonly [ "facebook" ];
+  readonly "Fanbox": readonly [ "fanbox" ];
+  readonly "Fandom": readonly [ "fandom" ];
+  readonly "FanFiction": readonly [ "fanfiction" ];
+  readonly "Fanlore": readonly [ "fanlore" ];
+  readonly "Fantia": readonly [ "fantia" ];
+  readonly "Fediverse": readonly [ "fediverse" ];
+  readonly "FeedBurner": readonly [ "feedburner" ];
+  readonly "Fenrecs": readonly [ "fenrecs" ];
+  readonly "Filegarden": readonly [ "filegarden" ];
+  readonly "FilmFreeway": readonly [ "filmfreeway" ];
+  readonly "FilmWeb": readonly [ "filmweb" ];
+  readonly "Firefox": readonly [ "firefox" ];
+  readonly "Fiverr": readonly [ "fiverr" ];
+  readonly "Flash": readonly [ "flash" ];
+  readonly "Flattr": readonly [ "flattr" ];
+  readonly "Flickr": readonly [ "flickr" ];
+  readonly "FlightRising": readonly [ "flightrising" ];
+  readonly "FlipBoard": readonly [ "flipboard" ];
+  readonly "Flipnote": readonly [ "flipnote" ];
+  readonly "FlowCode": readonly [ "flowcode", "flowpage" ];
+  readonly "Forgejo": readonly [ "forgejo" ];
+  readonly "Formulr": readonly [ "formulr" ];
+  readonly "Forrst": readonly [ "forrst" ];
+  readonly "FourSquare": readonly [ "foursquare" ];
+  readonly "Freelancer": readonly [ "freelancer" ];
+  readonly "FriendFeed": readonly [ "friendfeed" ];
+  readonly "FriendlyCaptcha": readonly [ "friendlycaptcha" ];
+  readonly "Fundable": readonly [ "fundable" ];
+  readonly "FurAffinity": readonly [ "furaffinity" ];
+  readonly "FurryNetwork": readonly [ "furrynetwork" ];
+  readonly "FurryPaws": readonly [ "furrypaws", "furry-paws" ];
+  readonly "Furtastic": readonly [ "furtastic" ];
+  readonly "Furvilla": readonly [ "furvilla" ];
+  readonly "Fyuse": readonly [ "fyuse" ];
+  readonly "GaiaOnline": readonly [ "gaiaonline" ];
+  readonly "Gamebanana": readonly [ "gamebanana" ];
+  readonly "GameFor": readonly [ "gamefor" ];
+  readonly "GameJolt": readonly [ "gamejolt" ];
+  readonly "GameWisp": readonly [ "gamewisp" ];
+  readonly "Genius": readonly [ "genius" ];
+  readonly "Ghost": readonly [ "ghost" ];
+  readonly "Git": readonly [ "git" ];
+  readonly "Gitea": readonly [ "gitea" ];
+  readonly "GitHub": readonly [ "github" ];
+  readonly "Gitlab": readonly [ "gitlab" ];
+  readonly "Gitter": readonly [ "gitter" ];
+  readonly "Glaze": readonly [ "glaze" ];
+  readonly "GlobalComix": readonly [ "globalcomix" ];
+  readonly "Gnome": readonly [ "gnome" ];
+  readonly "Goatlings": readonly [ "goatlings" ];
+  readonly "GoFundMe": readonly [ "gofundme" ];
+  readonly "GOG": readonly [ "gog" ];
+  readonly "Gogs": readonly [ "gogs" ];
+  readonly "GoodReads": readonly [ "goodreads" ];
+  readonly "Google": readonly [ "google" ];
+  readonly "GoogleCalendar": readonly [ "googlecalendar" ];
+  readonly "GoogleDrive": readonly [ "googledrive" ];
+  readonly "GoogleGroups": readonly [ "googlegroups" ];
+  readonly "GoogleHangouts": readonly [ "googlehangouts" ];
+  readonly "GoogleMaps": readonly [ "googlemaps" ];
+  readonly "GooglePhotos": readonly [ "googlephotos" ];
+  readonly "GooglePlayMusic": readonly [ "googleplaymusic" ];
+  readonly "GooglePlus": readonly [ "googleplus" ];
+  readonly "GoogleScholar": readonly [ "googlescholar", "scholar" ];
+  readonly "GoToMeeting": readonly [ "gotomeeting" ];
+  readonly "GrooveShark": readonly [ "grooveshark" ];
+  readonly "GrundosCafe": readonly [ "grundoscafe" ];
+  readonly "Guilded": readonly [ "guilded" ];
+  readonly "Gumroad": readonly [ "gumroad" ];
+  readonly "Guru": readonly [ "guru" ];
+  readonly "Gust": readonly [ "gust" ];
+  readonly "HackerNews": readonly [ "hackernews" ];
+  readonly "HackerOne": readonly [ "hackerone" ];
+  readonly "HackerRank": readonly [ "hackerrank" ];
+  readonly "HearthStone": readonly [ "hearthstone" ];
+  readonly "Hellocoton": readonly [ "hellocoton" ];
+  readonly "Heroes": readonly [ "heroes" ];
+  readonly "Hipolink": readonly [ "hipolink" ];
+  readonly "HomeAdvisor": readonly [ "homeadvisor" ];
+  readonly "Homefy": readonly [ "homefy" ];
+  readonly "Homes": readonly [ "homes" ];
+  readonly "Horde": readonly [ "horde" ];
+  readonly "Houzz": readonly [ "houzz" ];
+  readonly "Hypixel": readonly [ "hypixel" ];
+  readonly "IbisPaint": readonly [ "ibispaint" ];
+  readonly "Icq": readonly [ "icq" ];
+  readonly "Identica": readonly [ "identica" ];
+  readonly "IMDb": readonly [ "imdb" ];
+  readonly "Imgur": readonly [ "imgur" ];
+  readonly "IndieDB": readonly [ "indiedb" ];
+  readonly "Inkblot": readonly [ "inkblot" ];
+  readonly "InkBunny": readonly [ "inkbunny" ];
+  readonly "Inkitt": readonly [ "inkitt" ];
+  readonly "Instagram": readonly [ "instagram" ];
+  readonly "Instructables": readonly [ "instructables" ];
+  readonly "Internet": readonly [ "internet" ];
+  readonly "Invision": readonly [ "invision" ];
+  readonly "Issuu": readonly [ "issuu" ];
+  readonly "Istock": readonly [ "istock" ];
+  readonly "Itaku": readonly [ "itaku" ];
+  readonly "Itchio": readonly [ "itchio" ];
+  readonly "Itunes": readonly [ "itunes" ];
+  readonly "Jamendo": readonly [ "jamendo" ];
+  readonly "jsr": readonly [ "jsr" ];
+  readonly "Juxt": readonly [ "juxt" ];
+  readonly "KakaoTalk": readonly [ "kakaotalk" ];
+  readonly "KeyBase": readonly [ "keybase" ];
+  readonly "Kickstarter": readonly [ "kickstarter" ];
+  readonly "Kitsu": readonly [ "kitsu" ];
+  readonly "Ko-Fi": readonly [ "kofi", "ko-fi" ];
+  readonly "Kobo": readonly [ "kobo" ];
+  readonly "KomiMart": readonly [ "komimart" ];
+  readonly "Koo": readonly [ "koo" ];
+  readonly "Lanyrd": readonly [ "lanyrd" ];
+  readonly "LastFM": readonly [ "lastfm" ];
+  readonly "LeprdSpace": readonly [ "leprdspace", "leprd.space" ];
+  readonly "LetterBoxd": readonly [ "letterboxd" ];
+  readonly "LiberaPay": readonly [ "liberapay" ];
+  readonly "Line": readonly [ "line" ];
+  readonly "Link": readonly [ "link" ];
+  readonly "LinkedIn": readonly [ "linkedin" ];
+  readonly "LinkStack": readonly [ "linkstack" ];
+  readonly "Linktree": readonly [ "linktree" ];
+  readonly "LinuxMint": readonly [ "linuxmint" ];
+  readonly "Lioden": readonly [ "lioden" ];
+  readonly "LiveJournal": readonly [ "livejournal" ];
+  readonly "LiveMaster": readonly [ "livemaster" ];
+  readonly "lobsters": readonly [ "lobsters" ];
+  readonly "LogMeIn": readonly [ "logmein" ];
+  readonly "Loomly": readonly [ "loomly" ];
+  readonly "Lyft": readonly [ "lyft" ];
+  readonly "macOS": readonly [ "macos" ];
+  readonly "Mail": readonly [ "mail" ];
+  readonly "Mailru": readonly [ "mailru" ];
+  readonly "MakeShip": readonly [ "makeship" ];
+  readonly "Mastodon": readonly [ "mastodon" ];
+  readonly "Matrix": readonly [ "matrix" ];
+  readonly "MediaWiki": readonly [ "mediawiki" ];
+  readonly "Medium": readonly [ "medium" ];
+  readonly "Meetup": readonly [ "meetup" ];
+  readonly "Messenger": readonly [ "messenger" ];
+  readonly "Metapop": readonly [ "metapop" ];
+  readonly "Microsoft": readonly [ "microsoft" ];
+  readonly "Minecraft": readonly [ "minecraft" ];
+  readonly "MissKey": readonly [ "misskey" ];
+  readonly "Mix": readonly [ "mix" ];
+  readonly "mixcloud": readonly [ "mixcloud" ];
+  readonly "Mixer": readonly [ "mixer" ];
+  readonly "MobCrush": readonly [ "mobcrush" ];
+  readonly "Moddb": readonly [ "moddb" ];
+  readonly "ModelMayhem": readonly [ "modelmayhem" ];
+  readonly "ModerNeopets": readonly [ "moderneopets", "modernneopets" ];
+  readonly "Modrinth": readonly [ "modrinth" ];
+  readonly "Mumble": readonly [ "mumble" ];
+  readonly "MyAnimeList": readonly [ "myanimelist" ];
+  readonly "MySpace": readonly [ "myspace" ];
+  readonly "NameMC": readonly [ "namemc" ];
+  readonly "NamiComi": readonly [ "namicomi" ];
+  readonly "NaNoWriMo": readonly [ "nanowrimo" ];
+  readonly "Napster": readonly [ "napster" ];
+  readonly "Natgeo": readonly [ "natgeo" ];
+  readonly "Naver": readonly [ "naver" ];
+  readonly "Nekoweb": readonly [ "nekoweb" ];
+  readonly "Neocities": readonly [ "neocities" ];
+  readonly "Neopets": readonly [ "neopets" ];
+  readonly "Newgrounds": readonly [ "newgrounds" ];
+  readonly "NewsVine": readonly [ "newsvine" ];
+  readonly "Nextdoor": readonly [ "nextdoor" ];
+  readonly "NexusMods": readonly [ "nexus", "nexusmods" ];
+  readonly "Niconico": readonly [ "niconico" ];
+  readonly "Nintendo": readonly [ "nintendo" ];
+  readonly "Npm": readonly [ "npm" ];
+  readonly "NuzlockeForums": readonly [ "nuzlockeforums" ];
+  readonly "Odnoklassniki": readonly [ "odnoklassniki" ];
+  readonly "onedev": readonly [ "onedev" ];
+  readonly "OpenCollective": readonly [ "opencollective" ];
+  readonly "OpenGameArt": readonly [ "opengameart" ];
+  readonly "OpenWorkbook": readonly [ "openworkbook" ];
+  readonly "Opera": readonly [ "opera" ];
+  readonly "Origin": readonly [ "origin" ];
+  readonly "Outlook": readonly [ "outlook" ];
+  readonly "Overwatch": readonly [ "overwatch" ];
+  readonly "Pandora": readonly [ "pandora" ];
+  readonly "PaperDemon": readonly [ "paperdemon" ];
+  readonly "PaperMC": readonly [ "papermc" ];
+  readonly "Patreon": readonly [ "patreon" ];
+  readonly "Paypal": readonly [ "paypal" ];
+  readonly "Periscope": readonly [ "periscope" ];
+  readonly "Persona": readonly [ "persona" ];
+  readonly "Picarto": readonly [ "picarto" ];
+  readonly "Piczel": readonly [ "piczel" ];
+  readonly "PillowFort": readonly [ "pillowfort" ];
+  readonly "Pinterest": readonly [ "pinterest" ];
+  readonly "Pixilart": readonly [ "pixilart" ];
+  readonly "Pixiv": readonly [ "pixiv" ];
+  readonly "Plancke": readonly [ "plancke" ];
+  readonly "Play": readonly [ "play" ];
+  readonly "Player": readonly [ "player" ];
+  readonly "PlayStation": readonly [ "playstation" ];
+  readonly "Plurk": readonly [ "plurk" ];
+  readonly "Pocket": readonly [ "pocket" ];
+  readonly "Polar": readonly [ "polar" ];
+  readonly "Printables": readonly [ "printables" ];
+  readonly "Pronounscc": readonly [ "pronounscc" ];
+  readonly "PronounsPage": readonly [ "pronounspage" ];
+  readonly "Pronouny": readonly [ "pronouny" ];
+  readonly "Px": readonly [ "500px" ];
+  readonly "Qobuz": readonly [ "qobuz" ];
+  readonly "Qq": readonly [ "qq" ];
+  readonly "QRcode": readonly [ "qrcode" ];
+  readonly "Quora": readonly [ "quora" ];
+  readonly "Quotev": readonly [ "quotev" ];
+  readonly "RaidCall": readonly [ "raidcall" ];
+  readonly "RateYourMusic": readonly [ "rateyourmusic" ];
+  readonly "Ravelry": readonly [ "ravelry" ];
+  readonly "Realtor": readonly [ "realtor" ];
+  readonly "reCAPTCHA": readonly [ "recaptcha", "captcha" ];
+  readonly "RedBubble": readonly [ "redbubble" ];
+  readonly "Reddit": readonly [ "reddit" ];
+  readonly "Redfin": readonly [ "redfin" ];
+  readonly "RefSheet": readonly [ "refsheet" ];
+  readonly "Remote": readonly [ "remote" ];
+  readonly "Renderosity": readonly [ "renderosity" ];
+  readonly "Renren": readonly [ "renren" ];
+  readonly "Rentry": readonly [ "rentry" ];
+  readonly "ResearchGate": readonly [ "researchgate" ];
+  readonly "ResidentAdvisor": readonly [ "residentadvisor" ];
+  readonly "RetroAchievements": readonly [ "retroachievements" ];
+  readonly "Retrospring": readonly [ "retrospring" ];
+  readonly "ReverbNation": readonly [ "reverbnation" ];
+  readonly "Roblox": readonly [ "roblox" ];
+  readonly "RSS": readonly [ "rss" ];
+  readonly "Santae": readonly [ "santae" ];
+  readonly "Scratch": readonly [ "scratch" ];
+  readonly "Seedrs": readonly [ "seedrs" ];
+  readonly "SeenThis": readonly [ "seenthis" ];
+  readonly "Session": readonly [ "session" ];
+  readonly "SharePoint": readonly [ "sharepoint" ];
+  readonly "ShareThis": readonly [ "sharethis" ];
+  readonly "SheezyArt": readonly [ "sheezyart", "sheezy-art", "sheezy" ];
+  readonly "Shopify": readonly [ "shopify" ];
+  readonly "Side7": readonly [ "side7" ];
+  readonly "Signal": readonly [ "signal" ];
+  readonly "Skeb": readonly [ "skeb" ];
+  readonly "SketchersUnited": readonly [ "sketchersunited" ];
+  readonly "SketchFab": readonly [ "sketchfab" ];
+  readonly "Skype": readonly [ "skype" ];
+  readonly "Slack": readonly [ "slack" ];
+  readonly "SlideShare": readonly [ "slideshare" ];
+  readonly "SmashCast": readonly [ "smashcast" ];
+  readonly "SmashWords": readonly [ "smashwords" ];
+  readonly "SmugMug": readonly [ "smugmug" ];
+  readonly "SnapChat": readonly [ "snapchat" ];
+  readonly "Society6": readonly [ "society6" ];
+  readonly "SoFurry": readonly [ "sofurry" ];
+  readonly "Soloto": readonly [ "soloto" ];
+  readonly "SongKick": readonly [ "songkick" ];
+  readonly "Soroush": readonly [ "soroush" ];
+  readonly "SoundCloud": readonly [ "soundcloud" ];
+  readonly "sourcehut": readonly [ "sourcehut" ];
+  readonly "SpaceHey": readonly [ "spacehey" ];
+  readonly "Spigot": readonly [ "spigot" ];
+  readonly "Spip": readonly [ "spip" ];
+  readonly "Splice": readonly [ "splice" ];
+  readonly "Sporcle": readonly [ "sporcle" ];
+  readonly "Spotify": readonly [ "spotify" ];
+  readonly "SpreadShirt": readonly [ "spreadshirt" ];
+  readonly "SquareSpace": readonly [ "squarespace" ];
+  readonly "SquidgeWorld": readonly [ "squidgeworld" ];
+  readonly "StackExchange": readonly [ "stackexchange" ];
+  readonly "StackOverflow": readonly [ "stackoverflow" ];
+  readonly "Stage32": readonly [ "stage32" ];
+  readonly "StarCraft": readonly [ "starcraft" ];
+  readonly "StayFriends": readonly [ "stayfriends" ];
+  readonly "Steam": readonly [ "steam" ];
+  readonly "SteamDB": readonly [ "steamdb" ];
+  readonly "Stitcher": readonly [ "stitcher" ];
+  readonly "StoreHouse": readonly [ "storehouse" ];
+  readonly "Storenvy": readonly [ "storenvy" ];
+  readonly "StoryGraph": readonly [ "storygraph" ];
+  readonly "Strava": readonly [ "strava" ];
+  readonly "StrawPage": readonly [ "strawpage" ];
+  readonly "StreamJar": readonly [ "streamjar" ];
+  readonly "Stripe": readonly [ "stripe" ];
+  readonly "StrudelCafe": readonly [ "strudelcafe", "strudel-cafe" ];
+  readonly "StumbleUpon": readonly [ "stumbleupon" ];
+  readonly "Subeta": readonly [ "subeta" ];
+  readonly "SubscribeStar": readonly [ "subscribestar" ];
+  readonly "Sudomemo": readonly [ "sudomemo" ];
+  readonly "Swarm": readonly [ "swarm" ];
+  readonly "Tapas": readonly [ "tapas" ];
+  readonly "TeamSpeak": readonly [ "teamspeak" ];
+  readonly "TeamViewer": readonly [ "teamviewer" ];
+  readonly "Technic": readonly [ "technic" ];
+  readonly "Technorati": readonly [ "technorati" ];
+  readonly "Teepublic": readonly [ "teepublic" ];
+  readonly "Teespring": readonly [ "teespring" ];
+  readonly "Telegram": readonly [ "telegram" ];
+  readonly "Thingiverse": readonly [ "thingiverse" ];
+  readonly "Threads": readonly [ "threads" ];
+  readonly "Threema": readonly [ "threema" ];
+  readonly "Throne": readonly [ "throne" ];
+  readonly "Tidal": readonly [ "tidal" ];
+  readonly "TiddlyWiki": readonly [ "tiddlywiki" ];
+  readonly "Tiktok": readonly [ "tiktok" ];
+  readonly "Tinder": readonly [ "tinder" ];
+  readonly "ToneDen": readonly [ "toneden" ];
+  readonly "Toptal": readonly [ "toptal" ];
+  readonly "Torial": readonly [ "torial" ];
+  readonly "ToyHouse": readonly [ "toyhouse" ];
+  readonly "Tracks": readonly [ "8tracks" ];
+  readonly "TraxSource": readonly [ "traxsource" ];
+  readonly "Trello": readonly [ "trello" ];
+  readonly "TripAdvisor": readonly [ "tripadvisor" ];
+  readonly "Tripit": readonly [ "tripit" ];
+  readonly "TripleJ": readonly [ "triplej" ];
+  readonly "Trulia": readonly [ "trulia" ];
+  readonly "Tumblr": readonly [ "tumblr" ];
+  readonly "TuneIn": readonly [ "tunein" ];
+  readonly "Twitch": readonly [ "twitch" ];
+  readonly "Twitter": readonly [ "twitter", "x-twitter", "twitter-x" ];
+  readonly "Uber": readonly [ "uber" ];
+  readonly "Ubuntu": readonly [ "ubuntu" ];
+  readonly "Udemy": readonly [ "udemy" ];
+  readonly "UnSplash": readonly [ "unsplash" ];
+  readonly "UnVale": readonly [ "unvale" ];
+  readonly "UpWork": readonly [ "upwork" ];
+  readonly "Ventrilo": readonly [ "ventrilo" ];
+  readonly "VGen": readonly [ "vgen" ];
+  readonly "Viadeo": readonly [ "viadeo" ];
+  readonly "Viber": readonly [ "viber" ];
+  readonly "ViewBug": readonly [ "viewbug" ];
+  readonly "Vimeo": readonly [ "vimeo" ];
+  readonly "Vkontakte": readonly [ "vkontakte" ];
+  readonly "VRChat": readonly [ "vrchat" ];
+  readonly "Vsco": readonly [ "vsco" ];
+  readonly "VStream": readonly [ "vstream" ];
+  readonly "Warcraft": readonly [ "warcraft" ];
+  readonly "Wattpad": readonly [ "wattpad" ];
+  readonly "Wavebox": readonly [ "wavebox" ];
+  readonly "Weasyl": readonly [ "weasyl" ];
+  readonly "Webtoon": readonly [ "webtoon" ];
+  readonly "WeChat": readonly [ "wechat" ];
+  readonly "Weibo": readonly [ "weibo" ];
+  readonly "WhatsApp": readonly [ "whatsapp" ];
+  readonly "Wickr": readonly [ "wickr" ];
+  readonly "Wikipedia": readonly [ "wikipedia" ];
+  readonly "WindGuru": readonly [ "windguru" ];
+  readonly "Windows": readonly [ "windows" ];
+  readonly "Wix": readonly [ "wix" ];
+  readonly "WordPress": readonly [ "wordpress" ];
+  readonly "WorldAnvil": readonly [ "worldanvil" ];
+  readonly "Wykop": readonly [ "wykop" ];
+  readonly "X": readonly [ "theplatformformerlyknownastwitter", "unicode-x", "x" ];
+  readonly "Xbox": readonly [ "xbox" ];
+  readonly "Xing": readonly [ "xing" ];
+  readonly "Yahoo": readonly [ "yahoo" ];
+  readonly "Yammer": readonly [ "yammer" ];
+  readonly "Yandex": readonly [ "yandex" ];
+  readonly "Yelp": readonly [ "yelp" ];
+  readonly "Yooco": readonly [ "yooco" ];
+  readonly "YouNow": readonly [ "younow" ];
+  readonly "Youtube": readonly [ "youtube" ];
+  readonly "YTGaming": readonly [ "ytgaming", "yt-gaming" ];
+  readonly "Zapier": readonly [ "zapier" ];
+  readonly "Zazzle": readonly [ "zazzle" ];
+  readonly "Zenius-I-Vanisher": readonly [ "zeniusivanisher", "zenius-i-vanisher" ];
+  readonly "Zerply": readonly [ "zerply" ];
+  readonly "Zillow": readonly [ "zillow" ];
+  readonly "Zomato": readonly [ "zomato" ];
+  readonly "Zoom": readonly [ "zoom" ];
+  readonly "Zynga": readonly [ "zynga" ];
+};

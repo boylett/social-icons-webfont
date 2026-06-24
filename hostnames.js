@@ -1,8 +1,8 @@
 /**
- * Icons are listed with their display name as the key, and a list of applicable hostnames as the value.
+ * Hostnames are listed with their display icon name as the key, and a list of associated domains as the value
  *
  * @example
- * hostnames.Twitter // [ "twitter.com", "x.com" ]
+ * hostnames.Twitter // [ "twitter.com" ]
  */
 export const hostnames = {
   "4dopt": [

@@ -1,5 +1,5 @@
 /**
- * Icons are listed with their display name as the key, and a list of applicable ligatures as the value.
+ * Icons are listed with their display name as the key, and a list of applicable ligatures as the value
  *
  * @example
  * icons.Twitter // [ "twitter", "x-twitter", "twitter-x" ]
@@ -21,17 +21,17 @@ export const icons = {
   "AirBnB": [
     "airbnb"
   ],
-  "AliExpress": [
-    "aliexpress"
-  ],
   "Alibaba": [
     "alibaba"
   ],
-  "AllMyLinks": [
-    "allmylinks"
+  "AliExpress": [
+    "aliexpress"
   ],
   "Alliance": [
     "alliance"
+  ],
+  "AllMyLinks": [
+    "allmylinks"
   ],
   "Amazon": [
     "amazon"
@@ -64,17 +64,14 @@ export const icons = {
   "Anthrodex": [
     "anthrodex"
   ],
+  "Apple": [
+    "apple"
+  ],
   "AppNet": [
     "appnet"
   ],
   "AppStore": [
     "appstore"
-  ],
-  "Apple": [
-    "apple"
-  ],
-  "ArchLinux": [
-    "archlinux"
   ],
   "ArchiveOfOurOwn": [
     "archiveofourown"
@@ -84,23 +81,26 @@ export const icons = {
     "archive.org",
     "archiveorg"
   ],
-  "ArtFight": [
-    "artfight"
-  ],
-  "ArtHaven": [
-    "arthaven"
-  ],
-  "ArtStation": [
-    "artstation"
+  "ArchLinux": [
+    "archlinux"
   ],
   "Artconomy": [
     "artconomy"
   ],
+  "ArtFight": [
+    "artfight"
+  ],
   "Artfol": [
     "artfol"
   ],
+  "ArtHaven": [
+    "arthaven"
+  ],
   "Artistree": [
     "artistree"
+  ],
+  "ArtStation": [
+    "artstation"
   ],
   "Ask": [
     "ask"
@@ -132,14 +132,14 @@ export const icons = {
   "BattleNet": [
     "battlenet"
   ],
-  "BeBee": [
-    "bebee"
-  ],
   "Beacons": [
     "beacons"
   ],
   "BeatPort": [
     "beatport"
+  ],
+  "BeBee": [
+    "bebee"
   ],
   "Bebo": [
     "bebo"
@@ -187,6 +187,9 @@ export const icons = {
   "Boosty": [
     "boosty"
   ],
+  "box": [
+    "box"
+  ],
   "Buffer": [
     "buffer"
   ],
@@ -221,17 +224,17 @@ export const icons = {
   "Chrome": [
     "chrome"
   ],
-  "CodePen": [
-    "codepen"
-  ],
   "Codeberg": [
     "codeberg"
   ],
-  "CoderWall": [
-    "coderwall"
+  "CodePen": [
+    "codepen"
   ],
   "Codered": [
     "codered"
+  ],
+  "CoderWall": [
+    "coderwall"
   ],
   "Cohost": [
     "cohost"
@@ -256,9 +259,6 @@ export const icons = {
   ],
   "Curse": [
     "curse"
-  ],
-  "DNAxCAT": [
-    "dnaxcat"
   ],
   "Dailymotion": [
     "dailymotion"
@@ -302,6 +302,9 @@ export const icons = {
   ],
   "Dlive": [
     "dlive"
+  ],
+  "DNAxCAT": [
+    "dnaxcat"
   ],
   "Donorbox": [
     "donorbox"
@@ -365,14 +368,14 @@ export const icons = {
   "Facebook": [
     "facebook"
   ],
-  "FanFiction": [
-    "fanfiction"
-  ],
   "Fanbox": [
     "fanbox"
   ],
   "Fandom": [
     "fandom"
+  ],
+  "FanFiction": [
+    "fanfiction"
   ],
   "Fanlore": [
     "fanlore"
@@ -469,11 +472,11 @@ export const icons = {
   "Fyuse": [
     "fyuse"
   ],
-  "GOG": [
-    "gog"
-  ],
   "GaiaOnline": [
     "gaiaonline"
+  ],
+  "Gamebanana": [
+    "gamebanana"
   ],
   "GameFor": [
     "gamefor"
@@ -484,9 +487,6 @@ export const icons = {
   "GameWisp": [
     "gamewisp"
   ],
-  "Gamebanana": [
-    "gamebanana"
-  ],
   "Genius": [
     "genius"
   ],
@@ -496,11 +496,11 @@ export const icons = {
   "Git": [
     "git"
   ],
-  "GitHub": [
-    "github"
-  ],
   "Gitea": [
     "gitea"
+  ],
+  "GitHub": [
+    "github"
   ],
   "Gitlab": [
     "gitlab"
@@ -517,14 +517,14 @@ export const icons = {
   "Gnome": [
     "gnome"
   ],
+  "Goatlings": [
+    "goatlings"
+  ],
   "GoFundMe": [
     "gofundme"
   ],
-  "GoToMeeting": [
-    "gotomeeting"
-  ],
-  "Goatlings": [
-    "goatlings"
+  "GOG": [
+    "gog"
   ],
   "Gogs": [
     "gogs"
@@ -562,6 +562,9 @@ export const icons = {
   "GoogleScholar": [
     "googlescholar",
     "scholar"
+  ],
+  "GoToMeeting": [
+    "gotomeeting"
   ],
   "GrooveShark": [
     "grooveshark"
@@ -620,9 +623,6 @@ export const icons = {
   "Hypixel": [
     "hypixel"
   ],
-  "IMDb": [
-    "imdb"
-  ],
   "IbisPaint": [
     "ibispaint"
   ],
@@ -632,17 +632,20 @@ export const icons = {
   "Identica": [
     "identica"
   ],
+  "IMDb": [
+    "imdb"
+  ],
   "Imgur": [
     "imgur"
   ],
   "IndieDB": [
     "indiedb"
   ],
-  "InkBunny": [
-    "inkbunny"
-  ],
   "Inkblot": [
     "inkblot"
+  ],
+  "InkBunny": [
+    "inkbunny"
   ],
   "Inkitt": [
     "inkitt"
@@ -676,6 +679,9 @@ export const icons = {
   ],
   "Jamendo": [
     "jamendo"
+  ],
+  "jsr": [
+    "jsr"
   ],
   "Juxt": [
     "juxt"
@@ -727,11 +733,11 @@ export const icons = {
   "Link": [
     "link"
   ],
-  "LinkStack": [
-    "linkstack"
-  ],
   "LinkedIn": [
     "linkedin"
+  ],
+  "LinkStack": [
+    "linkstack"
   ],
   "Linktree": [
     "linktree"
@@ -748,6 +754,9 @@ export const icons = {
   "LiveMaster": [
     "livemaster"
   ],
+  "lobsters": [
+    "lobsters"
+  ],
   "LogMeIn": [
     "logmein"
   ],
@@ -756,6 +765,9 @@ export const icons = {
   ],
   "Lyft": [
     "lyft"
+  ],
+  "macOS": [
+    "macos"
   ],
   "Mail": [
     "mail"
@@ -799,6 +811,9 @@ export const icons = {
   "Mix": [
     "mix"
   ],
+  "mixcloud": [
+    "mixcloud"
+  ],
   "Mixer": [
     "mixer"
   ],
@@ -827,14 +842,14 @@ export const icons = {
   "MySpace": [
     "myspace"
   ],
-  "NaNoWriMo": [
-    "nanowrimo"
-  ],
   "NameMC": [
     "namemc"
   ],
   "NamiComi": [
     "namicomi"
+  ],
+  "NaNoWriMo": [
+    "nanowrimo"
   ],
   "Napster": [
     "napster"
@@ -881,6 +896,9 @@ export const icons = {
   ],
   "Odnoklassniki": [
     "odnoklassniki"
+  ],
+  "onedev": [
+    "onedev"
   ],
   "OpenCollective": [
     "opencollective"
@@ -948,11 +966,11 @@ export const icons = {
   "Play": [
     "play"
   ],
-  "PlayStation": [
-    "playstation"
-  ],
   "Player": [
     "player"
+  ],
+  "PlayStation": [
+    "playstation"
   ],
   "Plurk": [
     "plurk"
@@ -966,11 +984,11 @@ export const icons = {
   "Printables": [
     "printables"
   ],
-  "PronounsPage": [
-    "pronounspage"
-  ],
   "Pronounscc": [
     "pronounscc"
+  ],
+  "PronounsPage": [
+    "pronounspage"
   ],
   "Pronouny": [
     "pronouny"
@@ -978,23 +996,20 @@ export const icons = {
   "Px": [
     "500px"
   ],
-  "QRcode": [
-    "qrcode"
-  ],
   "Qobuz": [
     "qobuz"
   ],
   "Qq": [
     "qq"
   ],
+  "QRcode": [
+    "qrcode"
+  ],
   "Quora": [
     "quora"
   ],
   "Quotev": [
     "quotev"
-  ],
-  "RSS": [
-    "rss"
   ],
   "RaidCall": [
     "raidcall"
@@ -1007,6 +1022,10 @@ export const icons = {
   ],
   "Realtor": [
     "realtor"
+  ],
+  "reCAPTCHA": [
+    "recaptcha",
+    "captcha"
   ],
   "RedBubble": [
     "redbubble"
@@ -1050,6 +1069,9 @@ export const icons = {
   "Roblox": [
     "roblox"
   ],
+  "RSS": [
+    "rss"
+  ],
   "Santae": [
     "santae"
   ],
@@ -1088,11 +1110,11 @@ export const icons = {
   "Skeb": [
     "skeb"
   ],
-  "SketchFab": [
-    "sketchfab"
-  ],
   "SketchersUnited": [
     "sketchersunited"
+  ],
+  "SketchFab": [
+    "sketchfab"
   ],
   "Skype": [
     "skype"
@@ -1115,11 +1137,11 @@ export const icons = {
   "SnapChat": [
     "snapchat"
   ],
-  "SoFurry": [
-    "sofurry"
-  ],
   "Society6": [
     "society6"
+  ],
+  "SoFurry": [
+    "sofurry"
   ],
   "Soloto": [
     "soloto"
@@ -1132,6 +1154,9 @@ export const icons = {
   ],
   "SoundCloud": [
     "soundcloud"
+  ],
+  "sourcehut": [
+    "sourcehut"
   ],
   "SpaceHey": [
     "spacehey"
@@ -1337,17 +1362,11 @@ export const icons = {
   "UpWork": [
     "upwork"
   ],
-  "VGen": [
-    "vgen"
-  ],
-  "VRChat": [
-    "vrchat"
-  ],
-  "VStream": [
-    "vstream"
-  ],
   "Ventrilo": [
     "ventrilo"
+  ],
+  "VGen": [
+    "vgen"
   ],
   "Viadeo": [
     "viadeo"
@@ -1364,8 +1383,14 @@ export const icons = {
   "Vkontakte": [
     "vkontakte"
   ],
+  "VRChat": [
+    "vrchat"
+  ],
   "Vsco": [
     "vsco"
+  ],
+  "VStream": [
+    "vstream"
   ],
   "Warcraft": [
     "warcraft"
@@ -1376,14 +1401,14 @@ export const icons = {
   "Wavebox": [
     "wavebox"
   ],
-  "WeChat": [
-    "wechat"
-  ],
   "Weasyl": [
     "weasyl"
   ],
   "Webtoon": [
     "webtoon"
+  ],
+  "WeChat": [
+    "wechat"
   ],
   "Weibo": [
     "weibo"
@@ -1426,10 +1451,6 @@ export const icons = {
   "Xing": [
     "xing"
   ],
-  "YTGaming": [
-    "ytgaming",
-    "yt-gaming"
-  ],
   "Yahoo": [
     "yahoo"
   ],
@@ -1450,6 +1471,10 @@ export const icons = {
   ],
   "Youtube": [
     "youtube"
+  ],
+  "YTGaming": [
+    "ytgaming",
+    "yt-gaming"
   ],
   "Zapier": [
     "zapier"
@@ -1475,30 +1500,5 @@ export const icons = {
   ],
   "Zynga": [
     "zynga"
-  ],
-  "box": [
-    "box"
-  ],
-  "jsr": [
-    "jsr"
-  ],
-  "lobsters": [
-    "lobsters"
-  ],
-  "macOS": [
-    "macos"
-  ],
-  "mixcloud": [
-    "mixcloud"
-  ],
-  "onedev": [
-    "onedev"
-  ],
-  "reCAPTCHA": [
-    "recaptcha",
-    "captcha"
-  ],
-  "sourcehut": [
-    "sourcehut"
   ]
 };
